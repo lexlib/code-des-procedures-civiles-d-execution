@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2012-06-01
+Version Consolidée au 2012-09-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -6459,10 +6459,20 @@ _Créé par_:
 ###### Article R162-1
 
 Pour l'application de l'article L. 162-1, en cas de diminution des sommes rendues indisponibles, l'établissement doit fournir
-un relevé de toutes les opérations qui ont affecté les comptes depuis le jour de la saisie inclusivement.
+un relevé de toutes les opérations qui ont affecté les comptes depuis le jour de la saisie inclusivement. 
 
 Ce relevé d'opérations est communiqué par lettre recommandée avec demande d'avis de réception au créancier saisissant au plus
-tard huit jours après l'expiration du délai de contre-passation.
+tard huit jours après l'expiration du délai de contre-passation. 
+
+Sous réserve des dispositions de l'article 748-7 du code de procédure civile, si l'acte de saisie est signifié par voie
+électronique, le tiers saisi communique le relevé par voie électronique dans ce même délai.
+
+**Nota:**
+
+Conformément à l'article 13 du décret n° 2012-783 du 30 mai 2012 les dispositions de l'article R. 162-1 entrent en vigueur à
+compter de la publication de l'arrêté du garde des sceaux, ministre de la justice, définissant, en application de l'article
+748-6 du code de procédure civile, les garanties que doivent présenter les procédés utilisés par les huissiers de justice
+pour signifier les actes par voie électronique et au plus tard le 1er septembre 2012.
 
 **Liens relatifs à cet article**
 
@@ -6475,9 +6485,14 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2012-783 du 30 mai 2012 - art. 13
+
+_Cite_:
+
+  - Code de procédure civile - art. 748-7
+  - Code des procédures civiles d'exécution - art. L162-1 (V)
 
 _Cité par_:
 
@@ -6860,24 +6875,32 @@ _Cite_:
 
 ###### Article R211-3
 
-A peine de caducité, la saisie est dénoncée au débiteur par acte d'huissier de justice dans un délai de huit jours.
+A peine de caducité, la saisie est dénoncée au débiteur par acte d'huissier de justice dans un délai de huit jours. 
 
-Cet acte contient à peine de nullité :
+Cet acte contient à peine de nullité : 
 
-1° Une copie du procès-verbal de saisie ;
+1° Une copie du procès-verbal de saisie et la reproduction des renseignements communiqués par le tiers saisi si l'acte a été
+signifié par voie électronique ; 
 
 2° En caractères très apparents, l'indication que les contestations doivent être soulevées, à peine d'irrecevabilité, dans le
 délai d'un mois qui suit la signification de l'acte par assignation, et la date à laquelle expire ce délai ainsi que
 l'indication que l'assignation est dénoncée par lettre recommandée avec demande d'avis de réception le même jour à l'huissier
-de justice ayant procédé à la saisie ;
+de justice ayant procédé à la saisie ; 
 
-3° La désignation de la juridiction devant laquelle les contestations peuvent être portées ;
+3° La désignation de la juridiction devant laquelle les contestations peuvent être portées ; 
 
 4° L'indication, en cas de saisie de compte, du montant de la somme à caractère alimentaire laissée à la disposition du
-débiteur en application de l'article R. 162-2 ainsi que du ou des comptes sur lesquels cette mise à disposition est opérée.
+débiteur en application de l'article R. 162-2 ainsi que du ou des comptes sur lesquels cette mise à disposition est opérée. 
 
 L'acte rappelle au débiteur qu'il peut autoriser par écrit le créancier à se faire remettre sans délai par le tiers saisi les
 sommes qui lui sont dues.
+
+**Nota:**
+
+Conformément à l'article 13 du décret n° 2012-783 du 30 mai 2012 les dispositions de l'article R. 211-3 entrent en vigueur à
+compter de la publication de l'arrêté du garde des sceaux, ministre de la justice, définissant, en application de l'article
+748-6 du code de procédure civile, les garanties que doivent présenter les procédés utilisés par les huissiers de justice
+pour signifier les actes par voie électronique et au plus tard le 1er septembre 2012.
 
 **Liens relatifs à cet article**
 
@@ -6889,9 +6912,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2012-783 du 30 mai 2012 - art. 13
 
 _Cité par_:
 
@@ -6899,19 +6922,34 @@ _Cité par_:
   - Code de commerce - art. Annexe 4-7 (V)
   - Code des procédures civiles d'exécution - art. R641-1 (V)
 
+_Cite_:
+
+  - Code des procédures civiles d'exécution - art. R162-2
+
 
 ##### Sous-section 2 : La déclaration du tiers saisi<a id=138></a>
 
 ###### Article R211-4
 
 Le tiers saisi est tenu de fournir sur-le-champ à l'huissier de justice les renseignements prévus à l'article L. 211-3 et de
-lui communiquer les pièces justificatives.
+lui communiquer les pièces justificatives. 
 
-Il en est fait mention dans l'acte de saisie.
+Il en est fait mention dans l'acte de saisie. 
 
 Par dérogation au premier alinéa, lorsque la saisie est pratiquée entre les mains d'un comptable public, celui-ci dispose
 d'un délai de vingt-quatre heures pour fournir à l'huissier de justice les renseignements prévus à l'article L. 211-3 et lui
-communiquer les pièces justificatives.
+communiquer les pièces justificatives. 
+
+Si l'acte de saisie est signifié par voie électronique, le tiers saisi est tenu de communiquer à l'huissier de justice les
+renseignements et pièces justificatives mentionnés au premier alinéa au plus tard le premier jour ouvré suivant la
+signification, par voie électronique, sous réserve des dispositions prévues à l'article 748-7 du code de procédure civile.
+
+**Nota:**
+
+Conformément à l'article 13 du décret n° 2012-783 du 30 mai 2012 les dispositions de l'article R. 211-4 entrent en vigueur à
+compter de la publication de l'arrêté du garde des sceaux, ministre de la justice, définissant, en application de l'article
+748-6 du code de procédure civile, les garanties que doivent présenter les procédés utilisés par les huissiers de justice
+pour signifier les actes par voie électronique et au plus tard le 1er septembre 2012.
 
 **Liens relatifs à cet article**
 
@@ -6924,9 +6962,14 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2012-783 du 30 mai 2012 - art. 13
+
+_Cite_:
+
+  - Code de procédure civile - art. 748-7
+  - Code des procédures civiles d'exécution - art. L211-3
 
 
 ###### Article R211-5
@@ -10434,11 +10477,16 @@ La déclaration valant saisie prévue à l'article L. 223-1 contient à peine de
 
 2° Le numéro d'immatriculation et la marque du véhicule saisi ; 
 
-3° La mention du titre exécutoire dont se prévaut le créancier ; 
-
-4° Le décompte distinct des sommes réclamées, en principal, frais et intérêts échus. 
+3° La mention du titre exécutoire dont se prévaut le créancier. 
 
 Cette déclaration est signifiée à l'autorité administrative mentionnée à l'article L. 223-1.
+
+**Nota:**
+
+Conformément à l'article 13 du décret n° 2012-783 du 30 mai 2012 les dispositions de l'article R. 223-2 entrent en vigueur à
+compter de la publication de l'arrêté du garde des sceaux, ministre de la justice, définissant, en application de l'article
+748-6 du code de procédure civile, les garanties que doivent présenter les procédés utilisés par les huissiers de justice
+pour signifier les actes par voie électronique et au plus tard le 1er septembre 2012.
 
 **Liens relatifs à cet article**
 
@@ -10446,9 +10494,13 @@ _Anciens textes_:
 
   - Décret n°92-755 du 31 juillet 1992 - art. 165 (Ab)
 
-_Créé par_:
+_Codifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2012-783 du 30 mai 2012 (V)
+
+_Modifié par_:
+
+  - Décret n°2012-783 du 30 mai 2012 - art. 13
 
 _Cité par_:
 
@@ -10457,15 +10509,23 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. L223-1 (V)
+  - Code des procédures civiles d'exécution - art. L223-1
 
 
 ###### Article R223-3
 
 A peine de caducité, la copie de cette déclaration est signifiée au débiteur dans les huit jours qui suivent. 
 
-L'acte reproduit les dispositions de l'article R. 223-4 et indique, en caractères très apparents, que les contestations sont
+L'acte de signification reproduit les dispositions de l'article R. 223-4 et contient le décompte distinct des sommes
+réclamées, en principal, frais et intérêts échus. Il indique en caractères très apparents que les contestations doivent être
 portées devant le juge de l'exécution du lieu où demeure le débiteur.
+
+**Nota:**
+
+Conformément à l'article 13 du décret n° 2012-783 du 30 mai 2012 les dispositions de l'article R. 223-3 entrent en vigueur à
+compter de la publication de l'arrêté du garde des sceaux, ministre de la justice, définissant, en application de l'article
+748-6 du code de procédure civile, les garanties que doivent présenter les procédés utilisés par les huissiers de justice
+pour signifier les actes par voie électronique et au plus tard le 1er septembre 2012.
 
 **Liens relatifs à cet article**
 
@@ -10473,9 +10533,13 @@ _Anciens textes_:
 
   - Décret n°92-755 du 31 juillet 1992 - art. 166 (Ab)
 
-_Créé par_:
+_Codifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2012-783 du 30 mai 2012 (V)
+
+_Modifié par_:
+
+  - Décret n°2012-783 du 30 mai 2012 - art. 13
 
 _Cité par_:
 
@@ -10484,7 +10548,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. R223-4 (V)
+  - Code des procédures civiles d'exécution - art. R223-4
 
 
 ###### Article R223-4
