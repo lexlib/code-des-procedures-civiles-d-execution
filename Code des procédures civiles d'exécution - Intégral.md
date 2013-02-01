@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-02-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -5803,20 +5803,20 @@ _Créé par_:
 
 ###### Article R124-4
 
-La personne chargée du recouvrement amiable adresse au débiteur une lettre qui contient les mentions suivantes : 
+La personne chargée du recouvrement amiable adresse au débiteur une lettre qui contient les mentions suivantes :
 
 1° Les nom ou dénomination sociale de la personne chargée du recouvrement amiable, son adresse ou son siège social,
-l'indication qu'elle exerce une activité de recouvrement amiable ; 
+l'indication qu'elle exerce une activité de recouvrement amiable ;
 
-2° Les nom ou dénomination sociale du créancier, son adresse ou son siège social ; 
+2° Les nom ou dénomination sociale du créancier, son adresse ou son siège social ;
 
 3° Le fondement et le montant de la somme due en principal, intérêts et autres accessoires, en distinguant les différents
 éléments de la dette, à l'exclusion des frais qui restent à la charge du créancier en application du troisième alinéa de
-l'article L. 111-8; 
+l'article L. 111-8 ;
 
-4° L'indication d'avoir à payer la somme due et les modalités de paiement de la dette ; 
+4° L'indication d'avoir à payer la somme due et les modalités de paiement de la dette ;
 
-5° La reproduction des troisième et quatrième alinéas de l'article L. 111-8. 
+5° La reproduction des deuxième et troisième alinéas de l'article L. 111-8.
 
 Les références et date d'envoi de la lettre mentionnée au premier alinéa sont rappelées à l'occasion de toute autre démarche
 auprès du débiteur en vue du recouvrement amiable.
@@ -5831,13 +5831,13 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2013-109 du 30 janvier 2013 - art. 7
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. L111-8 (V)
+  - Code des procédures civiles d'exécution - art. L111-8
 
 _Cité par_:
 
@@ -8786,7 +8786,7 @@ _Cité par_:
 
 ###### Article R221-31
 
-L'information prévue au troisième alinéa de l'article L. 221-1 est faite par écrit et comporte le nom et l'adresse de
+L'information prévue au troisième alinéa de l'article L. 221-3 est faite par écrit et comporte le nom et l'adresse de
 l'acquéreur éventuel ainsi que le délai dans lequel ce dernier s'offre à verser le prix proposé. 
 
 L'huissier de justice communique ces indications au créancier saisissant et aux créanciers opposants par lettre recommandée
@@ -8807,9 +8807,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2013-109 du 30 janvier 2013 - art. 7
 
 _Cité par_:
 
@@ -8819,8 +8819,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. L221-1 (V)
-  - Code des procédures civiles d'exécution - art. R221-30 (V)
+  - Code des procédures civiles d'exécution - art. L221-3
+  - Code des procédures civiles d'exécution - art. R221-30
 
 
 ###### Article R221-32
