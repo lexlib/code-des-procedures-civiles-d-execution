@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2013-02-02
+Version Consolidée au 2014-03-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -525,8 +525,8 @@ débiteur, sauf s'il est manifeste qu'ils n'étaient pas nécessaires au moment 
 tranchées par le juge.
 
 Les frais de recouvrement entrepris sans titre exécutoire restent à la charge du créancier, sauf s'ils concernent un acte
-dont l'accomplissement est prescrit par la loi. Toute stipulation contraire est réputée non écrite, sauf disposition
-législative contraire.
+dont l'accomplissement est prescrit par la loi au créancier. Toute stipulation contraire est réputée non écrite, sauf
+disposition législative contraire.
 
 Cependant, le créancier qui justifie du caractère nécessaire des démarches entreprises pour recouvrer sa créance peut
 demander au juge de l'exécution de laisser tout ou partie des frais ainsi exposés à la charge du débiteur de mauvaise foi.
@@ -541,9 +541,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Loi n°2014-344 du 17 mars 2014 - art. 12
 
 _Cité par_:
 
