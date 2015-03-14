@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2015-02-18
+Version Consolidée au 2015-03-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -97,196 +97,195 @@ Version Consolidée au 2015-02-18
         - [Chapitre Ier : Dispositions communes (art. L611-1)](#94)
         - [Chapitre II : Dispositions spécifiques  à une ou plusieurs collectivités (art. L612-1 à L612-5)](#95)
           - [Section unique : Dispositions relatives à Mayotte (art. L612-1 à L612-5)](#96)
-      - [TITRE II : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY ET SAINT-MARTIN (art.  à L621-7)](#97)
-        - [Chapitre Ier : Dispositions communes (art.  à L612-5)](#98)
-        - [Chapitre unique : Dispositions communes (art. L621-1 à L621-7)](#99)
-      - [TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON (art. L631-1 à L631-6)](#100)
-        - [Chapitre unique (art. L631-1 à L631-6)](#101)
-      - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. L641-1 à L641-9)](#102)
-        - [Chapitre unique (art. L641-1 à L641-9)](#103)
-      - [TITRE V : LES TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. L651-1)](#104)
-        - [Chapitre unique (art. L651-1)](#105)
-  - [Partie réglementaire (art. R112-1 à R651-1)](#106)
-    - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. R112-1 à R162-9)](#107)
-      - [TITRE Ier : LES CONDITIONS DE L'EXÉCUTION FORCÉE (art. R112-1 à R112-5)](#108)
-        - [Chapitre II : Les biens saisissables (art. R112-1 à R112-5)](#109)
-      - [TITRE II : L'AUTORITÉ JUDICIAIRE ET LES PERSONNES CONCOURANT À L'EXÉCUTION ET AU RECOUVREMENT DES CRÉANCES (art. R121-1 à R124-7)](#110)
-        - [Chapitre Ier : L'autorité judiciaire (art. R121-1 à R121-24)](#111)
-          - [Section unique : Le juge de l'exécution (art. R121-1 à R121-24)](#112)
-            - [Sous-section 1 : La compétence (art. R121-1 à R121-4)](#113)
-            - [Sous-section 2 : La procédure (art. R121-5 à R121-24)](#114)
-              - [Paragraphe 1 : Dispositions générales (art. R121-5 à R121-10)](#115)
-              - [Paragraphe 2 : La procédure ordinaire (art. R121-11 à R121-22)](#116)
-              - [Paragraphe 3 : Les ordonnances sur requête (art. R121-23 à R121-24)](#117)
-        - [Chapitre II : Les personnes chargées de l'exécution (art. R122-1 à R122-2)](#118)
-        - [Chapitre III : Les tiers (art. R123-1)](#119)
-        - [Chapitre IV : Les personnes chargées du recouvrement amiable  des créances (art. R124-1 à R124-7)](#120)
-      - [TITRE III : LA PRÉVENTION  DES DIFFICULTÉS D'EXÉCUTION (art. R131-1 à R131-4)](#121)
-        - [Chapitre unique : L'astreinte (art. R131-1 à R131-4)](#122)
-      - [TITRE IV : LES OPÉRATIONS D'EXÉCUTION (art. R141-1 à R143-4)](#123)
-        - [Chapitre Ier : Dispositions générales (art. R141-1 à R141-4)](#124)
-        - [Chapitre III : Les saisies notifiées aux comptables publics (art. R143-1 à R143-4)](#125)
-      - [TITRE V : LES DIFFICULTÉS D'EXÉCUTION (art. R151-1 à R153-1)](#126)
-        - [Chapitre Ier : La procédure (art. R151-1 à R151-4)](#127)
-        - [Chapitre II : La recherche des informations (art. R152-1)](#128)
-        - [Chapitre III : Le concours de la force publique (art. R153-1)](#129)
-      - [TITRE VI : DISPOSITIONS PARTICULIÈRES  À CERTAINES PERSONNES ET À CERTAINS BIENS (art. R161-1 à R162-9)](#130)
-        - [Chapitre Ier : La protection de certaines personnes (art. R161-1)](#131)
-        - [Chapitre II : Dispositions propres à certains biens (art. R162-1 à R162-9)](#132)
-    - [LIVRE II : LES PROCÉDURES D'EXÉCUTION MOBILIÈRE (art. R211-1 à R251-11)](#133)
-      - [TITRE Ier : LA SAISIE DES CRÉANCES DE SOMMES D'ARGENT (art. R211-1 à R213-10)](#134)
-        - [Chapitre Ier : La saisie-attribution (art. R211-1 à R211-23)](#135)
-          - [Section 1 : Dispositions générales (art. R211-1 à R211-13)](#136)
-            - [Sous-section 1 : La saisie (art. R211-1 à R211-3)](#137)
-            - [Sous-section 2 : La déclaration du tiers saisi (art. R211-4 à R211-5)](#138)
-            - [Sous-section 3 : Le paiement par le tiers saisi (art. R211-6 à R211-9)](#139)
-            - [Sous-section 4 : Les contestations (art. R211-10 à R211-13)](#140)
-          - [Section 2 : Dispositions particulières (art. R211-14 à R211-23)](#141)
-            - [Sous-section 1 : La saisie-attribution des créances à exécution successive (art. R211-14 à R211-17)](#142)
-            - [Sous-section 2 : La saisie-attribution des comptes ouverts auprès d'établissements  habilités par la loi à tenir des comptes de dépôt (art. R211-18 à R211-23)](#143)
-        - [Chapitre II : La saisie et la cession des rémunérations (art. R212-1 à R212-6)](#144)
-          - [Section 1 : Dispositions générales (art. R212-1)](#145)
-          - [Section 2 : Dispositions particulières à la saisie  sur les rémunérations des agents publics (art. R212-2 à R212-6)](#146)
-        - [Chapitre III : La procédure de paiement direct  des pensions alimentaires (art. R213-1 à R213-10)](#147)
-      - [TITRE II : LA SAISIE DES BIENS CORPORELS (art. R221-1 à R224-12)](#148)
-        - [Chapitre Ier : La saisie-vente (art. R221-1 à R221-61)](#149)
-          - [Section 1 : Dispositions générales (art. R221-1 à R221-8)](#150)
-          - [Section 2 : Les opérations de saisie (art. R221-9 à R221-29)](#151)
-            - [Sous-section 1 : Dispositions communes (art. R221-9 à R221-14)](#152)
-            - [Sous-section 2 : Les opérations de saisie entre les mains du débiteur (art. R221-15 à R221-20)](#153)
-            - [Sous-section 3 : Les opérations de saisie entre les mains d'un tiers (art. R221-21 à R221-29)](#154)
-          - [Section 3 : La mise en vente des biens saisis (art. R221-30 à R221-39)](#155)
-            - [Sous-section 1 : La vente amiable (art. R221-30 à R221-32)](#156)
-            - [Sous-section 2 : La vente forcée (art. R221-33 à R221-39)](#157)
-          - [Section 4 : Les incidents de saisie (art. R221-40 à R221-56)](#158)
-            - [Sous-section 1 : L'opposition des créanciers (art. R221-41 à R221-48)](#159)
-            - [Sous-section 2 : Les contestations relatives aux biens saisis (art. R221-49 à R221-56)](#160)
-              - [Paragraphe 1 : Les contestations relatives à la propriété des biens saisis (art. R221-50 à R221-52)](#161)
-              - [Paragraphe 2 : Les contestations relatives à la validité de la saisie (art. R221-53 à R221-56)](#162)
-          - [Section 5 : Dispositions particulières à la saisie des récoltes sur pieds (art. R221-57 à R221-61)](#163)
-        - [Chapitre II : La saisie-appréhension et la saisie-revendication  des biens meubles corporels (art. R222-1 à R222-25)](#164)
-          - [Section 1 : La saisie-appréhension (art. R222-1 à R222-16)](#165)
-            - [Sous-section 1 : L'appréhension en vertu d'un titre exécutoire (art. R222-1 à R222-10)](#166)
-              - [Paragraphe 1 : L'appréhension entre les mains de la personne tenue à la remise (art. R222-2 à R222-6)](#167)
-              - [Paragraphe 2 : L'appréhension entre les mains d'un tiers (art. R222-7 à R222-10)](#168)
-            - [Sous-section 2 : L'appréhension sur injonction du juge (art. R222-11 à R222-16)](#169)
-          - [Section 2 : La saisie-revendication (art. R222-17 à R222-25)](#170)
-        - [Chapitre III : Les mesures d'exécution  sur les véhicules terrestres à moteur (art. R223-1 à R223-13)](#171)
-          - [Section 1 : La saisie par déclaration  auprès de l'autorité administrative (art. R223-1 à R223-5)](#172)
-          - [Section 2 : La saisie par immobilisation du véhicule (art. R223-6 à R223-13)](#173)
-        - [Chapitre IV : La saisie des biens placés dans un coffre-fort (art. R224-1 à R224-12)](#174)
-      - [TITRE III : LA SAISIE DES DROITS INCORPORELS (art. R231-1 à R233-9)](#175)
-        - [Chapitre Ier : Dispositions générales (art. R231-1)](#176)
-        - [Chapitre II : Les opérations de saisie (art. R232-1 à R232-8)](#177)
-        - [Chapitre III : Les opérations de vente (art. R233-1 à R233-9)](#178)
-          - [Section 1 : Dispositions générales (art. R233-1 à R233-2)](#179)
-          - [Section 2 : Les modalités de la vente (art. R233-3 à R233-9)](#180)
-            - [Sous-section 1 : Les valeurs mobilières admises aux négociations sur un marché  réglementé ou sur un système multilatéral de négociation (art. R233-3 à R233-4)](#181)
-            - [Sous-section 2 : Les droits d'associé et valeurs mobilières non admises aux négociations sur un marché réglementé ou sur un système multilatéral de négociation (art. R233-5 à R233-9)](#182)
-      - [TITRE IV : LES AUTRES SAISIES MOBILIÈRES (art. R241-1)](#183)
-        - [Chapitre unique (art. R241-1)](#184)
-      - [TITRE V : LA DISTRIBUTION DES DENIERS (art. R251-1 à R251-11)](#185)
-        - [Chapitre unique (art. R251-1 à R251-11)](#186)
-    - [LIVRE III : LA SAISIE IMMOBILIÈRE (art. R311-1 à R334-3)](#187)
-      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. R311-1 à R311-11)](#188)
-        - [Chapitre unique (art. R311-1 à R311-11)](#189)
-          - [Section 1 : La compétence territoriale (art. R311-2 à R311-3)](#190)
-          - [Section 2 : La procédure (art. R311-4 à R311-11)](#191)
-      - [TITRE II : LA SAISIE ET LA VENTE DE L'IMMEUBLE (art. R321-1 à R322-72)](#192)
-        - [Chapitre Ier : La saisie de l'immeuble (art. R321-1 à R321-22)](#193)
-          - [Section 1 : L'acte de saisie (art. R321-1 à R321-5)](#194)
-            - [Sous-section 1 : La délivrance du commandement de payer valant saisie au débiteur (art. R321-1 à R321-3)](#195)
-            - [Sous-section 2 : La délivrance du commandement de payer  valant saisie au tiers détenteur (art. R321-4 à R321-5)](#196)
-          - [Section 2 : La publication de l'acte de saisie (art. R321-6 à R321-7)](#197)
-          - [Section 3 : La pluralité de biens ou de saisies (art. R321-8 à R321-12)](#198)
-          - [Section 4 : Les effets de l'acte de saisie et de sa publication (art. R321-13 à R321-22)](#199)
-            - [Sous-section 1 : Dispositions générales (art. R321-13)](#200)
-            - [Sous-section 2 : L'indisponibilité du bien saisi (art. R321-14)](#201)
-            - [Sous-section 3 : La restriction aux droits du saisi (art. R321-15)](#202)
-            - [Sous-section 4 : La saisie des fruits (art. R321-16 à R321-18)](#203)
-            - [Sous-section 5 : Les effets du commandement à l'égard du tiers détenteur (art. R321-19)](#204)
-            - [Sous-section 6 : La péremption du commandement de payer valant saisie (art. R321-20 à R321-22)](#205)
-        - [Chapitre II : La vente de l'immeuble saisi (art. R322-1 à R322-72)](#206)
-          - [Section 1 : Les actes préparatoires à la vente (art. R322-1 à R322-14)](#207)
-            - [Sous-section 1 : Le procès-verbal de description des lieux (art. R322-1 à R322-3)](#208)
-            - [Sous-section 2 : L'assignation à comparaître (art. R322-4 à R322-9)](#209)
-              - [Paragraphe 1 : L'assignation du débiteur (art. R322-4 à R322-5)](#210)
-              - [Paragraphe 2 : L'assignation des créanciers inscrits (art. R322-6 à R322-8)](#211)
-              - [Paragraphe 3 : Disposition commune (art. R322-9)](#212)
-            - [Sous-section 3 : Le dépôt au greffe du cahier des conditions de vente  et de l'état hypothécaire (art. R322-10 à R322-11)](#213)
-            - [Sous-section 4 : Les déclarations de créance (art. R322-12 à R322-14)](#214)
-          - [Section 2 : L'audience d'orientation (art. R322-15 à R322-19)](#215)
-          - [Section 3 : La vente amiable sur autorisation judiciaire (art. R322-20 à R322-25)](#216)
-          - [Section 4 : La vente par adjudication (art. R322-26 à R322-72)](#217)
-            - [Sous-section 1 : Dispositions générales (art. R322-26 à R322-29)](#218)
-            - [Sous-section 2 : La publicité (art. R322-30 à R322-38)](#219)
-              - [Paragraphe 1 : La publicité de droit commun (art. R322-31 à R322-36)](#220)
-              - [Paragraphe 2 : L'aménagement judiciaire de la publicité (art. R322-37 à R322-38)](#221)
-            - [Sous-section 3 : Les enchères (art. R322-39 à R322-49)](#222)
-              - [Paragraphe 1 : La capacité d'enchérir (art. R322-39)](#223)
-              - [Paragraphe 2 : Le déroulement des enchères (art. R322-40 à R322-47)](#224)
-              - [Paragraphe 3 : La nullité des enchères (art. R322-48 à R322-49)](#225)
-            - [Sous-section 4 : La surenchère (art. R322-50 à R322-55)](#226)
-            - [Sous-section 5 : Le paiement du prix (art. R322-56 à R322-58)](#227)
-            - [Sous-section 6 : Le jugement d'adjudication et le titre de vente (art. R322-59 à R322-63)](#228)
-            - [Sous-section 7 : Les effets de l'adjudication (art. R322-64 à R322-65)](#229)
-            - [Sous-section 8 : La réitération des enchères (art. R322-66 à R322-72)](#230)
-      - [TITRE III : LA DISTRIBUTION DU PRIX (art. R331-1 à R334-3)](#231)
-        - [Chapitre Ier : Dispositions générales (art. R331-1 à R331-3)](#232)
-        - [Chapitre II : La distribution amiable (art. R332-1 à R332-10)](#233)
-        - [Chapitre III : La distribution judiciaire (art. R333-1 à R333-3)](#234)
-        - [Chapitre IV : Dispositions communes (art. R334-1 à R334-3)](#235)
-    - [LIVRE IV : L'EXPULSION (art. R411-1 à R451-4)](#236)
-      - [TITRE Ier : CONDITIONS DE L'EXPULSION (art. R411-1 à R412-4)](#237)
-        - [Chapitre Ier : Dispositions générales (art. R411-1 à R411-3)](#238)
-        - [Chapitre II : Dispositions particulières aux locaux  d'habitation ou à usage professionnel (art. R412-1 à R412-4)](#239)
-      - [TITRE III : LES OPÉRATIONS D'EXPULSION (art. R432-1 à R433-7)](#240)
-        - [Chapitre II : Le procès-verbal d'expulsion (art. R432-1 à R432-2)](#241)
-        - [Chapitre III : Le sort des meubles (art. R433-1 à R433-7)](#242)
-          - [Section 1 : Dispositions générales (art. R433-1 à R433-6)](#243)
-          - [Section 2 : Les meubles indisponibles (art. R433-7)](#244)
-      - [TITRE IV : LES DIFFICULTÉS D'EXÉCUTION (art. R441-1 à R442-4)](#245)
-        - [Chapitre Ier : La réinstallation de la personne expulsée (art. R441-1)](#246)
-        - [Chapitre II : Les contestations (art. R442-1 à R442-4)](#247)
-      - [TITRE V : DISPOSITIONS PROPRES  À LA REPRISE DES LOCAUX ABANDONNÉS (art. R451-1 à R451-4)](#248)
-        - [Chapitre unique (art. R451-1 à R451-4)](#249)
-    - [LIVRE V : LES MESURES CONSERVATOIRES (art. R511-1 à R534-1)](#250)
-      - [TITRE Ier : DISPOSITIONS COMMUNES (art. R511-1 à R512-3)](#251)
-        - [Chapitre Ier : Les conditions et la mise en œuvre (art. R511-1 à R511-8)](#252)
-        - [Chapitre II : Les contestations (art. R512-1 à R512-3)](#253)
-      - [TITRE II : LES SAISIES CONSERVATOIRES (art. R521-1 à R525-5)](#254)
-        - [Chapitre Ier : Dispositions générales (art. R521-1)](#255)
-        - [Chapitre II : La saisie conservatoire sur les biens meubles corporels (art. R522-1 à R522-14)](#256)
-          - [Section 1 : Les opérations de saisie (art. R522-1 à R522-6)](#257)
-          - [Section 2 : La conversion en saisie-vente (art. R522-7 à R522-10)](#258)
-          - [Section 3 : La pluralité de saisies (art. R522-11 à R522-14)](#259)
-        - [Chapitre III : La saisie conservatoire des créances (art. R523-1 à R523-10)](#260)
-          - [Section 1 : Les opérations de saisie (art. R523-1 à R523-6)](#261)
-          - [Section 2 : La conversion en saisie-attribution (art. R523-7 à R523-10)](#262)
-        - [Chapitre IV : La saisie conservatoire des droits d'associé  et des valeurs mobilières (art. R524-1 à R524-6)](#263)
-          - [Section 1 : Les opérations de saisie (art. R524-1 à R524-3)](#264)
-          - [Section 2 : La conversion en saisie-vente (art. R524-4 à R524-6)](#265)
-        - [Chapitre V : La saisie conservatoire des biens placés  dans un coffre-fort (art. R525-1 à R525-5)](#266)
-      - [TITRE III : LES SÛRETÉS JUDICIAIRES (art. R531-1 à R534-1)](#267)
-        - [Chapitre Ier : Dispositions générales (art. R531-1)](#268)
-        - [Chapitre II : La publicité provisoire (art. R532-1 à R532-9)](#269)
-          - [Section 1 : Les formalités (art. R532-1 à R532-4)](#270)
-          - [Section 2 : Dispositions communes (art. R532-5 à R532-9)](#271)
-        - [Chapitre III : La publicité définitive (art. R533-1 à R533-6)](#272)
-        - [Chapitre IV : Dispositions applicables aux départements  du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R534-1)](#273)
-    - [LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R611-1 à R651-1)](#274)
-      - [TITRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE (art. R611-1 à R612-8)](#275)
-        - [Chapitre Ier : Dispositions communes (art. R611-1)](#276)
-        - [Chapitre II : Dispositions spécifiques à une ou plusieurs collectivités (art. R612-1 à R612-8)](#277)
-          - [Section unique  Dispositions relatives à Mayotte (art. R612-1 à R612-8)](#278)
-      - [TITRE II : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY ET SAINT-MARTIN (art. R621-1 à R621-5)](#279)
-        - [Chapitre Ier : Dispositions communes (art. R621-1 à R621-5)](#280)
-      - [TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON (art. R631-1 à R631-7)](#281)
-        - [Chapitre unique (art. R631-1 à R631-7)](#282)
-      - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. R641-1 à R641-10)](#283)
-        - [Chapitre unique (art. R641-1 à R641-10)](#284)
-      - [TITRE V : LES TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. R651-1)](#285)
-        - [Chapitre unique (art. R651-1)](#286)
+      - [TITRE II : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY ET SAINT-MARTIN (art. L621-1 à L621-7)](#97)
+        - [Chapitre unique : Dispositions communes (art. L621-1 à L621-7)](#98)
+      - [TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON (art. L631-1 à L631-6)](#99)
+        - [Chapitre unique (art. L631-1 à L631-6)](#100)
+      - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. L641-1 à L641-9)](#101)
+        - [Chapitre unique (art. L641-1 à L641-9)](#102)
+      - [TITRE V : LES TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. L651-1)](#103)
+        - [Chapitre unique (art. L651-1)](#104)
+  - [Partie réglementaire (art. R112-1 à R651-1)](#105)
+    - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. R112-1 à R162-9)](#106)
+      - [TITRE Ier : LES CONDITIONS DE L'EXÉCUTION FORCÉE (art. R112-1 à R112-5)](#107)
+        - [Chapitre II : Les biens saisissables (art. R112-1 à R112-5)](#108)
+      - [TITRE II : L'AUTORITÉ JUDICIAIRE ET LES PERSONNES CONCOURANT À L'EXÉCUTION ET AU RECOUVREMENT DES CRÉANCES (art. R121-1 à R124-7)](#109)
+        - [Chapitre Ier : L'autorité judiciaire (art. R121-1 à R121-24)](#110)
+          - [Section unique : Le juge de l'exécution (art. R121-1 à R121-24)](#111)
+            - [Sous-section 1 : La compétence (art. R121-1 à R121-4)](#112)
+            - [Sous-section 2 : La procédure (art. R121-5 à R121-24)](#113)
+              - [Paragraphe 1 : Dispositions générales (art. R121-5 à R121-10)](#114)
+              - [Paragraphe 2 : La procédure ordinaire (art. R121-11 à R121-22)](#115)
+              - [Paragraphe 3 : Les ordonnances sur requête (art. R121-23 à R121-24)](#116)
+        - [Chapitre II : Les personnes chargées de l'exécution (art. R122-1 à R122-2)](#117)
+        - [Chapitre III : Les tiers (art. R123-1)](#118)
+        - [Chapitre IV : Les personnes chargées du recouvrement amiable  des créances (art. R124-1 à R124-7)](#119)
+      - [TITRE III : LA PRÉVENTION  DES DIFFICULTÉS D'EXÉCUTION (art. R131-1 à R131-4)](#120)
+        - [Chapitre unique : L'astreinte (art. R131-1 à R131-4)](#121)
+      - [TITRE IV : LES OPÉRATIONS D'EXÉCUTION (art. R141-1 à R143-4)](#122)
+        - [Chapitre Ier : Dispositions générales (art. R141-1 à R141-4)](#123)
+        - [Chapitre III : Les saisies notifiées aux comptables publics (art. R143-1 à R143-4)](#124)
+      - [TITRE V : LES DIFFICULTÉS D'EXÉCUTION (art. R151-1 à R153-1)](#125)
+        - [Chapitre Ier : La procédure (art. R151-1 à R151-4)](#126)
+        - [Chapitre II : La recherche des informations (art. R152-1)](#127)
+        - [Chapitre III : Le concours de la force publique (art. R153-1)](#128)
+      - [TITRE VI : DISPOSITIONS PARTICULIÈRES  À CERTAINES PERSONNES ET À CERTAINS BIENS (art. R161-1 à R162-9)](#129)
+        - [Chapitre Ier : La protection de certaines personnes (art. R161-1)](#130)
+        - [Chapitre II : Dispositions propres à certains biens (art. R162-1 à R162-9)](#131)
+    - [LIVRE II : LES PROCÉDURES D'EXÉCUTION MOBILIÈRE (art. R211-1 à R251-11)](#132)
+      - [TITRE Ier : LA SAISIE DES CRÉANCES DE SOMMES D'ARGENT (art. R211-1 à R213-10)](#133)
+        - [Chapitre Ier : La saisie-attribution (art. R211-1 à R211-23)](#134)
+          - [Section 1 : Dispositions générales (art. R211-1 à R211-13)](#135)
+            - [Sous-section 1 : La saisie (art. R211-1 à R211-3)](#136)
+            - [Sous-section 2 : La déclaration du tiers saisi (art. R211-4 à R211-5)](#137)
+            - [Sous-section 3 : Le paiement par le tiers saisi (art. R211-6 à R211-9)](#138)
+            - [Sous-section 4 : Les contestations (art. R211-10 à R211-13)](#139)
+          - [Section 2 : Dispositions particulières (art. R211-14 à R211-23)](#140)
+            - [Sous-section 1 : La saisie-attribution des créances à exécution successive (art. R211-14 à R211-17)](#141)
+            - [Sous-section 2 : La saisie-attribution des comptes ouverts auprès d'établissements  habilités par la loi à tenir des comptes de dépôt (art. R211-18 à R211-23)](#142)
+        - [Chapitre II : La saisie et la cession des rémunérations (art. R212-1 à R212-6)](#143)
+          - [Section 1 : Dispositions générales (art. R212-1)](#144)
+          - [Section 2 : Dispositions particulières à la saisie  sur les rémunérations des agents publics (art. R212-2 à R212-6)](#145)
+        - [Chapitre III : La procédure de paiement direct  des pensions alimentaires (art. R213-1 à R213-10)](#146)
+      - [TITRE II : LA SAISIE DES BIENS CORPORELS (art. R221-1 à R224-12)](#147)
+        - [Chapitre Ier : La saisie-vente (art. R221-1 à R221-61)](#148)
+          - [Section 1 : Dispositions générales (art. R221-1 à R221-8)](#149)
+          - [Section 2 : Les opérations de saisie (art. R221-9 à R221-29)](#150)
+            - [Sous-section 1 : Dispositions communes (art. R221-9 à R221-14)](#151)
+            - [Sous-section 2 : Les opérations de saisie entre les mains du débiteur (art. R221-15 à R221-20)](#152)
+            - [Sous-section 3 : Les opérations de saisie entre les mains d'un tiers (art. R221-21 à R221-29)](#153)
+          - [Section 3 : La mise en vente des biens saisis (art. R221-30 à R221-39)](#154)
+            - [Sous-section 1 : La vente amiable (art. R221-30 à R221-32)](#155)
+            - [Sous-section 2 : La vente forcée (art. R221-33 à R221-39)](#156)
+          - [Section 4 : Les incidents de saisie (art. R221-40 à R221-56)](#157)
+            - [Sous-section 1 : L'opposition des créanciers (art. R221-41 à R221-48)](#158)
+            - [Sous-section 2 : Les contestations relatives aux biens saisis (art. R221-49 à R221-56)](#159)
+              - [Paragraphe 1 : Les contestations relatives à la propriété des biens saisis (art. R221-50 à R221-52)](#160)
+              - [Paragraphe 2 : Les contestations relatives à la validité de la saisie (art. R221-53 à R221-56)](#161)
+          - [Section 5 : Dispositions particulières à la saisie des récoltes sur pieds (art. R221-57 à R221-61)](#162)
+        - [Chapitre II : La saisie-appréhension et la saisie-revendication  des biens meubles corporels (art. R222-1 à R222-25)](#163)
+          - [Section 1 : La saisie-appréhension (art. R222-1 à R222-16)](#164)
+            - [Sous-section 1 : L'appréhension en vertu d'un titre exécutoire (art. R222-1 à R222-10)](#165)
+              - [Paragraphe 1 : L'appréhension entre les mains de la personne tenue à la remise (art. R222-2 à R222-6)](#166)
+              - [Paragraphe 2 : L'appréhension entre les mains d'un tiers (art. R222-7 à R222-10)](#167)
+            - [Sous-section 2 : L'appréhension sur injonction du juge (art. R222-11 à R222-16)](#168)
+          - [Section 2 : La saisie-revendication (art. R222-17 à R222-25)](#169)
+        - [Chapitre III : Les mesures d'exécution  sur les véhicules terrestres à moteur (art. R223-1 à R223-13)](#170)
+          - [Section 1 : La saisie par déclaration  auprès de l'autorité administrative (art. R223-1 à R223-5)](#171)
+          - [Section 2 : La saisie par immobilisation du véhicule (art. R223-6 à R223-13)](#172)
+        - [Chapitre IV : La saisie des biens placés dans un coffre-fort (art. R224-1 à R224-12)](#173)
+      - [TITRE III : LA SAISIE DES DROITS INCORPORELS (art. R231-1 à R233-9)](#174)
+        - [Chapitre Ier : Dispositions générales (art. R231-1)](#175)
+        - [Chapitre II : Les opérations de saisie (art. R232-1 à R232-8)](#176)
+        - [Chapitre III : Les opérations de vente (art. R233-1 à R233-9)](#177)
+          - [Section 1 : Dispositions générales (art. R233-1 à R233-2)](#178)
+          - [Section 2 : Les modalités de la vente (art. R233-3 à R233-9)](#179)
+            - [Sous-section 1 : Les valeurs mobilières admises aux négociations sur un marché  réglementé ou sur un système multilatéral de négociation (art. R233-3 à R233-4)](#180)
+            - [Sous-section 2 : Les droits d'associé et valeurs mobilières non admises aux négociations sur un marché réglementé ou sur un système multilatéral de négociation (art. R233-5 à R233-9)](#181)
+      - [TITRE IV : LES AUTRES SAISIES MOBILIÈRES (art. R241-1)](#182)
+        - [Chapitre unique (art. R241-1)](#183)
+      - [TITRE V : LA DISTRIBUTION DES DENIERS (art. R251-1 à R251-11)](#184)
+        - [Chapitre unique (art. R251-1 à R251-11)](#185)
+    - [LIVRE III : LA SAISIE IMMOBILIÈRE (art. R311-1 à R334-3)](#186)
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. R311-1 à R311-11)](#187)
+        - [Chapitre unique (art. R311-1 à R311-11)](#188)
+          - [Section 1 : La compétence territoriale (art. R311-2 à R311-3)](#189)
+          - [Section 2 : La procédure (art. R311-4 à R311-11)](#190)
+      - [TITRE II : LA SAISIE ET LA VENTE DE L'IMMEUBLE (art. R321-1 à R322-72)](#191)
+        - [Chapitre Ier : La saisie de l'immeuble (art. R321-1 à R321-22)](#192)
+          - [Section 1 : L'acte de saisie (art. R321-1 à R321-5)](#193)
+            - [Sous-section 1 : La délivrance du commandement de payer valant saisie au débiteur (art. R321-1 à R321-3)](#194)
+            - [Sous-section 2 : La délivrance du commandement de payer  valant saisie au tiers détenteur (art. R321-4 à R321-5)](#195)
+          - [Section 2 : La publication de l'acte de saisie (art. R321-6 à R321-7)](#196)
+          - [Section 3 : La pluralité de biens ou de saisies (art. R321-8 à R321-12)](#197)
+          - [Section 4 : Les effets de l'acte de saisie et de sa publication (art. R321-13 à R321-22)](#198)
+            - [Sous-section 1 : Dispositions générales (art. R321-13)](#199)
+            - [Sous-section 2 : L'indisponibilité du bien saisi (art. R321-14)](#200)
+            - [Sous-section 3 : La restriction aux droits du saisi (art. R321-15)](#201)
+            - [Sous-section 4 : La saisie des fruits (art. R321-16 à R321-18)](#202)
+            - [Sous-section 5 : Les effets du commandement à l'égard du tiers détenteur (art. R321-19)](#203)
+            - [Sous-section 6 : La péremption du commandement de payer valant saisie (art. R321-20 à R321-22)](#204)
+        - [Chapitre II : La vente de l'immeuble saisi (art. R322-1 à R322-72)](#205)
+          - [Section 1 : Les actes préparatoires à la vente (art. R322-1 à R322-14)](#206)
+            - [Sous-section 1 : Le procès-verbal de description des lieux (art. R322-1 à R322-3)](#207)
+            - [Sous-section 2 : L'assignation à comparaître (art. R322-4 à R322-9)](#208)
+              - [Paragraphe 1 : L'assignation du débiteur (art. R322-4 à R322-5)](#209)
+              - [Paragraphe 2 : L'assignation des créanciers inscrits (art. R322-6 à R322-8)](#210)
+              - [Paragraphe 3 : Disposition commune (art. R322-9)](#211)
+            - [Sous-section 3 : Le dépôt au greffe du cahier des conditions de vente  et de l'état hypothécaire (art. R322-10 à R322-11)](#212)
+            - [Sous-section 4 : Les déclarations de créance (art. R322-12 à R322-14)](#213)
+          - [Section 2 : L'audience d'orientation (art. R322-15 à R322-19)](#214)
+          - [Section 3 : La vente amiable sur autorisation judiciaire (art. R322-20 à R322-25)](#215)
+          - [Section 4 : La vente par adjudication (art. R322-26 à R322-72)](#216)
+            - [Sous-section 1 : Dispositions générales (art. R322-26 à R322-29)](#217)
+            - [Sous-section 2 : La publicité (art. R322-30 à R322-38)](#218)
+              - [Paragraphe 1 : La publicité de droit commun (art. R322-31 à R322-36)](#219)
+              - [Paragraphe 2 : L'aménagement judiciaire de la publicité (art. R322-37 à R322-38)](#220)
+            - [Sous-section 3 : Les enchères (art. R322-39 à R322-49)](#221)
+              - [Paragraphe 1 : La capacité d'enchérir (art. R322-39)](#222)
+              - [Paragraphe 2 : Le déroulement des enchères (art. R322-40 à R322-47)](#223)
+              - [Paragraphe 3 : La nullité des enchères (art. R322-48 à R322-49)](#224)
+            - [Sous-section 4 : La surenchère (art. R322-50 à R322-55)](#225)
+            - [Sous-section 5 : Le paiement du prix (art. R322-56 à R322-58)](#226)
+            - [Sous-section 6 : Le jugement d'adjudication et le titre de vente (art. R322-59 à R322-63)](#227)
+            - [Sous-section 7 : Les effets de l'adjudication (art. R322-64 à R322-65)](#228)
+            - [Sous-section 8 : La réitération des enchères (art. R322-66 à R322-72)](#229)
+      - [TITRE III : LA DISTRIBUTION DU PRIX (art. R331-1 à R334-3)](#230)
+        - [Chapitre Ier : Dispositions générales (art. R331-1 à R331-3)](#231)
+        - [Chapitre II : La distribution amiable (art. R332-1 à R332-10)](#232)
+        - [Chapitre III : La distribution judiciaire (art. R333-1 à R333-3)](#233)
+        - [Chapitre IV : Dispositions communes (art. R334-1 à R334-3)](#234)
+    - [LIVRE IV : L'EXPULSION (art. R411-1 à R451-4)](#235)
+      - [TITRE Ier : CONDITIONS DE L'EXPULSION (art. R411-1 à R412-4)](#236)
+        - [Chapitre Ier : Dispositions générales (art. R411-1 à R411-3)](#237)
+        - [Chapitre II : Dispositions particulières aux locaux  d'habitation ou à usage professionnel (art. R412-1 à R412-4)](#238)
+      - [TITRE III : LES OPÉRATIONS D'EXPULSION (art. R432-1 à R433-7)](#239)
+        - [Chapitre II : Le procès-verbal d'expulsion (art. R432-1 à R432-2)](#240)
+        - [Chapitre III : Le sort des meubles (art. R433-1 à R433-7)](#241)
+          - [Section 1 : Dispositions générales (art. R433-1 à R433-6)](#242)
+          - [Section 2 : Les meubles indisponibles (art. R433-7)](#243)
+      - [TITRE IV : LES DIFFICULTÉS D'EXÉCUTION (art. R441-1 à R442-4)](#244)
+        - [Chapitre Ier : La réinstallation de la personne expulsée (art. R441-1)](#245)
+        - [Chapitre II : Les contestations (art. R442-1 à R442-4)](#246)
+      - [TITRE V : DISPOSITIONS PROPRES  À LA REPRISE DES LOCAUX ABANDONNÉS (art. R451-1 à R451-4)](#247)
+        - [Chapitre unique (art. R451-1 à R451-4)](#248)
+    - [LIVRE V : LES MESURES CONSERVATOIRES (art. R511-1 à R534-1)](#249)
+      - [TITRE Ier : DISPOSITIONS COMMUNES (art. R511-1 à R512-3)](#250)
+        - [Chapitre Ier : Les conditions et la mise en œuvre (art. R511-1 à R511-8)](#251)
+        - [Chapitre II : Les contestations (art. R512-1 à R512-3)](#252)
+      - [TITRE II : LES SAISIES CONSERVATOIRES (art. R521-1 à R525-5)](#253)
+        - [Chapitre Ier : Dispositions générales (art. R521-1)](#254)
+        - [Chapitre II : La saisie conservatoire sur les biens meubles corporels (art. R522-1 à R522-14)](#255)
+          - [Section 1 : Les opérations de saisie (art. R522-1 à R522-6)](#256)
+          - [Section 2 : La conversion en saisie-vente (art. R522-7 à R522-10)](#257)
+          - [Section 3 : La pluralité de saisies (art. R522-11 à R522-14)](#258)
+        - [Chapitre III : La saisie conservatoire des créances (art. R523-1 à R523-10)](#259)
+          - [Section 1 : Les opérations de saisie (art. R523-1 à R523-6)](#260)
+          - [Section 2 : La conversion en saisie-attribution (art. R523-7 à R523-10)](#261)
+        - [Chapitre IV : La saisie conservatoire des droits d'associé  et des valeurs mobilières (art. R524-1 à R524-6)](#262)
+          - [Section 1 : Les opérations de saisie (art. R524-1 à R524-3)](#263)
+          - [Section 2 : La conversion en saisie-vente (art. R524-4 à R524-6)](#264)
+        - [Chapitre V : La saisie conservatoire des biens placés  dans un coffre-fort (art. R525-1 à R525-5)](#265)
+      - [TITRE III : LES SÛRETÉS JUDICIAIRES (art. R531-1 à R534-1)](#266)
+        - [Chapitre Ier : Dispositions générales (art. R531-1)](#267)
+        - [Chapitre II : La publicité provisoire (art. R532-1 à R532-9)](#268)
+          - [Section 1 : Les formalités (art. R532-1 à R532-4)](#269)
+          - [Section 2 : Dispositions communes (art. R532-5 à R532-9)](#270)
+        - [Chapitre III : La publicité définitive (art. R533-1 à R533-6)](#271)
+        - [Chapitre IV : Dispositions applicables aux départements  du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R534-1)](#272)
+    - [LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R611-1 à R651-1)](#273)
+      - [TITRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE (art. R611-1 à R612-8)](#274)
+        - [Chapitre Ier : Dispositions communes (art. R611-1)](#275)
+        - [Chapitre II : Dispositions spécifiques à une ou plusieurs collectivités (art. R612-1 à R612-8)](#276)
+          - [Section unique  Dispositions relatives à Mayotte (art. R612-1 à R612-8)](#277)
+      - [TITRE II : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY ET SAINT-MARTIN (art. R621-1 à R621-5)](#278)
+        - [Chapitre Ier : Dispositions communes (art. R621-1 à R621-5)](#279)
+      - [TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON (art. R631-1 à R631-7)](#280)
+        - [Chapitre unique (art. R631-1 à R631-7)](#281)
+      - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. R641-1 à R641-10)](#282)
+        - [Chapitre unique (art. R641-1 à R641-10)](#283)
+      - [TITRE V : LES TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. R651-1)](#284)
+        - [Chapitre unique (art. R651-1)](#285)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : DISPOSITIONS GÉNÉRALES<a id=2></a>
@@ -4268,9 +4267,7 @@ _Anciens textes_:
 
 ### TITRE II : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY ET SAINT-MARTIN<a id=97></a>
 
-#### Chapitre Ier : Dispositions communes<a id=98></a>
-
-#### Chapitre unique : Dispositions communes<a id=99></a>
+#### Chapitre unique : Dispositions communes<a id=98></a>
 
 ###### Article L621-1
 
@@ -4412,9 +4409,9 @@ _Anciens textes_:
   - Code des procédures civiles d'exécution - art. L622-3 (T)
 
 
-### TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON<a id=100></a>
+### TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON<a id=99></a>
 
-#### Chapitre unique<a id=101></a>
+#### Chapitre unique<a id=100></a>
 
 ###### Article L631-1
 
@@ -4554,9 +4551,9 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. L412-6 (VD)
 
 
-### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=102></a>
+### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=101></a>
 
-#### Chapitre unique<a id=103></a>
+#### Chapitre unique<a id=102></a>
 
 ###### Article L641-1
 
@@ -4783,9 +4780,9 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. L531-1 (VD)
 
 
-### TITRE V : LES TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=104></a>
+### TITRE V : LES TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=103></a>
 
-#### Chapitre unique<a id=105></a>
+#### Chapitre unique<a id=104></a>
 
 ###### Article L651-1
 
@@ -4802,13 +4799,13 @@ _Créé par_:
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
 
-# Partie réglementaire<a id=106></a>
+# Partie réglementaire<a id=105></a>
 
-## LIVRE Ier : DISPOSITIONS GÉNÉRALES<a id=107></a>
+## LIVRE Ier : DISPOSITIONS GÉNÉRALES<a id=106></a>
 
-### TITRE Ier : LES CONDITIONS DE L'EXÉCUTION FORCÉE<a id=108></a>
+### TITRE Ier : LES CONDITIONS DE L'EXÉCUTION FORCÉE<a id=107></a>
 
-#### Chapitre II : Les biens saisissables<a id=109></a>
+#### Chapitre II : Les biens saisissables<a id=108></a>
 
 ###### Article R112-1
 
@@ -4989,13 +4986,13 @@ _Cite_:
   - PILOTE_SUIVEUR: Code monétaire et financier - art. R312-4 (VD)
 
 
-### TITRE II : L'AUTORITÉ JUDICIAIRE ET LES PERSONNES CONCOURANT À L'EXÉCUTION ET AU RECOUVREMENT DES CRÉANCES<a id=110></a>
+### TITRE II : L'AUTORITÉ JUDICIAIRE ET LES PERSONNES CONCOURANT À L'EXÉCUTION ET AU RECOUVREMENT DES CRÉANCES<a id=109></a>
 
-#### Chapitre Ier : L'autorité judiciaire<a id=111></a>
+#### Chapitre Ier : L'autorité judiciaire<a id=110></a>
 
-##### Section unique : Le juge de l'exécution<a id=112></a>
+##### Section unique : Le juge de l'exécution<a id=111></a>
 
-##### Sous-section 1 : La compétence<a id=113></a>
+##### Sous-section 1 : La compétence<a id=112></a>
 
 ###### Article R121-1
 
@@ -5089,9 +5086,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Sous-section 2 : La procédure<a id=114></a>
+##### Sous-section 2 : La procédure<a id=113></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=115></a>
+##### Paragraphe 1 : Dispositions générales<a id=114></a>
 
 ###### Article R121-5
 
@@ -5259,7 +5256,7 @@ _Cite_:
   - Code de procédure civile - art. 446-1 (V)
 
 
-##### Paragraphe 2 : La procédure ordinaire<a id=116></a>
+##### Paragraphe 2 : La procédure ordinaire<a id=115></a>
 
 ###### Article R121-11
 
@@ -5536,7 +5533,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R322-19 (V)
 
 
-##### Paragraphe 3 : Les ordonnances sur requête<a id=117></a>
+##### Paragraphe 3 : Les ordonnances sur requête<a id=116></a>
 
 ###### Article R121-23
 
@@ -5582,7 +5579,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre II : Les personnes chargées de l'exécution<a id=118></a>
+#### Chapitre II : Les personnes chargées de l'exécution<a id=117></a>
 
 ###### Article R122-1
 
@@ -5640,7 +5637,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L258 A (V)
 
 
-#### Chapitre III : Les tiers<a id=119></a>
+#### Chapitre III : Les tiers<a id=118></a>
 
 ###### Article R123-1
 
@@ -5662,7 +5659,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre IV : Les personnes chargées du recouvrement amiable  des créances<a id=120></a>
+#### Chapitre IV : Les personnes chargées du recouvrement amiable  des créances<a id=119></a>
 
 ###### Article R124-1
 
@@ -5889,9 +5886,9 @@ _Cité par_:
   - Code de la consommation - art. R742-35 (V)
 
 
-### TITRE III : LA PRÉVENTION  DES DIFFICULTÉS D'EXÉCUTION<a id=121></a>
+### TITRE III : LA PRÉVENTION  DES DIFFICULTÉS D'EXÉCUTION<a id=120></a>
 
-#### Chapitre unique : L'astreinte<a id=122></a>
+#### Chapitre unique : L'astreinte<a id=121></a>
 
 ###### Article R131-1
 
@@ -5987,9 +5984,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-### TITRE IV : LES OPÉRATIONS D'EXÉCUTION<a id=123></a>
+### TITRE IV : LES OPÉRATIONS D'EXÉCUTION<a id=122></a>
 
-#### Chapitre Ier : Dispositions générales<a id=124></a>
+#### Chapitre Ier : Dispositions générales<a id=123></a>
 
 ###### Article R141-1
 
@@ -6096,7 +6093,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre III : Les saisies notifiées aux comptables publics<a id=125></a>
+#### Chapitre III : Les saisies notifiées aux comptables publics<a id=124></a>
 
 ###### Article R143-1
 
@@ -6190,9 +6187,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-### TITRE V : LES DIFFICULTÉS D'EXÉCUTION<a id=126></a>
+### TITRE V : LES DIFFICULTÉS D'EXÉCUTION<a id=125></a>
 
-#### Chapitre Ier : La procédure<a id=127></a>
+#### Chapitre Ier : La procédure<a id=126></a>
 
 ###### Article R151-1
 
@@ -6300,7 +6297,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre II : La recherche des informations<a id=128></a>
+#### Chapitre II : La recherche des informations<a id=127></a>
 
 ###### Article R152-1
 
@@ -6328,7 +6325,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. L152-1 (V)
 
 
-#### Chapitre III : Le concours de la force publique<a id=129></a>
+#### Chapitre III : Le concours de la force publique<a id=128></a>
 
 ###### Article R153-1
 
@@ -6363,9 +6360,9 @@ _Cité par_:
   - Code de commerce - art. Annexe 4-7 (V)
 
 
-### TITRE VI : DISPOSITIONS PARTICULIÈRES  À CERTAINES PERSONNES ET À CERTAINS BIENS<a id=130></a>
+### TITRE VI : DISPOSITIONS PARTICULIÈRES  À CERTAINES PERSONNES ET À CERTAINS BIENS<a id=129></a>
 
-#### Chapitre Ier : La protection de certaines personnes<a id=131></a>
+#### Chapitre Ier : La protection de certaines personnes<a id=130></a>
 
 ###### Article R161-1
 
@@ -6390,7 +6387,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre II : Dispositions propres à certains biens<a id=132></a>
+#### Chapitre II : Dispositions propres à certains biens<a id=131></a>
 
 ###### Article R162-1
 
@@ -6720,15 +6717,15 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R162-4 (V)
 
 
-## LIVRE II : LES PROCÉDURES D'EXÉCUTION MOBILIÈRE<a id=133></a>
+## LIVRE II : LES PROCÉDURES D'EXÉCUTION MOBILIÈRE<a id=132></a>
 
-### TITRE Ier : LA SAISIE DES CRÉANCES DE SOMMES D'ARGENT<a id=134></a>
+### TITRE Ier : LA SAISIE DES CRÉANCES DE SOMMES D'ARGENT<a id=133></a>
 
-#### Chapitre Ier : La saisie-attribution<a id=135></a>
+#### Chapitre Ier : La saisie-attribution<a id=134></a>
 
-##### Section 1 : Dispositions générales<a id=136></a>
+##### Section 1 : Dispositions générales<a id=135></a>
 
-##### Sous-section 1 : La saisie<a id=137></a>
+##### Sous-section 1 : La saisie<a id=136></a>
 
 ###### Article R211-1
 
@@ -6863,7 +6860,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R162-2
 
 
-##### Sous-section 2 : La déclaration du tiers saisi<a id=138></a>
+##### Sous-section 2 : La déclaration du tiers saisi<a id=137></a>
 
 ###### Article R211-4
 
@@ -6934,7 +6931,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R211-1 (V)
 
 
-##### Sous-section 3 : Le paiement par le tiers saisi<a id=139></a>
+##### Sous-section 3 : Le paiement par le tiers saisi<a id=138></a>
 
 ###### Article R211-6
 
@@ -7035,7 +7032,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Sous-section 4 : Les contestations<a id=140></a>
+##### Sous-section 4 : Les contestations<a id=139></a>
 
 ###### Article R211-10
 
@@ -7142,9 +7139,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Section 2 : Dispositions particulières<a id=141></a>
+##### Section 2 : Dispositions particulières<a id=140></a>
 
-##### Sous-section 1 : La saisie-attribution des créances à exécution successive<a id=142></a>
+##### Sous-section 1 : La saisie-attribution des créances à exécution successive<a id=141></a>
 
 ###### Article R211-14
 
@@ -7250,7 +7247,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Sous-section 2 : La saisie-attribution des comptes ouverts auprès d'établissements  habilités par la loi à tenir des comptes de dépôt<a id=143></a>
+##### Sous-section 2 : La saisie-attribution des comptes ouverts auprès d'établissements  habilités par la loi à tenir des comptes de dépôt<a id=142></a>
 
 ###### Article R211-18
 
@@ -7387,9 +7384,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R652-9 (V)
 
 
-#### Chapitre II : La saisie et la cession des rémunérations<a id=144></a>
+#### Chapitre II : La saisie et la cession des rémunérations<a id=143></a>
 
-##### Section 1 : Dispositions générales<a id=145></a>
+##### Section 1 : Dispositions générales<a id=144></a>
 
 ###### Article R212-1
 
@@ -7415,7 +7412,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R641-7 (V)
 
 
-##### Section 2 : Dispositions particulières à la saisie  sur les rémunérations des agents publics<a id=146></a>
+##### Section 2 : Dispositions particulières à la saisie  sur les rémunérations des agents publics<a id=145></a>
 
 ###### Article R212-2
 
@@ -7537,7 +7534,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre III : La procédure de paiement direct  des pensions alimentaires<a id=147></a>
+#### Chapitre III : La procédure de paiement direct  des pensions alimentaires<a id=146></a>
 
 ###### Article R213-1
 
@@ -7827,11 +7824,11 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code monétaire et financier - art. R312-4 (VD)
 
 
-### TITRE II : LA SAISIE DES BIENS CORPORELS<a id=148></a>
+### TITRE II : LA SAISIE DES BIENS CORPORELS<a id=147></a>
 
-#### Chapitre Ier : La saisie-vente<a id=149></a>
+#### Chapitre Ier : La saisie-vente<a id=148></a>
 
-##### Section 1 : Dispositions générales<a id=150></a>
+##### Section 1 : Dispositions générales<a id=149></a>
 
 ###### Article R221-1
 
@@ -8094,9 +8091,9 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R221-7 (V)
 
 
-##### Section 2 : Les opérations de saisie<a id=151></a>
+##### Section 2 : Les opérations de saisie<a id=150></a>
 
-##### Sous-section 1 : Dispositions communes<a id=152></a>
+##### Sous-section 1 : Dispositions communes<a id=151></a>
 
 ###### Article R221-9
 
@@ -8250,7 +8247,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R522-4 (V)
 
 
-##### Sous-section 2 : Les opérations de saisie entre les mains du débiteur<a id=153></a>
+##### Sous-section 2 : Les opérations de saisie entre les mains du débiteur<a id=152></a>
 
 ###### Article R221-15
 
@@ -8441,7 +8438,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Sous-section 3 : Les opérations de saisie entre les mains d'un tiers<a id=154></a>
+##### Sous-section 3 : Les opérations de saisie entre les mains d'un tiers<a id=153></a>
 
 ###### Article R221-21
 
@@ -8714,9 +8711,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Section 3 : La mise en vente des biens saisis<a id=155></a>
+##### Section 3 : La mise en vente des biens saisis<a id=154></a>
 
-##### Sous-section 1 : La vente amiable<a id=156></a>
+##### Sous-section 1 : La vente amiable<a id=155></a>
 
 ###### Article R221-30
 
@@ -8823,7 +8820,7 @@ _Cité par_:
   - Code de commerce - art. Annexe 4-7 (V)
 
 
-##### Sous-section 2 : La vente forcée<a id=157></a>
+##### Sous-section 2 : La vente forcée<a id=156></a>
 
 ###### Article R221-33
 
@@ -9025,7 +9022,7 @@ _Cité par_:
   - Code de procédure civile - art. 1377 (V)
 
 
-##### Section 4 : Les incidents de saisie<a id=158></a>
+##### Section 4 : Les incidents de saisie<a id=157></a>
 
 ###### Article R221-40
 
@@ -9050,7 +9047,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R224-8 (V)
 
 
-##### Sous-section 1 : L'opposition des créanciers<a id=159></a>
+##### Sous-section 1 : L'opposition des créanciers<a id=158></a>
 
 ###### Article R221-41
 
@@ -9273,7 +9270,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Sous-section 2 : Les contestations relatives aux biens saisis<a id=160></a>
+##### Sous-section 2 : Les contestations relatives aux biens saisis<a id=159></a>
 
 ###### Article R221-49
 
@@ -9299,7 +9296,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R522-6 (V)
 
 
-##### Paragraphe 1 : Les contestations relatives à la propriété des biens saisis<a id=161></a>
+##### Paragraphe 1 : Les contestations relatives à la propriété des biens saisis<a id=160></a>
 
 ###### Article R221-50
 
@@ -9366,7 +9363,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Paragraphe 2 : Les contestations relatives à la validité de la saisie<a id=162></a>
+##### Paragraphe 2 : Les contestations relatives à la validité de la saisie<a id=161></a>
 
 ###### Article R221-53
 
@@ -9460,7 +9457,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Section 5 : Dispositions particulières à la saisie des récoltes sur pieds<a id=163></a>
+##### Section 5 : Dispositions particulières à la saisie des récoltes sur pieds<a id=162></a>
 
 ###### Article R221-57
 
@@ -9581,11 +9578,11 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre II : La saisie-appréhension et la saisie-revendication  des biens meubles corporels<a id=164></a>
+#### Chapitre II : La saisie-appréhension et la saisie-revendication  des biens meubles corporels<a id=163></a>
 
-##### Section 1 : La saisie-appréhension<a id=165></a>
+##### Section 1 : La saisie-appréhension<a id=164></a>
 
-##### Sous-section 1 : L'appréhension en vertu d'un titre exécutoire<a id=166></a>
+##### Sous-section 1 : L'appréhension en vertu d'un titre exécutoire<a id=165></a>
 
 ###### Article R222-1
 
@@ -9617,7 +9614,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R223-6 (V)
 
 
-##### Paragraphe 1 : L'appréhension entre les mains de la personne tenue à la remise<a id=167></a>
+##### Paragraphe 1 : L'appréhension entre les mains de la personne tenue à la remise<a id=166></a>
 
 ###### Article R222-2
 
@@ -9793,7 +9790,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R221-30 (V)
 
 
-##### Paragraphe 2 : L'appréhension entre les mains d'un tiers<a id=168></a>
+##### Paragraphe 2 : L'appréhension entre les mains d'un tiers<a id=167></a>
 
 ###### Article R222-7
 
@@ -9913,7 +9910,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R222-5 (V)
 
 
-##### Sous-section 2 : L'appréhension sur injonction du juge<a id=169></a>
+##### Sous-section 2 : L'appréhension sur injonction du juge<a id=168></a>
 
 ###### Article R222-11
 
@@ -10078,7 +10075,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R222-25 (V)
 
 
-##### Section 2 : La saisie-revendication<a id=170></a>
+##### Section 2 : La saisie-revendication<a id=169></a>
 
 ###### Article R222-17
 
@@ -10374,9 +10371,9 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R525-5 (V)
 
 
-#### Chapitre III : Les mesures d'exécution  sur les véhicules terrestres à moteur<a id=171></a>
+#### Chapitre III : Les mesures d'exécution  sur les véhicules terrestres à moteur<a id=170></a>
 
-##### Section 1 : La saisie par déclaration  auprès de l'autorité administrative<a id=172></a>
+##### Section 1 : La saisie par déclaration  auprès de l'autorité administrative<a id=171></a>
 
 ###### Article R223-1
 
@@ -10539,7 +10536,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Section 2 : La saisie par immobilisation du véhicule<a id=173></a>
+##### Section 2 : La saisie par immobilisation du véhicule<a id=172></a>
 
 ###### Article R223-6
 
@@ -10831,7 +10828,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R221-30 (V)
 
 
-#### Chapitre IV : La saisie des biens placés dans un coffre-fort<a id=174></a>
+#### Chapitre IV : La saisie des biens placés dans un coffre-fort<a id=173></a>
 
 ###### Article R224-1
 
@@ -11214,9 +11211,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-### TITRE III : LA SAISIE DES DROITS INCORPORELS<a id=175></a>
+### TITRE III : LA SAISIE DES DROITS INCORPORELS<a id=174></a>
 
-#### Chapitre Ier : Dispositions générales<a id=176></a>
+#### Chapitre Ier : Dispositions générales<a id=175></a>
 
 ###### Article R231-1
 
@@ -11234,7 +11231,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre II : Les opérations de saisie<a id=177></a>
+#### Chapitre II : Les opérations de saisie<a id=176></a>
 
 ###### Article R232-1
 
@@ -11460,9 +11457,9 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R524-3 (V)
 
 
-#### Chapitre III : Les opérations de vente<a id=178></a>
+#### Chapitre III : Les opérations de vente<a id=177></a>
 
-##### Section 1 : Dispositions générales<a id=179></a>
+##### Section 1 : Dispositions générales<a id=178></a>
 
 ###### Article R233-1
 
@@ -11514,9 +11511,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Section 2 : Les modalités de la vente<a id=180></a>
+##### Section 2 : Les modalités de la vente<a id=179></a>
 
-##### Sous-section 1 : Les valeurs mobilières admises aux négociations sur un marché  réglementé ou sur un système multilatéral de négociation<a id=181></a>
+##### Sous-section 1 : Les valeurs mobilières admises aux négociations sur un marché  réglementé ou sur un système multilatéral de négociation<a id=180></a>
 
 ###### Article R233-3
 
@@ -11568,7 +11565,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Sous-section 2 : Les droits d'associé et valeurs mobilières non admises aux négociations sur un marché réglementé ou sur un système multilatéral de négociation<a id=182></a>
+##### Sous-section 2 : Les droits d'associé et valeurs mobilières non admises aux négociations sur un marché réglementé ou sur un système multilatéral de négociation<a id=181></a>
 
 ###### Article R233-5
 
@@ -11712,9 +11709,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-### TITRE IV : LES AUTRES SAISIES MOBILIÈRES<a id=183></a>
+### TITRE IV : LES AUTRES SAISIES MOBILIÈRES<a id=182></a>
 
-#### Chapitre unique<a id=184></a>
+#### Chapitre unique<a id=183></a>
 
 ###### Article R241-1
 
@@ -11753,9 +11750,9 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R641-1 (V)
 
 
-### TITRE V : LA DISTRIBUTION DES DENIERS<a id=185></a>
+### TITRE V : LA DISTRIBUTION DES DENIERS<a id=184></a>
 
-#### Chapitre unique<a id=186></a>
+#### Chapitre unique<a id=185></a>
 
 ###### Article R251-1
 
@@ -12060,11 +12057,11 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-## LIVRE III : LA SAISIE IMMOBILIÈRE<a id=187></a>
+## LIVRE III : LA SAISIE IMMOBILIÈRE<a id=186></a>
 
-### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=188></a>
+### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=187></a>
 
-#### Chapitre unique<a id=189></a>
+#### Chapitre unique<a id=188></a>
 
 ###### Article R311-1
 
@@ -12090,7 +12087,7 @@ _Cité par_:
   - Code de commerce - art. R444-71 (V)
 
 
-##### Section 1 : La compétence territoriale<a id=190></a>
+##### Section 1 : La compétence territoriale<a id=189></a>
 
 ###### Article R311-2
 
@@ -12134,7 +12131,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Section 2 : La procédure<a id=191></a>
+##### Section 2 : La procédure<a id=190></a>
 
 ###### Article R311-4
 
@@ -12385,13 +12382,13 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R322-6
 
 
-### TITRE II : LA SAISIE ET LA VENTE DE L'IMMEUBLE<a id=192></a>
+### TITRE II : LA SAISIE ET LA VENTE DE L'IMMEUBLE<a id=191></a>
 
-#### Chapitre Ier : La saisie de l'immeuble<a id=193></a>
+#### Chapitre Ier : La saisie de l'immeuble<a id=192></a>
 
-##### Section 1 : L'acte de saisie<a id=194></a>
+##### Section 1 : L'acte de saisie<a id=193></a>
 
-##### Sous-section 1 : La délivrance du commandement de payer valant saisie au débiteur<a id=195></a>
+##### Sous-section 1 : La délivrance du commandement de payer valant saisie au débiteur<a id=194></a>
 
 ###### Article R321-1
 
@@ -12535,7 +12532,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R631-6 (V)
 
 
-##### Sous-section 2 : La délivrance du commandement de payer  valant saisie au tiers détenteur<a id=196></a>
+##### Sous-section 2 : La délivrance du commandement de payer  valant saisie au tiers détenteur<a id=195></a>
 
 ###### Article R321-4
 
@@ -12600,7 +12597,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R321-3 (V)
 
 
-##### Section 2 : La publication de l'acte de saisie<a id=197></a>
+##### Section 2 : La publication de l'acte de saisie<a id=196></a>
 
 ###### Article R321-6
 
@@ -12670,7 +12667,7 @@ _Cité par_:
   - Code de commerce - art. Annexe 4-7 (V)
 
 
-##### Section 3 : La pluralité de biens ou de saisies<a id=198></a>
+##### Section 3 : La pluralité de biens ou de saisies<a id=197></a>
 
 ###### Article R321-8
 
@@ -12818,9 +12815,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Section 4 : Les effets de l'acte de saisie et de sa publication<a id=199></a>
+##### Section 4 : Les effets de l'acte de saisie et de sa publication<a id=198></a>
 
-##### Sous-section 1 : Dispositions générales<a id=200></a>
+##### Sous-section 1 : Dispositions générales<a id=199></a>
 
 ###### Article R321-13
 
@@ -12848,7 +12845,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Sous-section 2 : L'indisponibilité du bien saisi<a id=201></a>
+##### Sous-section 2 : L'indisponibilité du bien saisi<a id=200></a>
 
 ###### Article R321-14
 
@@ -12875,7 +12872,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. L321-5 (V)
 
 
-##### Sous-section 3 : La restriction aux droits du saisi<a id=202></a>
+##### Sous-section 3 : La restriction aux droits du saisi<a id=201></a>
 
 ###### Article R321-15
 
@@ -12905,7 +12902,7 @@ _Cite_:
   - Code pénal - art. 314-6 (M)
 
 
-##### Sous-section 4 : La saisie des fruits<a id=203></a>
+##### Sous-section 4 : La saisie des fruits<a id=202></a>
 
 ###### Article R321-16
 
@@ -12979,7 +12976,7 @@ _Cité par_:
   - Code de commerce - art. Annexe 4-7 (V)
 
 
-##### Sous-section 5 : Les effets du commandement à l'égard du tiers détenteur<a id=204></a>
+##### Sous-section 5 : Les effets du commandement à l'égard du tiers détenteur<a id=203></a>
 
 ###### Article R321-19
 
@@ -13004,7 +13001,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Sous-section 6 : La péremption du commandement de payer valant saisie<a id=205></a>
+##### Sous-section 6 : La péremption du commandement de payer valant saisie<a id=204></a>
 
 ###### Article R321-20
 
@@ -13090,11 +13087,11 @@ _Cité par_:
   - Code de commerce - art. Annexe 4-7 (V)
 
 
-#### Chapitre II : La vente de l'immeuble saisi<a id=206></a>
+#### Chapitre II : La vente de l'immeuble saisi<a id=205></a>
 
-##### Section 1 : Les actes préparatoires à la vente<a id=207></a>
+##### Section 1 : Les actes préparatoires à la vente<a id=206></a>
 
-##### Sous-section 1 : Le procès-verbal de description des lieux<a id=208></a>
+##### Sous-section 1 : Le procès-verbal de description des lieux<a id=207></a>
 
 ###### Article R322-1
 
@@ -13184,9 +13181,9 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R322-14 (V)
 
 
-##### Sous-section 2 : L'assignation à comparaître<a id=209></a>
+##### Sous-section 2 : L'assignation à comparaître<a id=208></a>
 
-##### Paragraphe 1 : L'assignation du débiteur<a id=210></a>
+##### Paragraphe 1 : L'assignation du débiteur<a id=209></a>
 
 ###### Article R322-4
 
@@ -13276,7 +13273,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R631-6 (V)
 
 
-##### Paragraphe 2 : L'assignation des créanciers inscrits<a id=211></a>
+##### Paragraphe 2 : L'assignation des créanciers inscrits<a id=210></a>
 
 ###### Article R322-6
 
@@ -13375,7 +13372,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Paragraphe 3 : Disposition commune<a id=212></a>
+##### Paragraphe 3 : Disposition commune<a id=211></a>
 
 ###### Article R322-9
 
@@ -13408,7 +13405,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 881 C (VD)
 
 
-##### Sous-section 3 : Le dépôt au greffe du cahier des conditions de vente  et de l'état hypothécaire<a id=213></a>
+##### Sous-section 3 : Le dépôt au greffe du cahier des conditions de vente  et de l'état hypothécaire<a id=212></a>
 
 ###### Article R322-10
 
@@ -13493,7 +13490,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. L322-6 (V)
 
 
-##### Sous-section 4 : Les déclarations de créance<a id=214></a>
+##### Sous-section 4 : Les déclarations de créance<a id=213></a>
 
 ###### Article R322-12
 
@@ -13577,7 +13574,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R322-3 (V)
 
 
-##### Section 2 : L'audience d'orientation<a id=215></a>
+##### Section 2 : L'audience d'orientation<a id=214></a>
 
 ###### Article R322-15
 
@@ -13716,7 +13713,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R311-7 (VD)
 
 
-##### Section 3 : La vente amiable sur autorisation judiciaire<a id=216></a>
+##### Section 3 : La vente amiable sur autorisation judiciaire<a id=215></a>
 
 ###### Article R322-20
 
@@ -13886,9 +13883,9 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R322-22
 
 
-##### Section 4 : La vente par adjudication<a id=217></a>
+##### Section 4 : La vente par adjudication<a id=216></a>
 
-##### Sous-section 1 : Dispositions générales<a id=218></a>
+##### Sous-section 1 : Dispositions générales<a id=217></a>
 
 ###### Article R322-26
 
@@ -13980,7 +13977,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Sous-section 2 : La publicité<a id=219></a>
+##### Sous-section 2 : La publicité<a id=218></a>
 
 ###### Article R322-30
 
@@ -14006,7 +14003,7 @@ _Cité par_:
   - Code de procédure civile - art. 1281-17 (V)
 
 
-##### Paragraphe 1 : La publicité de droit commun<a id=220></a>
+##### Paragraphe 1 : La publicité de droit commun<a id=219></a>
 
 ###### Article R322-31
 
@@ -14205,7 +14202,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Paragraphe 2 : L'aménagement judiciaire de la publicité<a id=221></a>
+##### Paragraphe 2 : L'aménagement judiciaire de la publicité<a id=220></a>
 
 ###### Article R322-37
 
@@ -14287,9 +14284,9 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R322-37 (V)
 
 
-##### Sous-section 3 : Les enchères<a id=222></a>
+##### Sous-section 3 : Les enchères<a id=221></a>
 
-##### Paragraphe 1 : La capacité d'enchérir<a id=223></a>
+##### Paragraphe 1 : La capacité d'enchérir<a id=222></a>
 
 ###### Article R322-39
 
@@ -14326,7 +14323,7 @@ _Cité par_:
   - Code des transports - art. R5114-33 (V)
 
 
-##### Paragraphe 2 : Le déroulement des enchères<a id=224></a>
+##### Paragraphe 2 : Le déroulement des enchères<a id=223></a>
 
 ###### Article R322-40
 
@@ -14535,7 +14532,7 @@ _Cité par_:
   - Code de la consommation - art. R742-37 (V)
 
 
-##### Paragraphe 3 : La nullité des enchères<a id=225></a>
+##### Paragraphe 3 : La nullité des enchères<a id=224></a>
 
 ###### Article R322-48
 
@@ -14588,7 +14585,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R322-43 (V)
 
 
-##### Sous-section 4 : La surenchère<a id=226></a>
+##### Sous-section 4 : La surenchère<a id=225></a>
 
 ###### Article R322-50
 
@@ -14751,7 +14748,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R322-39 (V)
 
 
-##### Sous-section 5 : Le paiement du prix<a id=227></a>
+##### Sous-section 5 : Le paiement du prix<a id=226></a>
 
 ###### Article R322-56
 
@@ -14834,7 +14831,7 @@ _Cité par_:
   - Code des transports - art. R5114-36 (V)
 
 
-##### Sous-section 6 : Le jugement d'adjudication et le titre de vente<a id=228></a>
+##### Sous-section 6 : Le jugement d'adjudication et le titre de vente<a id=227></a>
 
 ###### Article R322-59
 
@@ -14967,7 +14964,7 @@ _Modifié par_:
   - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 
-##### Sous-section 7 : Les effets de l'adjudication<a id=229></a>
+##### Sous-section 7 : Les effets de l'adjudication<a id=228></a>
 
 ###### Article R322-64
 
@@ -15014,7 +15011,7 @@ _Modifié par_:
   - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 
-##### Sous-section 8 : La réitération des enchères<a id=230></a>
+##### Sous-section 8 : La réitération des enchères<a id=229></a>
 
 ###### Article R322-66
 
@@ -15235,9 +15232,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-### TITRE III : LA DISTRIBUTION DU PRIX<a id=231></a>
+### TITRE III : LA DISTRIBUTION DU PRIX<a id=230></a>
 
-#### Chapitre Ier : Dispositions générales<a id=232></a>
+#### Chapitre Ier : Dispositions générales<a id=231></a>
 
 ###### Article R331-1
 
@@ -15315,7 +15312,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R332-8 (V)
 
 
-#### Chapitre II : La distribution amiable<a id=233></a>
+#### Chapitre II : La distribution amiable<a id=232></a>
 
 ###### Article R332-1
 
@@ -15645,7 +15642,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R332-6 (V)
 
 
-#### Chapitre III : La distribution judiciaire<a id=234></a>
+#### Chapitre III : La distribution judiciaire<a id=233></a>
 
 ###### Article R333-1
 
@@ -15719,7 +15716,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre IV : Dispositions communes<a id=235></a>
+#### Chapitre IV : Dispositions communes<a id=234></a>
 
 ###### Article R334-1
 
@@ -15798,11 +15795,11 @@ _Cité par_:
   - Code de commerce - art. R444-71 (V)
 
 
-## LIVRE IV : L'EXPULSION<a id=236></a>
+## LIVRE IV : L'EXPULSION<a id=235></a>
 
-### TITRE Ier : CONDITIONS DE L'EXPULSION<a id=237></a>
+### TITRE Ier : CONDITIONS DE L'EXPULSION<a id=236></a>
 
-#### Chapitre Ier : Dispositions générales<a id=238></a>
+#### Chapitre Ier : Dispositions générales<a id=237></a>
 
 ###### Article R411-1
 
@@ -15881,7 +15878,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre II : Dispositions particulières aux locaux  d'habitation ou à usage professionnel<a id=239></a>
+#### Chapitre II : Dispositions particulières aux locaux  d'habitation ou à usage professionnel<a id=238></a>
 
 ###### Article R412-1
 
@@ -16013,9 +16010,9 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. L412-2 (V)
 
 
-### TITRE III : LES OPÉRATIONS D'EXPULSION<a id=240></a>
+### TITRE III : LES OPÉRATIONS D'EXPULSION<a id=239></a>
 
-#### Chapitre II : Le procès-verbal d'expulsion<a id=241></a>
+#### Chapitre II : Le procès-verbal d'expulsion<a id=240></a>
 
 ###### Article R432-1
 
@@ -16074,9 +16071,9 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R451-2 (V)
 
 
-#### Chapitre III : Le sort des meubles<a id=242></a>
+#### Chapitre III : Le sort des meubles<a id=241></a>
 
-##### Section 1 : Dispositions générales<a id=243></a>
+##### Section 1 : Dispositions générales<a id=242></a>
 
 ###### Article R433-1
 
@@ -16251,7 +16248,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R433-5 (V)
 
 
-##### Section 2 : Les meubles indisponibles<a id=244></a>
+##### Section 2 : Les meubles indisponibles<a id=243></a>
 
 ###### Article R433-7
 
@@ -16283,9 +16280,9 @@ _Cité par_:
   - Code de commerce - art. Annexe 4-7 (V)
 
 
-### TITRE IV : LES DIFFICULTÉS D'EXÉCUTION<a id=245></a>
+### TITRE IV : LES DIFFICULTÉS D'EXÉCUTION<a id=244></a>
 
-#### Chapitre Ier : La réinstallation de la personne expulsée<a id=246></a>
+#### Chapitre Ier : La réinstallation de la personne expulsée<a id=245></a>
 
 ###### Article R441-1
 
@@ -16317,7 +16314,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R451-4 (VD)
 
 
-#### Chapitre II : Les contestations<a id=247></a>
+#### Chapitre II : Les contestations<a id=246></a>
 
 ###### Article R442-1
 
@@ -16407,46 +16404,37 @@ _Cite_:
 
 ###### Article R442-4
 
-Lorsqu'il est fait application de l'article R. 442-2, le greffe informe le demandeur des lieu, jour et heure de l'audience
-par lettre recommandée avec demande d'avis de réception, laquelle reproduit les dispositions des articles R. 121-6 à R.
-121-10. Copie de cette lettre est envoyée le même jour par lettre simple. 
-
-Lors de la présentation de la demande, le demandeur peut également être convoqué verbalement contre émargement. Dans ce cas,
-le greffe lui remet un avis comportant les indications prévues à l'alinéa précédent. 
+Lorsqu'il est fait application de l'article R. 442-2, le greffe avise par tous moyens le demandeur des lieu, jour et heure de
+l'audience. 
 
 Le défendeur est convoqué par lettre recommandée avec demande d'avis de réception. Cette lettre contient une copie de la
 demande, informe l'intéressé qu'il s'expose, faute de se présenter ou de faire connaître ses moyens de défense, à être jugé
-sur les seuls éléments fournis par le demandeur, et reproduit les dispositions des articles R. 121-6 à R. 121-10. Copie de la
-convocation est envoyée le même jour par lettre simple. Cette convocation peut être également faite verbalement contre
-émargement. 
+sur les seuls éléments fournis par le demandeur, et reproduit les dispositions des articles R. 121-6 à R. 121-10. Cette
+convocation peut être également faite verbalement contre émargement. 
 
 En cas de retour au greffe de la lettre recommandée qui n'a pu être remise à son destinataire, le greffier en informe le
 demandeur et l'invite à procéder comme il est dit à l'article 670-1 du code de procédure civile.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°92-755 du 31 juillet 1992 - art. 19 (Ab)
-
 _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2015-282 du 11 mars 2015 - art. 15
 
 _Cite_:
 
-  - Code de procédure civile - art. 670-1 (V)
-  - Code des procédures civiles d'exécution - art. R121-6 (V)
-  - Code des procédures civiles d'exécution - art. R442-2 (V)
+  - Code de procédure civile - art. 670-1
+  - Code des procédures civiles d'exécution - art. R121-6
+  - Code des procédures civiles d'exécution - art. R442-2
 
 
-### TITRE V : DISPOSITIONS PROPRES  À LA REPRISE DES LOCAUX ABANDONNÉS<a id=248></a>
+### TITRE V : DISPOSITIONS PROPRES  À LA REPRISE DES LOCAUX ABANDONNÉS<a id=247></a>
 
-#### Chapitre unique<a id=249></a>
+#### Chapitre unique<a id=248></a>
 
 ###### Article R451-1
 
@@ -16583,11 +16571,11 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R641-1 (V)
 
 
-## LIVRE V : LES MESURES CONSERVATOIRES<a id=250></a>
+## LIVRE V : LES MESURES CONSERVATOIRES<a id=249></a>
 
-### TITRE Ier : DISPOSITIONS COMMUNES<a id=251></a>
+### TITRE Ier : DISPOSITIONS COMMUNES<a id=250></a>
 
-#### Chapitre Ier : Les conditions et la mise en œuvre<a id=252></a>
+#### Chapitre Ier : Les conditions et la mise en œuvre<a id=251></a>
 
 ###### Article R511-1
 
@@ -16815,7 +16803,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R511-7 (V)
 
 
-#### Chapitre II : Les contestations<a id=253></a>
+#### Chapitre II : Les contestations<a id=252></a>
 
 ###### Article R512-1
 
@@ -16890,9 +16878,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-### TITRE II : LES SAISIES CONSERVATOIRES<a id=254></a>
+### TITRE II : LES SAISIES CONSERVATOIRES<a id=253></a>
 
-#### Chapitre Ier : Dispositions générales<a id=255></a>
+#### Chapitre Ier : Dispositions générales<a id=254></a>
 
 ###### Article R521-1
 
@@ -16919,9 +16907,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R133-1-1 (V)
 
 
-#### Chapitre II : La saisie conservatoire sur les biens meubles corporels<a id=256></a>
+#### Chapitre II : La saisie conservatoire sur les biens meubles corporels<a id=255></a>
 
-##### Section 1 : Les opérations de saisie<a id=257></a>
+##### Section 1 : Les opérations de saisie<a id=256></a>
 
 ###### Article R522-1
 
@@ -17121,7 +17109,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R221-49 (V)
 
 
-##### Section 2 : La conversion en saisie-vente<a id=258></a>
+##### Section 2 : La conversion en saisie-vente<a id=257></a>
 
 ###### Article R522-7
 
@@ -17244,7 +17232,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R221-33 (V)
 
 
-##### Section 3 : La pluralité de saisies<a id=259></a>
+##### Section 3 : La pluralité de saisies<a id=258></a>
 
 ###### Article R522-11
 
@@ -17363,9 +17351,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre III : La saisie conservatoire des créances<a id=260></a>
+#### Chapitre III : La saisie conservatoire des créances<a id=259></a>
 
-##### Section 1 : Les opérations de saisie<a id=261></a>
+##### Section 1 : Les opérations de saisie<a id=260></a>
 
 ###### Article R523-1
 
@@ -17548,7 +17536,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Section 2 : La conversion en saisie-attribution<a id=262></a>
+##### Section 2 : La conversion en saisie-attribution<a id=261></a>
 
 ###### Article R523-7
 
@@ -17675,9 +17663,9 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R211-7 (V)
 
 
-#### Chapitre IV : La saisie conservatoire des droits d'associé  et des valeurs mobilières<a id=263></a>
+#### Chapitre IV : La saisie conservatoire des droits d'associé  et des valeurs mobilières<a id=262></a>
 
-##### Section 1 : Les opérations de saisie<a id=264></a>
+##### Section 1 : Les opérations de saisie<a id=263></a>
 
 ###### Article R524-1
 
@@ -17789,7 +17777,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R232-8 (V)
 
 
-##### Section 2 : La conversion en saisie-vente<a id=265></a>
+##### Section 2 : La conversion en saisie-vente<a id=264></a>
 
 ###### Article R524-4
 
@@ -17888,7 +17876,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R233-3 (V)
 
 
-#### Chapitre V : La saisie conservatoire des biens placés  dans un coffre-fort<a id=266></a>
+#### Chapitre V : La saisie conservatoire des biens placés  dans un coffre-fort<a id=265></a>
 
 ###### Article R525-1
 
@@ -18061,9 +18049,9 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R522-7 (V)
 
 
-### TITRE III : LES SÛRETÉS JUDICIAIRES<a id=267></a>
+### TITRE III : LES SÛRETÉS JUDICIAIRES<a id=266></a>
 
-#### Chapitre Ier : Dispositions générales<a id=268></a>
+#### Chapitre Ier : Dispositions générales<a id=267></a>
 
 ###### Article R531-1
 
@@ -18091,9 +18079,9 @@ _Cité par_:
   - Code de commerce - art. R444-71 (V)
 
 
-#### Chapitre II : La publicité provisoire<a id=269></a>
+#### Chapitre II : La publicité provisoire<a id=268></a>
 
-##### Section 1 : Les formalités<a id=270></a>
+##### Section 1 : Les formalités<a id=269></a>
 
 ###### Article R532-1
 
@@ -18228,7 +18216,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R232-1 (V)
 
 
-##### Section 2 : Dispositions communes<a id=271></a>
+##### Section 2 : Dispositions communes<a id=270></a>
 
 ###### Article R532-5
 
@@ -18375,7 +18363,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre III : La publicité définitive<a id=272></a>
+#### Chapitre III : La publicité définitive<a id=271></a>
 
 ###### Article R533-1
 
@@ -18554,7 +18542,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre IV : Dispositions applicables aux départements  du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=273></a>
+#### Chapitre IV : Dispositions applicables aux départements  du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=272></a>
 
 ###### Article R534-1
 
@@ -18589,11 +18577,11 @@ _Cité par_:
   - Code de commerce - art. R444-71 (V)
 
 
-## LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=274></a>
+## LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=273></a>
 
-### TITRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE<a id=275></a>
+### TITRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE<a id=274></a>
 
-#### Chapitre Ier : Dispositions communes<a id=276></a>
+#### Chapitre Ier : Dispositions communes<a id=275></a>
 
 ###### Article R611-1
 
@@ -18621,9 +18609,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre II : Dispositions spécifiques à une ou plusieurs collectivités<a id=277></a>
+#### Chapitre II : Dispositions spécifiques à une ou plusieurs collectivités<a id=276></a>
 
-##### Section unique  Dispositions relatives à Mayotte<a id=278></a>
+##### Section unique  Dispositions relatives à Mayotte<a id=277></a>
 
 ###### Article R612-1
 
@@ -18826,9 +18814,9 @@ _Créé par_:
   - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 
-### TITRE II : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY ET SAINT-MARTIN<a id=279></a>
+### TITRE II : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY ET SAINT-MARTIN<a id=278></a>
 
-#### Chapitre Ier : Dispositions communes<a id=280></a>
+#### Chapitre Ier : Dispositions communes<a id=279></a>
 
 ###### Article R621-1
 
@@ -18937,9 +18925,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-### TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON<a id=281></a>
+### TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON<a id=280></a>
 
-#### Chapitre unique<a id=282></a>
+#### Chapitre unique<a id=281></a>
 
 ###### Article R631-1
 
@@ -19116,9 +19104,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=283></a>
+### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=282></a>
 
-#### Chapitre unique<a id=284></a>
+#### Chapitre unique<a id=283></a>
 
 ###### Article R641-1
 
@@ -19374,9 +19362,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-### TITRE V : LES TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=285></a>
+### TITRE V : LES TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=284></a>
 
-#### Chapitre unique<a id=286></a>
+#### Chapitre unique<a id=285></a>
 
 ###### Article R651-1
 
