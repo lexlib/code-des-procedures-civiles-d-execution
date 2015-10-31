@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2015-08-08
+Version Consolidée au 2015-11-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -15908,7 +15908,8 @@ la prise en compte de la demande de relogement de l'occupant dans le cadre du pl
 des personnes défavorisées prévu par la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement. 
 
 Pour l'application de l'article L. 412-5, l'huissier de justice envoie au préfet du département du lieu de situation de
-l'immeuble, par lettre recommandée avec demande d'avis de réception, copie du commandement d'avoir à libérer les locaux. 
+l'immeuble,         par lettre recommandée avec demande d'avis de réception ou par voie électronique, copie du commandement
+d'avoir à libérer les locaux. 
 
 Dans toute la mesure du possible, il communique tous renseignements relatifs à l'occupant dont l'expulsion est poursuivie
 ainsi qu'aux personnes vivant habituellement avec lui.
@@ -15917,22 +15918,18 @@ ainsi qu'aux personnes vivant habituellement avec lui.
 
 _Cite_:
 
-  - Loi n°90-449 du 31 mai 1990 (V)
-  - Code des procédures civiles d'exécution - art. L411-1 (V)
-  - Code des procédures civiles d'exécution - art. L412-3 (V)
-  - Code des procédures civiles d'exécution - art. L412-5 (V)
-
-_Anciens textes_:
-
-  - Décret n°92-755 du 31 juillet 1992 - art. 197 (Ab)
+  - Loi n°90-449 du 31 mai 1990
+  - Code des procédures civiles d'exécution - art. L411-1
+  - Code des procédures civiles d'exécution - art. L412-3
+  - Code des procédures civiles d'exécution - art. L412-5
 
 _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2015-1384 du 30 octobre 2015 - art. 15
 
 _Cité par_:
 
