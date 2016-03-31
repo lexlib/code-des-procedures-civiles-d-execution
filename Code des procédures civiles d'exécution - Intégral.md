@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2015-11-01
+Version Consolidée au 2016-04-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -1983,6 +1983,11 @@ Elle l'est aussi aux termes échus pour les six derniers mois avant la notificat
 
 Le règlement de ces sommes est fait par fractions égales sur une période de douze mois.
 
+Lorsqu'un organisme débiteur de prestations familiales agit pour le compte d'un créancier d'aliments, la procédure de
+paiement direct est applicable aux termes échus de la pension alimentaire pour les vingt-quatre derniers mois avant la
+notification de la demande de paiement direct. Le règlement de ces sommes est fait par fractions égales sur une période de
+vingt-quatre mois.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -1993,13 +1998,13 @@ _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
-
 _Cité par_:
 
   - Loi n°2014-873 du 4 août 2014 - art. 27 (V)
+
+_Modifié par_:
+
+  - Loi n°2015-1702 du 21 décembre 2015 - art. 44 (V)
 
 
 ###### Article L213-5
