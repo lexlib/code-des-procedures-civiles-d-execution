@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2017-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -75,7 +75,7 @@ Version Consolidée au 2017-09-01
       - [TITRE II : LA PRÉVENTION DES DIFFICULTÉS D'EXÉCUTION (art. L421-1 à L421-2)](#72)
         - [Chapitre unique : L'astreinte (art. L421-1 à L421-2)](#73)
       - [TITRE III : LES OPÉRATIONS D'EXPULSION (art. L431-1 à L433-3)](#74)
-        - [Chapitre Ier : Dispositions générales (art. L431-1)](#75)
+        - [Chapitre Ier : Dispositions générales (art. L431-1 à L431-2)](#75)
         - [Chapitre III : Le sort des meubles (art. L433-1 à L433-3)](#76)
       - [TITRE V : DISPOSITIONS PROPRES À LA REPRISE  DES LOCAUX ABANDONNÉS (art. L451-1)](#77)
         - [Chapitre unique (art. L451-1)](#78)
@@ -3568,18 +3568,17 @@ demande de relogement au titre du droit au logement opposable. A défaut de sais
 département par l'huissier, le délai avant l'expiration duquel l'expulsion ne peut avoir lieu est suspendu. 
 
 La saisine du représentant de l'Etat dans le département par l'huissier et l'information de la commission de coordination des
-actions de prévention des expulsions locatives par le représentant de l'Etat dans le département peuvent s'effectuer par voie
-électronique, selon des modalités fixées par décret.
+actions de prévention des expulsions locatives par le représentant de l'Etat dans le département s'effectuent par voie
+électronique par l'intermédiaire du système d'information prévu au dernier alinéa du même article 7-2.
+
+**Nota:**
+
+Loi n° 2017-86 du 27 janvier 2017 art. 152-III : Ces dispositions entrent en vigueur à la date de mise en œuvre
+opérationnelle des modules concernés du système d'information prévu au dernier alinéa de l'article 7-2 de la loi n° 90-449 du
+31 mai 1990 visant à la mise en œuvre du droit au logement, qui est fixée par arrêté du ministre de l'intérieur, et au plus
+tard le 31 décembre 2017.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°91-650 du 9 juillet 1991 - art. 62 (VT)
-
-_Codifié par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
 _Cité par_:
 
@@ -3589,9 +3588,17 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. L641-7 (VD)
   - Code des procédures civiles d'exécution - art. R412-2 (V)
 
+_Anciens textes_:
+
+  - Loi n°91-650 du 9 juillet 1991 - art. 62 (VT)
+
+_Codifié par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+
 _Modifié par_:
 
-  - Loi n°2014-366 du 24 mars 2014 - art. 28
+  - Loi n°2017-86 du 27 janvier 2017 - art. 152 (V)
 
 
 ###### Article L412-6
@@ -3778,6 +3785,26 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. L142-1 (VD)
   - Code des procédures civiles d'exécution - art. L142-3 (VD)
   - Code des procédures civiles d'exécution - art. L451-1 (VD)
+
+
+###### Article L431-2
+
+En matière d'expulsion, lorsqu'il requiert le concours de la force publique, l'huissier de justice chargé de l'exécution
+procède par voie électronique par l'intermédiaire du système d'information prévu au dernier alinéa de l'article 7-2 de la loi
+n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement.
+
+**Nota:**
+
+Loi n° 2017-86 du 27 janvier 2017 art. 152-III : Ces dispositions entrent en vigueur à la date de mise en œuvre
+opérationnelle des modules concernés du système d'information prévu au dernier alinéa de l'article 7-2 de la loi n° 90-449 du
+31 mai 1990 visant à la mise en œuvre du droit au logement, qui est fixée par arrêté du ministre de l'intérieur, et au plus
+tard le 31 décembre 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-86 du 27 janvier 2017 - art. 152 (V)
 
 
 #### Chapitre III : Le sort des meubles<a id=76></a>
