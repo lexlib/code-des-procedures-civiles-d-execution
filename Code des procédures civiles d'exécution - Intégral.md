@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2017-12-31
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -4317,32 +4317,6 @@ _Créé par_:
 _Cite_:
 
   - Code des procédures civiles d'exécution - art. L152-1 (VD)
-
-
-###### Article L612-3
-
-L'article L. 212-1 est ainsi rédigé : 
-
-" Art. L. 212-1. ― La saisie et la cession des rémunérations sont régies par les articles L. 145-1 à L. 145-6 du code du
-travail applicable à Mayotte. "
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
-
-_Abrogé par_:
-
-  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 22
-
-_Cite_:
-
-  - Code du travail applicable à Mayotte. - art. L145-1 (VT)
 
 
 ###### Article L612-4
