@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-11-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -19097,86 +19097,6 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°2012-783 du 30 mai 2012 - art.
-
-
-###### Article R612-2
-
-Pour l'application du deuxième alinéa de l'article R. 112-4, les mots : " aux articles R. 3252-2 et 3 du code du travail "
-sont remplacés par les mots : " à l'article R. 145-1 du code du travail applicable à Mayotte ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2012-783 du 30 mai 2012 (V)
-
-_Créé par_:
-
-  - Décret n°2012-783 du 30 mai 2012 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-953 du 31 octobre 2018 - art. 19
-
-_Cite_:
-
-  - Code du travail - art. R3252-2
-  - Code du travail applicable à Mayotte. - art. R145-1
-  - Code des procédures civiles d'exécution - art. R112-4
-
-
-###### Article R612-3
-
-L'article R. 212-1 est ainsi rédigé : 
-
-" Art. R. 212-1. ― La saisie et la cession des rémunérations sont régies par les articles R. 145-1 à R. 145-21 du code du
-travail applicable à Mayotte. "
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2012-783 du 30 mai 2012 (V)
-
-_Créé par_:
-
-  - Décret n°2012-783 du 30 mai 2012 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-953 du 31 octobre 2018 - art. 19
-
-_Cite_:
-
-  - Code du travail applicable à Mayotte. - art. R145-1 (Ab)
-
-
-###### Article R612-4
-
-Pour l'application de l'article R. 213-10, les mots : " la somme fixée à l'article R. 3252-5 du code du travail en
-application de l'article L. 3252-5 du même code " sont remplacés par les mots : " une somme égale au montant forfaitaire
-mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles fixé pour un foyer composé d'une seule
-personne ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2012-783 du 30 mai 2012 (V)
-
-_Créé par_:
-
-  - Décret n°2012-783 du 30 mai 2012 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-953 du 31 octobre 2018 - art. 19
-
-_Cite_:
-
-  - Code du travail - art. R3252-5
-  - Code de l'action sociale et des familles - art. L262-2
-  - Code des procédures civiles d'exécution - art. R213-10
 
 
 ###### Article R612-5
