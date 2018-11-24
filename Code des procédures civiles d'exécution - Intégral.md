@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2018-11-07
+Version Consolidée au 2018-11-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -3116,6 +3116,39 @@ _Cité par_:
   - Code de commerce - art. L642-18 (M)
 
 
+###### Article L322-7-1
+
+La personne condamnée à l'une des peines complémentaires prévues au 2° du I de l'article 225-26 du code pénal, au 3° du IV et
+au deuxième alinéa du V de l'article L. 1337-4 du code de la santé publique, au 3° du VII et au deuxième alinéa du VIII de
+l'article L. 123-3 du code de la construction et de l'habitation, au 3° du III et au deuxième alinéa du IV de l'article L.
+511-6 et au 3° du II et au troisième alinéa du III de l'article L. 521-4 du même code ne peut se porter enchérisseur pendant
+la durée de cette peine pour l'acquisition d'un bien immobilier à usage d'habitation ou d'un fonds de commerce d'un
+établissement recevant du public à usage total ou partiel d'hébergement, sauf dans le cas d'une acquisition pour une
+occupation à titre personnel.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 191 de la loi n° 2018-1021 du 23 novembre 2018, un décret en Conseil d'Etat
+définit les modalités d'application des dispositions de l'article L. 322-7-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 191 (V)
+
+_Cité par_:
+
+  - Décret n°2019-488 du 22 mai 2019 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L1337-4
+  - Code de la construction et de l'habitation. - art. L123-3
+  - Code de la construction et de l'habitation. - art. L511-6
+  - Code de la construction et de l'habitation. - art. L521-4
+
+
 ###### Article L322-8
 
 L'adjudication ne peut donner lieu à déclaration de command.
@@ -3422,11 +3455,14 @@ _Cité par_:
 
 ###### Article L412-1
 
-Si l'expulsion porte sur un lieu habité par la personne expulsée ou par  tout occupant de son chef, elle ne peut avoir lieu
+Si l'expulsion porte sur un lieu habité par la personne expulsée ou par tout occupant de son chef, elle ne peut avoir lieu
 qu'à l'expiration d'un délai de deux mois qui suit le commandement, sans préjudice des dispositions des articles L. 412-3 à
-L. 412-7. Toutefois, le juge peut, notamment lorsque les personnes dont l'expulsion a été ordonnée sont entrées dans les
-locaux par voie de fait ou lorsque la procédure de relogement effectuée en application de l'article L. 442-4-1 du code de la
-construction et de l'habitation n'a pas été suivie d'effet du fait du locataire, réduire ou supprimer ce délai.
+L. 412-7. Toutefois, le juge peut, notamment lorsque la procédure de relogement effectuée en application de l'article L.
+442-4-1 du code de la construction et de l'habitation n'a pas été suivie d'effet du fait du locataire, réduire ou supprimer
+ce délai.
+
+Le délai prévu au premier alinéa du présent article ne s'applique pas lorsque le juge qui ordonne l'expulsion constate que
+les personnes dont l'expulsion a été ordonnée sont entrées dans les locaux par voie de fait.
 
 **Liens relatifs à cet article**
 
@@ -3440,12 +3476,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-86 du 27 janvier 2017 - art. 143
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L442-4-1
-  - Code des procédures civiles d'exécution - art. L412-3
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 201
 
 _Cité par_:
 
@@ -3455,6 +3486,10 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. L631-3 (VD)
   - Code des procédures civiles d'exécution - art. L641-5 (VD)
   - Code des procédures civiles d'exécution - art. R412-1 (V)
+
+_Cite_:
+
+  - Code des procédures civiles d'exécution - art. L412-3
 
 
 ###### Article L412-2
@@ -3615,10 +3650,14 @@ _Modifié par_:
 Nonobstant toute décision d'expulsion passée en force de chose jugée et malgré l'expiration des délais accordés en vertu de
 l'article L. 412-3, il est sursis à toute mesure d'expulsion non exécutée à la date du 1er novembre de chaque année jusqu'au
 31 mars de l'année suivante, à moins que le relogement des intéressés soit assuré dans des conditions suffisantes respectant
-l'unité et les besoins de la famille. 
+l'unité et les besoins de la famille.
 
-Toutefois, le juge peut supprimer le bénéfice du sursis prévu au premier alinéa lorsque les personnes dont l'expulsion a été
-ordonnée sont entrées dans les lieux par voie de fait.
+Par dérogation au premier alinéa du présent article, ce sursis ne s'applique pas lorsque la mesure d'expulsion a été
+prononcée en raison d'une introduction sans droit ni titre dans le domicile d'autrui par voies de fait.
+
+Le juge peut supprimer ou réduire le bénéfice du sursis mentionné au même premier alinéa lorsque les personnes dont
+l'expulsion a été ordonnée sont entrées dans tout autre lieu que le domicile à l'aide des procédés mentionnés au deuxième
+alinéa.
 
 **Liens relatifs à cet article**
 
@@ -3628,7 +3667,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-86 du 27 janvier 2017 - art. 143
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 201
 
 _Cité par_:
 
@@ -3645,7 +3684,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. L412-3 (V)
+  - Code des procédures civiles d'exécution - art. L412-3
 
 
 ###### Article L412-7
