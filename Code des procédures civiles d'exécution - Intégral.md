@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2018-11-25
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -7825,9 +7825,8 @@ _Créé par_:
 La déclaration qui incombe au tiers saisi sur la situation de droit existant entre lui-même et le débiteur est faite par le
 service employeur au greffe du tribunal d'instance.
 
-Les déclarations relatives aux cessions, saisies, avis à tiers détenteurs, oppositions à tiers détenteurs, oppositions
-administratives et saisies à tiers détenteurs ou paiement direct de créances d'aliments sont faites par le comptable
-assignataire au greffe du tribunal d'instance.
+Les déclarations relatives aux cessions, saisies, saisies administratives à tiers détenteurs ou paiement direct de créances
+d'aliments sont faites par le comptable assignataire au greffe du tribunal d'instance.
 
 **Liens relatifs à cet article**
 
@@ -7839,9 +7838,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2018-970 du 8 novembre 2018 - art. 4
 
 _Cité par_:
 
@@ -19398,17 +19397,19 @@ _Créé par_:
 ###### Article R641-1
 
 Sous réserve des adaptations prévues par le présent titre, les dispositions suivantes de la partie réglementaire du présent
-code sont applicables à Wallis-et-Futuna : 
+code sont applicables à Wallis-et-Futuna :
 
-1° Le livre Ier, à l'exception du second alinéa de l'article R. 112-4, des articles R. 162-2, R. 162-3 et R. 162-7 ; 
+1° Le livre Ier, à l'exception du second alinéa de l'article R. 112-4, des articles R. 162-2, R. 162-3 et R. 162-7 ;
 
-Les articles R. 121-20 et R. 131-2 dans leur rédaction résultant du décret n° 2017-891 du 6 mai 2017. 
+Les articles R. 121-20 et R. 131-2 dans leur rédaction résultant du décret n° 2017-891 du 6 mai 2017.
 
-Les dispositions du décret n° 2017-891 du 6 mai 2017 abrogeant l'article R. 121-3 sont applicables à Wallis-et-Futuna. 
+Les dispositions du décret n° 2017-891 du 6 mai 2017 abrogeant l'article R. 121-3 sont applicables à Wallis-et-Futuna.
 
-2° Le livre II, à l'exception du 4° de l'article R. 211-3 et des 3°, 5° et 6° de l'article R. 241-1 ; 
+2° Le livre II, à l'exception du 4° de l'article R. 211-3 et des 3°, 5° et 6° de l'article R. 241-1 ;
 
-3° Le livre IV, à l'exception du 2° de l'article R. 451-1 et de l'article R. 451-4 ; 
+L'article R. 212-3 dans sa rédaction résultant du décret n° 2012-783 du 30 mai 2012.
+
+3° Le livre IV, à l'exception du 2° de l'article R. 451-1 et de l'article R. 451-4 ;
 
 4° Le livre V, à l'exception du 6° de l'article R. 523-3, des articles R. 532-1, R. 532-2, R. 532-7 en tant qu'il porte sur
 les immeubles et les fonds de commerce et R. 533-2.
@@ -19426,13 +19427,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-891 du 6 mai 2017 - art. 51
+  - Décret n°2018-970 du 8 novembre 2018 - art. 4
 
 _Cite_:
 
   - Code des procédures civiles d'exécution - art. R112-4
-  - Code des procédures civiles d'exécution - art. R121-20 (VD)
-  - Code des procédures civiles d'exécution - art. R131-2 (VD)
+  - Code des procédures civiles d'exécution - art. R121-20
+  - Code des procédures civiles d'exécution - art. R131-2
   - Code des procédures civiles d'exécution - art. R162-2
   - Code des procédures civiles d'exécution - art. R211-3
   - Code des procédures civiles d'exécution - art. R241-1
