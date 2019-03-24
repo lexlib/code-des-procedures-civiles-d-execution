@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-03-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -523,20 +523,20 @@ _Cite_:
 ###### Article L111-5
 
 En vertu des dispositions applicables dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, constituent aussi des
-titres exécutoires : 
+titres exécutoires :
 
 1° Les actes établis par un notaire de ces trois départements lorsqu'ils sont dressés au sujet d'une prétention ayant pour
-objet le paiement d'une somme d'argent déterminée ou la prestation d'une quantité déterminée d'autres choses fongibles ou de
-valeurs mobilières, et que le débiteur consent dans l'acte à l'exécution forcée immédiate ; 
+objet le paiement d'une somme d'argent déterminée ou déterminable, ou la prestation d'une quantité déterminée ou déterminable
+d'autres choses fongibles ou de valeurs mobilières, et que le débiteur consent dans l'acte à l'exécution forcée immédiate ;
 
 2° Les ordonnances de taxe de frais. Une ordonnance de taxe de frais, apposée sur le jugement conforme à l'article 105 du
 code local de procédure civile est susceptible d'exécution en vertu de l'expédition exécutoire de ce jugement. Une expédition
-exécutoire particulière pour l'ordonnance de taxe n'est pas nécessaire ; 
+exécutoire particulière pour l'ordonnance de taxe n'est pas nécessaire ;
 
-3° Les bordereaux de collocation exécutoires ; 
+3° Les bordereaux de collocation exécutoires ;
 
 4° Les actes de partage établis en application du titre VI de la loi du 1er juin 1924 mettant en vigueur la législation
-civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle ; 
+civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle ;
 
 5° Les contraintes émises par les caisses d'assurance-accidents agricole pour le recouvrement des cotisations arriérées.
 
@@ -544,15 +544,15 @@ civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Mose
 
 _Cite_:
 
-  - Loi du 1er juin 1924 (V)
+  - Loi du 1 juin 1924
 
 _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Loi n°2019-222 du 23 mars 2019 - art. 108
 
 
 ###### Article L111-6
@@ -2662,8 +2662,8 @@ _Cité par_:
 
 ###### Article L311-5
 
-Le créancier qui a procédé à la saisie d'un immeuble de son débiteur ne peut engager une nouvelle procédure de saisie sur un
-autre bien immobilier de celui-ci que dans le cas d'insuffisance du bien déjà saisi.
+Le créancier ne peut procéder à la saisie de plusieurs immeubles de son débiteur que dans le cas où la saisie d'un seul ou de
+certains d'entre eux n'est pas suffisante pour le désintéresser et désintéresser les créanciers inscrits.
 
 Le créancier ne peut saisir les immeubles qui ne sont pas hypothéqués en sa faveur que dans le cas où l'hypothèque dont il
 bénéficie ne lui permet pas d'être rempli de ses droits.
@@ -2674,9 +2674,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Loi n°2019-222 du 23 mars 2019 - art. 14
 
 _Anciens textes_:
 
@@ -2912,19 +2912,28 @@ _Anciens textes_:
 
 Les biens sont vendus soit à l'amiable sur autorisation judiciaire, soit par adjudication.
 
+En cas d'accord entre le débiteur, le créancier poursuivant, les créanciers inscrits sur l'immeuble saisi à la date de la
+publication du commandement de payer valant saisie, les créanciers inscrits sur l'immeuble avant la publication du titre de
+vente et qui sont intervenus dans la procédure ainsi que le créancier mentionné au 1° bis de l'article 2374 du code civil,
+ils peuvent également être vendus de gré à gré après l'orientation en vente forcée et jusqu'à l'ouverture des enchères.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Loi n°2019-222 du 23 mars 2019 - art. 14
 
 _Anciens textes_:
 
   - Code civil - art. 2201 (VT)
+
+_Cite_:
+
+  - Code civil - art. 2374
 
 _Cité par_:
 
@@ -2985,8 +2994,8 @@ _Anciens textes_:
 
 ###### Article L322-4
 
-L'acte notarié de vente n'est établi que sur consignation du prix et des frais de la vente auprès de la Caisse des dépôts et
-consignations et justification du paiement des frais taxés.
+L'acte notarié de vente n'est établi que sur consignation du prix auprès de la Caisse des dépôts et consignations et
+justification du paiement des frais de la vente et des frais taxés.
 
 **Liens relatifs à cet article**
 
@@ -2994,9 +3003,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Loi n°2019-222 du 23 mars 2019 - art. 14
 
 _Anciens textes_:
 
@@ -4711,15 +4720,18 @@ _Cite_:
 ###### Article L641-1
 
 Sous réserve des adaptations prévues dans les articles ci-après, les dispositions suivantes de la partie législative du
-présent code sont applicables dans les îles Wallis et Futuna : 
+présent code sont applicables dans les îles Wallis et Futuna :
 
-1° Le livre Ier, à l'exception du 6° de l'article L. 112-2 et de l'article L. 162-2 ; 
+1° Le livre Ier, à l'exception du 6° de l'article L. 112-2 et de l'article L. 162-2 ;
 
-2° Le livre II ; 
+2° Le livre II ;
 
-3° Le livre IV ; 
+3° Le livre IV ;
 
 4° Le livre V.
+
+Les articles L. 111-5, L. 121-4, L. 125-1, L. 211-1-1, L. 433-2 et L. 523-1-1 sont applicables, dans leur rédaction résultant
+de la loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice.
 
 **Liens relatifs à cet article**
 
@@ -4727,14 +4739,14 @@ _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Loi n°2019-222 du 23 mars 2019 - art. 110 (V)
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. L112-2 (VD)
-  - Code des procédures civiles d'exécution - art. L162-2 (VD)
+  - Code des procédures civiles d'exécution - art. L112-2
+  - Code des procédures civiles d'exécution - art. L162-2
 
 
 ###### Article L641-2
