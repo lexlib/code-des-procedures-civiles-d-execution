@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2019-03-25
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -1526,11 +1526,17 @@ _Cité par_:
 ###### Article L152-3
 
 Les renseignements obtenus ne peuvent être utilisés que dans la seule mesure nécessaire à l'exécution du ou des titres pour
-lesquels ils ont été demandés. Ils ne peuvent, en aucun cas, être communiqués à des tiers ni faire l'objet d'un fichier
-d'informations nominatives.
+lesquels ils ont été demandés. Ils ne peuvent, en aucun cas, être communiqués à des tiers ni faire l'objet d'un traitement de
+données à caractère personnel.
 
 Toute violation de ces dispositions est passible des peines encourues pour le délit prévu à l'article 226-21 du code pénal,
 sans préjudice, le cas échéant, de poursuites disciplinaires et de condamnation à dommages-intérêts.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -1542,9 +1548,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 15
 
 _Cite_:
 
