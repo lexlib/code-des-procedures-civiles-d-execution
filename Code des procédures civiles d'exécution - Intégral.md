@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2019-06-01
+Version Consolidée au 2019-09-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -228,10 +228,10 @@ Version Consolidée au 2019-06-01
             - [Sous-section 2 : La publicité (art. R322-30 à R322-38)](#225)
               - [Paragraphe 1 : La publicité de droit commun (art. R322-31 à R322-36)](#226)
               - [Paragraphe 2 : L'aménagement judiciaire de la publicité (art. R322-37 à R322-38)](#227)
-            - [Sous-section 3 : Les enchères (art. R322-39 à R322-49)](#228)
+            - [Sous-section 3 : Les enchères (art. R322-39 à R322-49-2)](#228)
               - [Paragraphe 1 : La capacité d'enchérir (art. R322-39)](#229)
               - [Paragraphe 2 : Le déroulement des enchères (art. R322-40 à R322-47)](#230)
-              - [Paragraphe 3 : La nullité des enchères (art. R322-48 à R322-49)](#231)
+              - [Paragraphe 3 : La nullité des enchères (art. R322-48 à R322-49-2)](#231)
             - [Sous-section 4 : La surenchère (art. R322-50 à R322-55)](#232)
             - [Sous-section 5 : Le paiement du prix (art. R322-56 à R322-58)](#233)
             - [Sous-section 6 : Le jugement d'adjudication et le titre de vente (art. R322-59 à R322-63)](#234)
@@ -14769,6 +14769,28 @@ _Cité par_:
   - Code de commerce - art. R642-35 (V)
 
 
+###### Article R322-41-1
+
+Avant de porter les enchères, lorsque l'immeuble saisi est un immeuble à usage d'habitation ou un fonds de commerce d'un
+établissement recevant du public à usage total ou partiel d'hébergement, l'avocat se fait en outre remettre par son mandant
+une attestation sur l'honneur indiquant s'il fait l'objet ou non d'une condamnation à l'une des peines mentionnées à
+l'article L. 322-7-1 et, lorsque le mandant est une personne physique, si le bien est destiné ou non à son occupation
+personnelle. Si le mandant est une société civile immobilière ou en nom collectif, il indique également si ses associés et
+mandataires sociaux font l'objet ou non d'une condamnation à l'une de ces peines.
+
+Lorsque le mandant est une personne physique, l'attestation mentionne ses nom, prénoms, date et lieu de naissance et
+domicile, ainsi que, lorsqu'il est né à l'étranger, les nom et prénoms de ses parents. Lorsque le mandant est une personne
+morale, l'attestation mentionne sa dénomination et son numéro SIREN. S'il s'agit d'une société civile immobilière ou en nom
+collectif, l'attestation mentionne également pour ses associés et mandataires sociaux, l'ensemble des informations requises,
+tant pour les personnes physiques que morales. L'attestation est datée et signée par le mandant.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-488 du 22 mai 2019 - art. 2
+
+
 ###### Article R322-42
 
 Les frais de poursuite dûment justifiés par le créancier poursuivant et, le cas échéant, par le surenchérisseur sont taxés
@@ -14871,7 +14893,8 @@ _Créé par_:
 
 ###### Article R322-46
 
-L'avocat dernier enchérisseur est tenu de déclarer au greffier l'identité de son mandant avant l'issue de l'audience.
+Avant l'issue de l'audience, l'avocat dernier enchérisseur déclare au greffier l'identité de son mandant et lui remet
+l'attestation mentionnée à l'article R. 322-41-1.
 
 **Liens relatifs à cet article**
 
@@ -14883,15 +14906,15 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
-
-  - Décret n°2012-783 du 30 mai 2012 - art.
-
 _Cité par_:
 
   - Arrêté du 6 juillet 2017 - art. 2
   - Code de commerce - art. A444-193 (VD)
   - Code de commerce - art. Annexe 4-7 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-488 du 22 mai 2019 - art. 3
 
 
 ###### Article R322-47
@@ -14970,6 +14993,41 @@ _Créé par_:
 _Cite_:
 
   - Code des procédures civiles d'exécution - art. R322-43 (V)
+
+
+###### Article R322-49-1
+
+En l'absence de surenchère valide et lorsque l'attestation mentionnée à l'article R. 322-41-1 ne précise pas que le bien est
+destiné à l'occupation personnelle du mandant, le service du greffe demande le bulletin n° 2 du casier judiciaire de
+l'enchérisseur déclaré adjudicataire et, s'il s'agit d'une société civile immobilière ou en nom collectif, de ses associés et
+mandataires sociaux.
+
+Lorsque l'enchérisseur déclaré adjudicataire ou, s'il s'agit d'une société civile immobilière ou en nom collectif, l'un de
+ses associés ou mandataires sociaux, a fait l'objet d'une condamnation à l'une des peines mentionnées à l'article L. 322-7-1,
+le service du greffe en réfère au juge qui, après avoir sollicité les observations des parties, prononce d'office la nullité
+de l'adjudication par une ordonnance non susceptible d'appel dans laquelle il fixe la nouvelle audience de vente à une date
+comprise dans un délai de deux à quatre mois suivant le prononcé de sa décision.
+
+L'ordonnance est notifiée par le greffe au débiteur saisi, au créancier poursuivant, aux créanciers inscrits et à
+l'adjudicataire par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-488 du 22 mai 2019 - art. 4
+
+
+###### Article R322-49-2
+
+Lorsque l'immeuble est remis en vente par la voie d'une nouvelle adjudication en application des dispositions de l'article R.
+322-49-1, il est fait application des dispositions des articles R. 322-70 à R. 322-72.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-488 du 22 mai 2019 - art. 4
 
 
 ##### Sous-section 4 : La surenchère<a id=232></a>
@@ -15110,11 +15168,13 @@ _Créé par_:
 ###### Article R322-55
 
 Le jour de l'audience, les enchères sont reprises dans les conditions prévues par les articles R. 322-39 à R. 322-49, sur la
-mise à prix modifiée par la surenchère. 
+mise à prix modifiée par la surenchère.
 
-Si cette surenchère n'est pas couverte, le surenchérisseur est déclaré adjudicataire. 
+Si cette surenchère n'est pas couverte, le surenchérisseur est déclaré adjudicataire.
 
 Aucune surenchère ne pourra être reçue sur la seconde adjudication.
+
+Les dispositions de l'article R. 322-49-1 sont applicables.
 
 **Liens relatifs à cet article**
 
@@ -15126,13 +15186,13 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-488 du 22 mai 2019 - art. 5
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. R322-39 (V)
+  - Code des procédures civiles d'exécution - art. R322-39
 
 
 ##### Sous-section 5 : Le paiement du prix<a id=233></a>
@@ -15578,6 +15638,8 @@ _Cité par_:
 
 Le jour de l'audience, les enchères sont réitérées dans les conditions prévues par les articles R. 322-39 à R. 322-49.
 
+Les dispositions de l'article R. 322-49-1 sont applicables.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -15588,13 +15650,13 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-488 du 22 mai 2019 - art. 5
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. R322-39 (V)
+  - Code des procédures civiles d'exécution - art. R322-39
 
 
 ###### Article R322-72
