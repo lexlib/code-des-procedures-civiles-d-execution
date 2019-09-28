@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2019-09-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -245,54 +245,55 @@ Version Consolidée au 2019-09-01
     - [LIVRE IV : L'EXPULSION (art. R411-1 à R451-4)](#242)
       - [TITRE Ier : CONDITIONS DE L'EXPULSION (art. R411-1 à R412-4)](#243)
         - [Chapitre Ier : Dispositions générales (art. R411-1 à R411-3)](#244)
-        - [Chapitre II : Dispositions particulières aux locaux  d'habitation ou à usage professionnel (art. R412-1 à R412-4)](#245)
-      - [TITRE III : LES OPÉRATIONS D'EXPULSION (art. R432-1 à R433-7)](#246)
-        - [Chapitre II : Le procès-verbal d'expulsion (art. R432-1 à R432-2)](#247)
-        - [Chapitre III : Le sort des meubles (art. R433-1 à R433-7)](#248)
-          - [Section 1 : Dispositions générales (art. R433-1 à R433-6)](#249)
-          - [Section 2 : Les meubles indisponibles (art. R433-7)](#250)
-      - [TITRE IV : LES DIFFICULTÉS D'EXÉCUTION (art. R441-1 à R442-4)](#251)
-        - [Chapitre Ier : La réinstallation de la personne expulsée (art. R441-1)](#252)
-        - [Chapitre II : Les contestations (art. R442-1 à R442-4)](#253)
-      - [TITRE V : DISPOSITIONS PROPRES  À LA REPRISE DES LOCAUX ABANDONNÉS (art. R451-1 à R451-4)](#254)
-        - [Chapitre unique (art. R451-1 à R451-4)](#255)
-    - [LIVRE V : LES MESURES CONSERVATOIRES (art. R511-1 à R534-1)](#256)
-      - [TITRE Ier : DISPOSITIONS COMMUNES (art. R511-1 à R512-3)](#257)
-        - [Chapitre Ier : Les conditions et la mise en œuvre (art. R511-1 à R511-8)](#258)
-        - [Chapitre II : Les contestations (art. R512-1 à R512-3)](#259)
-      - [TITRE II : LES SAISIES CONSERVATOIRES (art. R521-1 à R525-5)](#260)
-        - [Chapitre Ier : Dispositions générales (art. R521-1)](#261)
-        - [Chapitre II : La saisie conservatoire sur les biens meubles corporels (art. R522-1 à R522-14)](#262)
-          - [Section 1 : Les opérations de saisie (art. R522-1 à R522-6)](#263)
-          - [Section 2 : La conversion en saisie-vente (art. R522-7 à R522-10)](#264)
-          - [Section 3 : La pluralité de saisies (art. R522-11 à R522-14)](#265)
-        - [Chapitre III : La saisie conservatoire des créances (art. R523-1 à R523-10)](#266)
-          - [Section 1 : Les opérations de saisie (art. R523-1 à R523-6)](#267)
-          - [Section 2 : La conversion en saisie-attribution (art. R523-7 à R523-10)](#268)
-        - [Chapitre IV : La saisie conservatoire des droits d'associé  et des valeurs mobilières (art. R524-1 à R524-6)](#269)
-          - [Section 1 : Les opérations de saisie (art. R524-1 à R524-3)](#270)
-          - [Section 2 : La conversion en saisie-vente (art. R524-4 à R524-6)](#271)
-        - [Chapitre V : La saisie conservatoire des biens placés  dans un coffre-fort (art. R525-1 à R525-5)](#272)
-      - [TITRE III : LES SÛRETÉS JUDICIAIRES (art. R531-1 à R534-1)](#273)
-        - [Chapitre Ier : Dispositions générales (art. R531-1)](#274)
-        - [Chapitre II : La publicité provisoire (art. R532-1 à R532-9)](#275)
-          - [Section 1 : Les formalités (art. R532-1 à R532-4)](#276)
-          - [Section 2 : Dispositions communes (art. R532-5 à R532-9)](#277)
-        - [Chapitre III : La publicité définitive (art. R533-1 à R533-6)](#278)
-        - [Chapitre IV : Dispositions applicables aux départements  du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R534-1)](#279)
-    - [LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R611-1 à R651-1)](#280)
-      - [TITRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE (art. R611-1 à R612-8)](#281)
-        - [Chapitre Ier : Dispositions communes (art. R611-1)](#282)
-        - [Chapitre II : Dispositions spécifiques à une ou plusieurs collectivités (art. R612-1 à R612-8)](#283)
-          - [Section unique  Dispositions relatives à Mayotte (art. R612-1 à R612-8)](#284)
-      - [TITRE II : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY ET SAINT-MARTIN (art. R621-1 à R621-5)](#285)
-        - [Chapitre Ier : Dispositions communes (art. R621-1 à R621-5)](#286)
-      - [TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON (art. R631-1 à R631-7)](#287)
-        - [Chapitre unique (art. R631-1 à R631-7)](#288)
-      - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. R641-1 à R641-10)](#289)
-        - [Chapitre unique (art. R641-1 à R641-10)](#290)
-      - [TITRE V : LES TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. R651-1)](#291)
-        - [Chapitre unique (art. R651-1)](#292)
+        - [Chapitre II : Dispositions particulières aux locaux  d'habitation ou à usage professionnel (art.  à R411-3)](#245)
+        - [Chapitre II : Dispositions particulières aux lieux habités ou locaux à usage professionnel (art. R412-1 à R412-4)](#246)
+      - [TITRE III : LES OPÉRATIONS D'EXPULSION (art. R432-1 à R433-7)](#247)
+        - [Chapitre II : Le procès-verbal d'expulsion (art. R432-1 à R432-2)](#248)
+        - [Chapitre III : Le sort des meubles (art. R433-1 à R433-7)](#249)
+          - [Section 1 : Dispositions générales (art. R433-1 à R433-6)](#250)
+          - [Section 2 : Les meubles indisponibles (art. R433-7)](#251)
+      - [TITRE IV : LES DIFFICULTÉS D'EXÉCUTION (art. R441-1 à R442-4)](#252)
+        - [Chapitre Ier : La réinstallation de la personne expulsée (art. R441-1)](#253)
+        - [Chapitre II : Les contestations (art. R442-1 à R442-4)](#254)
+      - [TITRE V : DISPOSITIONS PROPRES  À LA REPRISE DES LOCAUX ABANDONNÉS (art. R451-1 à R451-4)](#255)
+        - [Chapitre unique (art. R451-1 à R451-4)](#256)
+    - [LIVRE V : LES MESURES CONSERVATOIRES (art. R511-1 à R534-1)](#257)
+      - [TITRE Ier : DISPOSITIONS COMMUNES (art. R511-1 à R512-3)](#258)
+        - [Chapitre Ier : Les conditions et la mise en œuvre (art. R511-1 à R511-8)](#259)
+        - [Chapitre II : Les contestations (art. R512-1 à R512-3)](#260)
+      - [TITRE II : LES SAISIES CONSERVATOIRES (art. R521-1 à R525-5)](#261)
+        - [Chapitre Ier : Dispositions générales (art. R521-1)](#262)
+        - [Chapitre II : La saisie conservatoire sur les biens meubles corporels (art. R522-1 à R522-14)](#263)
+          - [Section 1 : Les opérations de saisie (art. R522-1 à R522-6)](#264)
+          - [Section 2 : La conversion en saisie-vente (art. R522-7 à R522-10)](#265)
+          - [Section 3 : La pluralité de saisies (art. R522-11 à R522-14)](#266)
+        - [Chapitre III : La saisie conservatoire des créances (art. R523-1 à R523-10)](#267)
+          - [Section 1 : Les opérations de saisie (art. R523-1 à R523-6)](#268)
+          - [Section 2 : La conversion en saisie-attribution (art. R523-7 à R523-10)](#269)
+        - [Chapitre IV : La saisie conservatoire des droits d'associé  et des valeurs mobilières (art. R524-1 à R524-6)](#270)
+          - [Section 1 : Les opérations de saisie (art. R524-1 à R524-3)](#271)
+          - [Section 2 : La conversion en saisie-vente (art. R524-4 à R524-6)](#272)
+        - [Chapitre V : La saisie conservatoire des biens placés  dans un coffre-fort (art. R525-1 à R525-5)](#273)
+      - [TITRE III : LES SÛRETÉS JUDICIAIRES (art. R531-1 à R534-1)](#274)
+        - [Chapitre Ier : Dispositions générales (art. R531-1)](#275)
+        - [Chapitre II : La publicité provisoire (art. R532-1 à R532-9)](#276)
+          - [Section 1 : Les formalités (art. R532-1 à R532-4)](#277)
+          - [Section 2 : Dispositions communes (art. R532-5 à R532-9)](#278)
+        - [Chapitre III : La publicité définitive (art. R533-1 à R533-6)](#279)
+        - [Chapitre IV : Dispositions applicables aux départements  du Bas-Rhin, du Haut-Rhin et de la Moselle (art. R534-1)](#280)
+    - [LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R611-1 à R651-1)](#281)
+      - [TITRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE (art. R611-1 à R612-8)](#282)
+        - [Chapitre Ier : Dispositions communes (art. R611-1)](#283)
+        - [Chapitre II : Dispositions spécifiques à une ou plusieurs collectivités (art. R612-1 à R612-8)](#284)
+          - [Section unique  Dispositions relatives à Mayotte (art. R612-1 à R612-8)](#285)
+      - [TITRE II : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY ET SAINT-MARTIN (art. R621-1 à R621-5)](#286)
+        - [Chapitre Ier : Dispositions communes (art. R621-1 à R621-5)](#287)
+      - [TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON (art. R631-1 à R631-7)](#288)
+        - [Chapitre unique (art. R631-1 à R631-7)](#289)
+      - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. R641-1 à R641-10)](#290)
+        - [Chapitre unique (art. R641-1 à R641-10)](#291)
+      - [TITRE V : LES TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES (art. R651-1)](#292)
+        - [Chapitre unique (art. R651-1)](#293)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : DISPOSITIONS GÉNÉRALES<a id=2></a>
@@ -7334,24 +7335,18 @@ _Cite_:
 ###### Article R211-4
 
 Le tiers saisi est tenu de fournir sur-le-champ à l'huissier de justice les renseignements prévus à l'article L. 211-3 et de
-lui communiquer les pièces justificatives. 
+lui communiquer les pièces justificatives.
 
-Il en est fait mention dans l'acte de saisie. 
+Il en est fait mention dans l'acte de saisie.
 
 Par dérogation au premier alinéa, lorsque la saisie est pratiquée entre les mains d'un comptable public, celui-ci dispose
 d'un délai de vingt-quatre heures pour fournir à l'huissier de justice les renseignements prévus à l'article L. 211-3 et lui
-communiquer les pièces justificatives. 
+communiquer les pièces justificatives.
 
-Si l'acte de saisie est signifié par voie électronique, le tiers saisi est tenu de communiquer à l'huissier de justice les
-renseignements et pièces justificatives mentionnés au premier alinéa au plus tard le premier jour ouvré suivant la
-signification, par voie électronique, sous réserve des dispositions prévues à l'article 748-7 du code de procédure civile.
-
-**Nota:**
-
-Conformément à l'article 13 du décret n° 2012-783 du 30 mai 2012 les dispositions de l'article R. 211-4 entrent en vigueur à
-compter de la publication de l'arrêté du garde des sceaux, ministre de la justice, définissant, en application de l'article
-748-6 du code de procédure civile, les garanties que doivent présenter les procédés utilisés par les huissiers de justice
-pour signifier les actes par voie électronique et au plus tard le 1er septembre 2012.
+Si l'acte de saisie est signifié par voie électronique, le tiers saisi est tenu de communiquer à l'huissier de justice, par
+la même voie, les renseignements et pièces justificatives mentionnés au premier alinéa. Cette communication doit être
+effectuée au plus tard le premier jour ouvré suivant la signification, sous réserve des dispositions prévues à l'article
+748-7 du code de procédure civile.
 
 **Liens relatifs à cet article**
 
@@ -7366,7 +7361,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art. 13
+  - Décret n°2019-992 du 26 septembre 2019 - art. 4
 
 _Cite_:
 
@@ -16469,14 +16464,16 @@ _Créé par_:
 
 #### Chapitre II : Dispositions particulières aux locaux  d'habitation ou à usage professionnel<a id=245></a>
 
+#### Chapitre II : Dispositions particulières aux lieux habités ou locaux à usage professionnel<a id=246></a>
+
 ###### Article R412-1
 
-Lorsque l'expulsion porte sur un local affecté à l'habitation principale de la personne expulsée ou de tout occupant de son
-chef, le commandement d'avoir à libérer les locaux contient, à peine de nullité, en plus des mentions prévues à l'article R.
-411-1, la reproduction des articles L. 412-1 à L. 412-6. 
+Lorsque l'expulsion porte sur un lieu habité par la personne expulsée ou par tout occupant de son chef, le commandement
+d'avoir à libérer les locaux contient, à peine de nullité, en plus des mentions prévues à l'article R. 411-1, la reproduction
+des articles L. 412-1 à L. 412-6.
 
 Par dérogation au précédent alinéa, les articles L. 412-3 à L. 412-6 ne sont pas reproduits pour l'application de l'article
-L. 412-7. 
+L. 412-7.
 
 Les articles L. 412-1 à L. 412-6 ne sont pas reproduits pour l'application de l'article L. 412-8.
 
@@ -16490,35 +16487,35 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
-
-  - Décret n°2012-783 du 30 mai 2012 - art.
-
 _Cité par_:
 
   - Décret n°2019-992 du 26 septembre 2019 (V)
 
+_Modifié par_:
+
+  - Décret n°2019-992 du 26 septembre 2019 - art. 5
+
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. L412-1 (V)
-  - Code des procédures civiles d'exécution - art. L412-3 (V)
-  - Code des procédures civiles d'exécution - art. L412-7 (V)
-  - Code des procédures civiles d'exécution - art. L412-8 (V)
-  - Code des procédures civiles d'exécution - art. R411-1 (V)
+  - Code des procédures civiles d'exécution - art. L412-1
+  - Code des procédures civiles d'exécution - art. L412-3
+  - Code des procédures civiles d'exécution - art. L412-7
+  - Code des procédures civiles d'exécution - art. L412-8
+  - Code des procédures civiles d'exécution - art. R411-1
 
 
 ###### Article R412-2
 
-Lorsque l'expulsion porte sur un local affecté à l'habitation principale de la personne expulsée ou de tout occupant de son
-chef, le juge qui ordonne l'expulsion ou qui, avant la délivrance du commandement d'avoir à libérer les locaux mentionné à
-l'article L. 411-1, statue sur une demande de délais présentée sur le fondement des articles L. 412-3 et L. 412-4 peut, même
-d'office, décider que l'ordonnance ou le jugement sera transmis, par les soins du greffe, au préfet du département, en vue de
-la prise en compte de la demande de relogement de l'occupant dans le cadre du plan départemental d'action pour le logement
-des personnes défavorisées prévu par la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement. 
+Lorsque l'expulsion porte sur un lieu habité par la personne expulsée ou par tout occupant de son chef, le juge qui ordonne
+l'expulsion ou qui, avant la délivrance du commandement d'avoir à libérer les locaux mentionné à l'article L. 411-1, statue
+sur une demande de délais présentée sur le fondement des articles L. 412-3 et L. 412-4 peut, même d'office, décider que
+l'ordonnance ou le jugement sera transmis, par les soins du greffe, au préfet du département, en vue de la prise en compte de
+la demande de relogement de l'occupant dans le cadre du plan départemental d'action pour le logement des personnes
+défavorisées prévu par la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement.
 
 Pour l'application de l'article L. 412-5, l'huissier de justice envoie au préfet du département du lieu de situation de
-l'immeuble,         par lettre recommandée avec demande d'avis de réception ou par voie électronique, copie du commandement
-d'avoir à libérer les locaux. 
+l'immeuble, par lettre recommandée avec demande d'avis de réception ou par voie électronique, copie du commandement d'avoir à
+libérer les locaux.
 
 Dans toute la mesure du possible, il communique tous renseignements relatifs à l'occupant dont l'expulsion est poursuivie
 ainsi qu'aux personnes vivant habituellement avec lui.
@@ -16540,10 +16537,6 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Modifié par_:
-
-  - Décret n°2015-1384 du 30 octobre 2015 - art. 15
-
 _Cité par_:
 
   - Décret n°2019-992 du 26 septembre 2019 (V)
@@ -16551,6 +16544,10 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R621-5 (V)
   - Code des procédures civiles d'exécution - art. R631-7 (V)
   - Code des procédures civiles d'exécution - art. R641-9 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-992 du 26 septembre 2019 - art. 5
 
 
 ###### Article R412-3
@@ -16600,9 +16597,9 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. L412-2 (V)
 
 
-### TITRE III : LES OPÉRATIONS D'EXPULSION<a id=246></a>
+### TITRE III : LES OPÉRATIONS D'EXPULSION<a id=247></a>
 
-#### Chapitre II : Le procès-verbal d'expulsion<a id=247></a>
+#### Chapitre II : Le procès-verbal d'expulsion<a id=248></a>
 
 ###### Article R432-1
 
@@ -16662,9 +16659,9 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R451-2 (V)
 
 
-#### Chapitre III : Le sort des meubles<a id=248></a>
+#### Chapitre III : Le sort des meubles<a id=249></a>
 
-##### Section 1 : Dispositions générales<a id=249></a>
+##### Section 1 : Dispositions générales<a id=250></a>
 
 ###### Article R433-1
 
@@ -16839,7 +16836,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R433-5 (V)
 
 
-##### Section 2 : Les meubles indisponibles<a id=250></a>
+##### Section 2 : Les meubles indisponibles<a id=251></a>
 
 ###### Article R433-7
 
@@ -16872,9 +16869,9 @@ _Cité par_:
   - Code de commerce - art. Annexe 4-7 (V)
 
 
-### TITRE IV : LES DIFFICULTÉS D'EXÉCUTION<a id=251></a>
+### TITRE IV : LES DIFFICULTÉS D'EXÉCUTION<a id=252></a>
 
-#### Chapitre Ier : La réinstallation de la personne expulsée<a id=252></a>
+#### Chapitre Ier : La réinstallation de la personne expulsée<a id=253></a>
 
 ###### Article R441-1
 
@@ -16906,7 +16903,7 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R451-4 (VD)
 
 
-#### Chapitre II : Les contestations<a id=253></a>
+#### Chapitre II : Les contestations<a id=254></a>
 
 ###### Article R442-1
 
@@ -17028,9 +17025,9 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R442-2
 
 
-### TITRE V : DISPOSITIONS PROPRES  À LA REPRISE DES LOCAUX ABANDONNÉS<a id=254></a>
+### TITRE V : DISPOSITIONS PROPRES  À LA REPRISE DES LOCAUX ABANDONNÉS<a id=255></a>
 
-#### Chapitre unique<a id=255></a>
+#### Chapitre unique<a id=256></a>
 
 ###### Article R451-1
 
@@ -17167,11 +17164,11 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R641-1 (V)
 
 
-## LIVRE V : LES MESURES CONSERVATOIRES<a id=256></a>
+## LIVRE V : LES MESURES CONSERVATOIRES<a id=257></a>
 
-### TITRE Ier : DISPOSITIONS COMMUNES<a id=257></a>
+### TITRE Ier : DISPOSITIONS COMMUNES<a id=258></a>
 
-#### Chapitre Ier : Les conditions et la mise en œuvre<a id=258></a>
+#### Chapitre Ier : Les conditions et la mise en œuvre<a id=259></a>
 
 ###### Article R511-1
 
@@ -17399,7 +17396,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R511-7 (V)
 
 
-#### Chapitre II : Les contestations<a id=259></a>
+#### Chapitre II : Les contestations<a id=260></a>
 
 ###### Article R512-1
 
@@ -17474,9 +17471,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-### TITRE II : LES SAISIES CONSERVATOIRES<a id=260></a>
+### TITRE II : LES SAISIES CONSERVATOIRES<a id=261></a>
 
-#### Chapitre Ier : Dispositions générales<a id=261></a>
+#### Chapitre Ier : Dispositions générales<a id=262></a>
 
 ###### Article R521-1
 
@@ -17503,9 +17500,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R133-1-1 (V)
 
 
-#### Chapitre II : La saisie conservatoire sur les biens meubles corporels<a id=262></a>
+#### Chapitre II : La saisie conservatoire sur les biens meubles corporels<a id=263></a>
 
-##### Section 1 : Les opérations de saisie<a id=263></a>
+##### Section 1 : Les opérations de saisie<a id=264></a>
 
 ###### Article R522-1
 
@@ -17705,7 +17702,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R221-49 (V)
 
 
-##### Section 2 : La conversion en saisie-vente<a id=264></a>
+##### Section 2 : La conversion en saisie-vente<a id=265></a>
 
 ###### Article R522-7
 
@@ -17828,7 +17825,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R221-33 (V)
 
 
-##### Section 3 : La pluralité de saisies<a id=265></a>
+##### Section 3 : La pluralité de saisies<a id=266></a>
 
 ###### Article R522-11
 
@@ -17947,9 +17944,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre III : La saisie conservatoire des créances<a id=266></a>
+#### Chapitre III : La saisie conservatoire des créances<a id=267></a>
 
-##### Section 1 : Les opérations de saisie<a id=267></a>
+##### Section 1 : Les opérations de saisie<a id=268></a>
 
 ###### Article R523-1
 
@@ -18132,7 +18129,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-##### Section 2 : La conversion en saisie-attribution<a id=268></a>
+##### Section 2 : La conversion en saisie-attribution<a id=269></a>
 
 ###### Article R523-7
 
@@ -18259,9 +18256,9 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R211-7 (V)
 
 
-#### Chapitre IV : La saisie conservatoire des droits d'associé  et des valeurs mobilières<a id=269></a>
+#### Chapitre IV : La saisie conservatoire des droits d'associé  et des valeurs mobilières<a id=270></a>
 
-##### Section 1 : Les opérations de saisie<a id=270></a>
+##### Section 1 : Les opérations de saisie<a id=271></a>
 
 ###### Article R524-1
 
@@ -18373,7 +18370,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R232-8 (V)
 
 
-##### Section 2 : La conversion en saisie-vente<a id=271></a>
+##### Section 2 : La conversion en saisie-vente<a id=272></a>
 
 ###### Article R524-4
 
@@ -18472,7 +18469,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R233-3 (V)
 
 
-#### Chapitre V : La saisie conservatoire des biens placés  dans un coffre-fort<a id=272></a>
+#### Chapitre V : La saisie conservatoire des biens placés  dans un coffre-fort<a id=273></a>
 
 ###### Article R525-1
 
@@ -18645,9 +18642,9 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R522-7 (V)
 
 
-### TITRE III : LES SÛRETÉS JUDICIAIRES<a id=273></a>
+### TITRE III : LES SÛRETÉS JUDICIAIRES<a id=274></a>
 
-#### Chapitre Ier : Dispositions générales<a id=274></a>
+#### Chapitre Ier : Dispositions générales<a id=275></a>
 
 ###### Article R531-1
 
@@ -18675,9 +18672,9 @@ _Cité par_:
   - Code de commerce - art. R444-71 (V)
 
 
-#### Chapitre II : La publicité provisoire<a id=275></a>
+#### Chapitre II : La publicité provisoire<a id=276></a>
 
-##### Section 1 : Les formalités<a id=276></a>
+##### Section 1 : Les formalités<a id=277></a>
 
 ###### Article R532-1
 
@@ -18812,7 +18809,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R232-1 (V)
 
 
-##### Section 2 : Dispositions communes<a id=277></a>
+##### Section 2 : Dispositions communes<a id=278></a>
 
 ###### Article R532-5
 
@@ -18959,7 +18956,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre III : La publicité définitive<a id=278></a>
+#### Chapitre III : La publicité définitive<a id=279></a>
 
 ###### Article R533-1
 
@@ -19138,7 +19135,7 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre IV : Dispositions applicables aux départements  du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=279></a>
+#### Chapitre IV : Dispositions applicables aux départements  du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=280></a>
 
 ###### Article R534-1
 
@@ -19173,11 +19170,11 @@ _Cité par_:
   - Code de commerce - art. R444-71 (V)
 
 
-## LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=280></a>
+## LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=281></a>
 
-### TITRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE<a id=281></a>
+### TITRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE<a id=282></a>
 
-#### Chapitre Ier : Dispositions communes<a id=282></a>
+#### Chapitre Ier : Dispositions communes<a id=283></a>
 
 ###### Article R611-1
 
@@ -19205,9 +19202,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-#### Chapitre II : Dispositions spécifiques à une ou plusieurs collectivités<a id=283></a>
+#### Chapitre II : Dispositions spécifiques à une ou plusieurs collectivités<a id=284></a>
 
-##### Section unique  Dispositions relatives à Mayotte<a id=284></a>
+##### Section unique  Dispositions relatives à Mayotte<a id=285></a>
 
 ###### Article R612-1
 
@@ -19308,9 +19305,9 @@ _Créé par_:
   - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 
-### TITRE II : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY ET SAINT-MARTIN<a id=285></a>
+### TITRE II : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY ET SAINT-MARTIN<a id=286></a>
 
-#### Chapitre Ier : Dispositions communes<a id=286></a>
+#### Chapitre Ier : Dispositions communes<a id=287></a>
 
 ###### Article R621-1
 
@@ -19419,9 +19416,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-### TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON<a id=287></a>
+### TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON<a id=288></a>
 
-#### Chapitre unique<a id=288></a>
+#### Chapitre unique<a id=289></a>
 
 ###### Article R631-1
 
@@ -19598,9 +19595,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=289></a>
+### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=290></a>
 
-#### Chapitre unique<a id=290></a>
+#### Chapitre unique<a id=291></a>
 
 ###### Article R641-1
 
@@ -19611,16 +19608,25 @@ code sont applicables à Wallis-et-Futuna :
 
 Les articles R. 121-20 et R. 131-2 dans leur rédaction résultant du décret n° 2017-891 du 6 mai 2017.
 
+Les articles R. 125-2 à R. 125-5 et R. 125-7 dans leur rédaction résultant du décret n° 2019-992 du 26 septembre 2019.
+
 Les dispositions du décret n° 2017-891 du 6 mai 2017 abrogeant l'article R. 121-3 sont applicables à Wallis-et-Futuna.
 
 2° Le livre II, à l'exception du 4° de l'article R. 211-3 et des 3°, 5° et 6° de l'article R. 241-1 ;
+
+L'article R. 211-4 dans sa rédaction résultant du décret n° 2019-992 du 26 septembre 2019 ;
 
 L'article R. 212-3 dans sa rédaction résultant du décret n° 2012-783 du 30 mai 2012.
 
 3° Le livre IV, à l'exception du 2° de l'article R. 451-1 et de l'article R. 451-4 ;
 
+Les articles R. 412-1, R. 412-2, R. 433-1 à R. 433-3, R. 433-5 et R. 433-6 dans leur rédaction résultant du décret n°
+2019-992 du 26 septembre 2019 ;
+
 4° Le livre V, à l'exception du 6° de l'article R. 523-3, des articles R. 532-1, R. 532-2, R. 532-7 en tant qu'il porte sur
 les immeubles et les fonds de commerce et R. 533-2.
+
+Le 2° de l'article R. 523-3 et l'article R. 523-4 dans leur rédaction résultant du décret n° 2019-992 du 26 septembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -19635,7 +19641,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-970 du 8 novembre 2018 - art. 4
+  - Décret n°2019-992 du 26 septembre 2019 - art. 15
 
 _Cite_:
 
@@ -19864,9 +19870,9 @@ _Créé par_:
   - Décret n°2012-783 du 30 mai 2012 - art.
 
 
-### TITRE V : LES TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=291></a>
+### TITRE V : LES TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES<a id=292></a>
 
-#### Chapitre unique<a id=292></a>
+#### Chapitre unique<a id=293></a>
 
 ###### Article R651-1
 
