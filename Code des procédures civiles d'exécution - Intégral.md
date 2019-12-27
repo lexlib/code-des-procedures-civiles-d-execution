@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2019-12-20
+Version Consolidée au 2019-12-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -441,23 +441,24 @@ _Cité par_:
 
 ###### Article L111-3
 
-Seuls constituent des titres exécutoires : 
+Seuls constituent des titres exécutoires :
 
 1° Les décisions des juridictions de l'ordre judiciaire ou de l'ordre administratif lorsqu'elles ont force exécutoire, ainsi
-que les accords auxquels ces juridictions ont conféré force exécutoire ; 
+que les accords auxquels ces juridictions ont conféré force exécutoire ;
 
 2° Les actes et les jugements étrangers ainsi que les sentences arbitrales déclarés exécutoires par une décision non
-susceptible d'un recours suspensif d'exécution, sans préjudice des dispositions du droit de l'Union européenne applicables ; 
+susceptible d'un recours suspensif d'exécution, sans préjudice des dispositions du droit de l'Union européenne applicables ;
 
-3° Les extraits de procès-verbaux de conciliation signés par le juge et les parties ; 
+3° Les extraits de procès-verbaux de conciliation signés par le juge et les parties ;
 
-4° Les actes notariés revêtus de la formule exécutoire ; 
+4° Les actes notariés revêtus de la formule exécutoire ;
 
-4° bis Les accords par lesquels les époux consentent mutuellement à leur divorce par acte sous signature privée contresignée
-par avocats, déposés au rang des minutes d'un notaire selon les modalités prévues à l'article 229-1 du code civil ; 
+4° bis Les accords par lesquels les époux consentent mutuellement à leur divorce ou à leur séparation de corps par acte sous
+signature privée contresigné par avocats, déposés au rang des minutes d'un notaire selon les modalités prévues à l'article
+229-1 du code civil ;
 
 5° Le titre délivré par l'huissier de justice en cas de non-paiement d'un chèque ou en cas d'accord entre le créancier et le
-débiteur dans les conditions prévues à l'article L. 125-1 ; 
+débiteur dans les conditions prévues à l'article L. 125-1 ;
 
 6° Les titres délivrés par les personnes morales de droit public qualifiés comme tels par la loi, ou les décisions auxquelles
 la loi attache les effets d'un jugement.
@@ -492,7 +493,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
+  - Loi n°2019-1446 du 24 décembre 2019 - art. 72 (V)
 
 _Cite_:
 
@@ -2023,17 +2024,22 @@ _Cite_:
 
 Tout créancier d'une pension alimentaire peut se faire payer directement le montant de cette pension par les tiers débiteurs
 de sommes liquides et exigibles envers le débiteur de la pension. Il peut notamment exercer ce droit entre les mains de tout
-débiteur de sommes dues à titre de rémunération, ainsi que de tout dépositaire de fonds. 
+débiteur de sommes dues à titre de rémunération, ainsi que de tout dépositaire de fonds.
 
 La demande en paiement direct est recevable dès qu'une échéance d'une pension alimentaire n'a pas été payée à son terme et
 qu'elle a été fixée par :
 
-1° Une décision judiciaire devenue exécutoire ; 
+1° Une décision judiciaire devenue exécutoire ;
 
-2° Une convention de divorce par consentement mutuel prenant la forme d'un acte sous signature privée contresigné par
-avocats, déposé au rang des minutes d'un notaire ; 
+1° bis Une convention homologuée par le juge ;
 
-3° Un acte reçu en la forme authentique par un notaire.
+2° Un accord par lequel les époux consentent mutuellement à leur divorce ou à leur séparation de corps par acte sous
+signature privée contresigné par avocats, déposé au rang des minutes d'un notaire selon les modalités prévues à l'article
+229-1 du code civil ;
+
+3° Un acte reçu en la forme authentique par un notaire ;
+
+4° Une convention rendue exécutoire dans les conditions prévues à l'article L. 582-2 du code de la sécurité sociale.
 
 Cette procédure est applicable au recouvrement de la contribution aux charges du mariage prévues par l'article 214 du code
 civil. Elle l'est aussi au recouvrement de la rente prévue par l'article 276 et des subsides prévus par l'article 342 du même
@@ -2051,13 +2057,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 50
+  - Loi n°2019-1446 du 24 décembre 2019 - art. 72 (V)
 
 _Cite_:
 
   - Code civil - art. 214
-  - Code civil - art. 276
-  - Code civil - art. 342
+  - Code civil - art. 229-1
+  - Code de la sécurité sociale. - art. L582-2
 
 _Cité par_:
 
@@ -2118,10 +2124,11 @@ Elle l'est aussi aux termes échus pour les six derniers mois avant la notificat
 
 Le règlement de ces sommes est fait par fractions égales sur une période de douze mois.
 
-Lorsqu'un organisme débiteur de prestations familiales agit pour le compte d'un créancier d'aliments, la procédure de
-paiement direct est applicable aux termes échus de la pension alimentaire pour les vingt-quatre derniers mois avant la
-notification de la demande de paiement direct. Le règlement de ces sommes est fait par fractions égales sur une période de
-vingt-quatre mois.
+Par dérogation aux deuxième et troisième alinéas, lorsqu'un organisme débiteur de prestations familiales agit pour le compte
+d'un créancier d'aliments, la procédure de paiement direct est applicable aux termes échus de la pension alimentaire dans la
+limite des vingt-quatre derniers mois avant la notification de la demande de paiement direct. Dans ce cas, le règlement de
+ces sommes s'effectue sur une période maximale de vingt-quatre mois dans des conditions définies par décret en conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -2139,7 +2146,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1702 du 21 décembre 2015 - art. 44 (V)
+  - Loi n°2019-1446 du 24 décembre 2019 - art. 72 (V)
 
 
 ###### Article L213-5
