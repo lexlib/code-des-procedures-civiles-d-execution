@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -890,9 +890,21 @@ _Créé par_:
 
 ###### Article L121-4
 
-Sous réserve des dispositions particulières applicables à la saisie des immeubles, navires, aéronefs et bateaux de navigation
-intérieure d'un tonnage égal ou supérieur à 20 tonnes, les parties ont la faculté de se faire assister ou représenter devant
-le juge de l'exécution selon les règles applicables devant le tribunal d'instance.
+Les parties ont la faculté de se faire assister ou représenter devant le juge de l'exécution selon les règles applicables
+devant le tribunal de grande instance dans les matières où le ministère d'avocat n'est pas obligatoire devant celui-ci :
+
+1° Lorsque la demande est relative à l'expulsion ;
+
+2° Lorsqu'elle a pour origine une créance ou tend au paiement d'une somme qui n'excède pas un montant déterminé par décret en
+Conseil d'Etat.
+
+Le 2° ne préjudicie pas aux dispositions particulières applicables à la saisie des immeubles, navires, aéronefs et bateaux de
+navigation intérieure d'un tonnage égal ou supérieur à vingt tonnes.
+
+**Nota:**
+
+Conformément à l'article 109 II de la loi n° 2019-222 du 23 mars 2019, les présentes dispositions s'appliquent aux instances
+introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -904,9 +916,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Loi n°2019-222 du 23 mars 2019 - art. 5
 
 
 ##### Section 2 : Le ministère public<a id=9></a>
@@ -1084,25 +1096,26 @@ _Créé par_:
 
 Une procédure simplifiée de recouvrement des petites créances peut être mise en œuvre par un huissier de justice à la demande
 du créancier pour le paiement d'une créance ayant une cause contractuelle ou résultant d'une obligation de caractère
-statutaire et inférieure à un montant défini par décret en Conseil d'Etat. 
+statutaire et inférieure à un montant défini par décret en Conseil d'Etat.
 
 Cette procédure se déroule dans un délai d'un mois à compter de l'envoi par l'huissier d'une lettre recommandée avec demande
-d'avis de réception invitant le débiteur à participer à cette procédure. L'accord du débiteur, constaté par l'huissier de
-justice, suspend la prescription. 
+d'avis de réception ou d'un message transmis par voie électronique invitant le débiteur à participer à cette procédure.
+L'accord du débiteur, constaté par l'huissier de justice, suspend la prescription.
 
 L'huissier de justice qui a reçu l'accord du créancier et du débiteur sur le montant et les modalités du paiement délivre,
-sans autre formalité, un titre exécutoire. 
+sans autre formalité, un titre exécutoire.
 
-Les frais de toute nature qu'occasionne la procédure sont à la charge exclusive du créancier. 
+Les frais de toute nature qu'occasionne la procédure sont à la charge exclusive du créancier.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article, notamment les règles de prévention des
 conflits d'intérêts lors de la délivrance par l'huissier de justice d'un titre exécutoire.
 
+**Nota:**
+
+Conformément à l'article 109 V de la loi n° 2019-222 du 23 mars 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
 
 _Cité par_:
 
@@ -1115,6 +1128,10 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. L111-3 (VD)
   - Code des procédures civiles d'exécution - art. R125-1 (VD)
   - Code des procédures civiles d'exécution - art. R125-2 (VD)
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 14
 
 
 ### TITRE III : LA PRÉVENTION DES DIFFICULTÉS D'EXÉCUTION<a id=14></a>
@@ -3855,11 +3872,15 @@ _Cité par_:
 
 ###### Article L433-2
 
-A l'expiration du délai imparti et sur autorisation du juge, il est procédé à leur mise en vente aux enchères publiques.
-
-Le juge peut déclarer abandonnés les biens qui ne sont pas susceptibles d'être vendus.
+A l'expiration du délai imparti, il est procédé à la mise en vente aux enchères publiques des biens susceptibles d'être
+vendus. Les biens qui ne sont pas susceptibles d'être vendus sont réputés abandonnés.
 
 Le produit de la vente est remis à la personne expulsée après déduction des frais et de la créance du bailleur.
+
+**Nota:**
+
+Conformément à l'article 109 V de la loi n° 2019-222 du 23 mars 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -3871,9 +3892,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Loi n°2019-222 du 23 mars 2019 - art. 14
 
 
 ###### Article L433-3
@@ -7823,10 +7844,16 @@ _Créé par_:
 ###### Article R212-3
 
 La déclaration qui incombe au tiers saisi sur la situation de droit existant entre lui-même et le débiteur est faite par le
-service employeur au greffe du tribunal d'instance.
+service employeur au greffe du juge de l'exécution.
 
 Les déclarations relatives aux cessions, saisies, saisies administratives à tiers détenteurs ou paiement direct de créances
-d'aliments sont faites par le comptable assignataire au greffe du tribunal d'instance.
+d'aliments sont faites par le comptable assignataire au greffe du juge de l'exécution.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -7840,7 +7867,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-970 du 8 novembre 2018 - art. 4
+  - Décret n°2019-913 du 30 août 2019 - art. 20
 
 _Cité par_:
 
@@ -7898,11 +7925,18 @@ _Créé par_:
 ###### Article R212-6
 
 Le comptable public verse tous les mois au compte " Caisse des dépôts et consignations " du régisseur du greffe du tribunal
-d'instance le montant des sommes correspondant aux retenues effectuées. 
+judiciaire ou le cas échéant, du régisseur installé auprès de l'une de ses chambres de proximité le montant des sommes
+correspondant aux retenues effectuées.
 
-Il adresse également au greffe un état nominatif indiquant les références du saisi, de la saisie et du montant retenu. 
+Il adresse également au greffe un état nominatif indiquant les références du saisi, de la saisie et du montant retenu.
 
 Le greffe notifie au comptable la mainlevée de la saisie.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -7914,9 +7948,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-913 du 30 août 2019 - art. 20
 
 
 #### Chapitre III : La procédure de paiement direct  des pensions alimentaires<a id=153></a>
@@ -16787,11 +16821,13 @@ _Cité par_:
 
 Par dérogation aux dispositions de l'article R. 121-11, la demande relative à l'exécution d'une décision de justice ordonnant
 l'expulsion peut être formée au greffe du juge de l'exécution par lettre recommandée avec demande d'avis de réception ou par
-déclaration faite ou remise contre récépissé. 
+déclaration faite ou remise contre récépissé.
 
-Lorsque le juge de l'exécution exerce aussi les fonctions de juge d'instance et que la demande a été formée au greffe du
-tribunal de grande instance, celle-ci est réputée faite valablement et elle est immédiatement transmise au greffe du tribunal
-d'instance. Avis en est donné au demandeur par lettre simple.
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -16803,13 +16839,13 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-913 du 30 août 2019 - art. 20
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. R121-11 (V)
+  - Code des procédures civiles d'exécution - art. R121-11
 
 _Cité par_:
 
@@ -19283,25 +19319,30 @@ _Créé par_:
 
 ###### Article R631-2
 
-Pour l'application du présent code à Saint-Pierre-et-Miquelon, les termes énumérés ci-après sont remplacés comme suit : 
+Pour l'application du présent code à Saint-Pierre-et-Miquelon, les termes énumérés ci-après sont remplacés comme suit :
 
-1° " Tribunal de grande instance " ou " tribunal d'instance " par " tribunal de première instance " ; 
+1° “ tribunal judiciaire ” par " tribunal de première instance " ;
 
-2° " Cour d'appel " par " tribunal supérieur d'appel " ; 
+2° " Cour d'appel " par " tribunal supérieur d'appel " ;
 
-3° " Tribunal de commerce " par " tribunal de première instance statuant en matière commerciale " ; 
+3° " Tribunal de commerce " par " tribunal de première instance statuant en matière commerciale " ;
 
-4° " Premier président de la cour d'appel " par " président du tribunal supérieur d'appel " ; 
+4° " Premier président de la cour d'appel " par " président du tribunal supérieur d'appel " ;
 
-5° " Président du tribunal de grande instance " ou " président du tribunal d'instance " par " président du tribunal de
-première instance " ; 
+5° " Président du tribunal “ judiciaire ” par " président du tribunal de première instance " ;
 
 6° " Procureur de la République " ou " procureur général près la cour d'appel " par " procureur de la République près le
-tribunal supérieur d'appel " ; 
+tribunal supérieur d'appel " ;
 
-7° " Préfet " ou " préfet du département " par " représentant de l'Etat à Saint-Pierre-et-Miquelon " ; 
+7° " Préfet " ou " préfet du département " par " représentant de l'Etat à Saint-Pierre-et-Miquelon " ;
 
 8° " Département " ou " région " par " collectivité de Saint-Pierre-et-Miquelon ".
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -19313,9 +19354,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-913 du 30 août 2019 - art. 20
 
 
 ###### Article R631-3
@@ -19512,32 +19553,37 @@ _Créé par_:
 
 ###### Article R641-3
 
-Pour l'application du présent code à Wallis-et-Futuna, les termes énumérés ci-après sont remplacés comme suit : 
+Pour l'application du présent code à Wallis-et-Futuna, les termes énumérés ci-après sont remplacés comme suit :
 
-1° " Tribunal de grande instance " ou " tribunal d'instance " par " tribunal de première instance " ; 
+1° “ Tribunal judiciaire ” par " tribunal de première instance " ;
 
-2° " Tribunal de commerce " par " tribunal de première instance statuant en matière commerciale " ; 
+2° " Tribunal de commerce " par " tribunal de première instance statuant en matière commerciale " ;
 
-3° " Procureur de la République " par " procureur de la République près le tribunal de première instance " ; 
+3° " Procureur de la République " par " procureur de la République près le tribunal de première instance " ;
 
-4° " Juge du tribunal d'instance " ou " juge aux affaires familiales " par " président du tribunal de première instance ou
-son délégué " ; 
+4° " Juge aux affaires familiales " par " président du tribunal de première instance ou son délégué " ;
 
-5° " Cour d'appel " par " tribunal supérieur d'appel " ; 
+5° " Cour d'appel " par " tribunal supérieur d'appel " ;
 
-6° " Région ", " département " et " commune " par " collectivité de Wallis-et-Futuna " ; 
+6° " Région ", " département " et " commune " par " collectivité de Wallis-et-Futuna " ;
 
-7° " Préfet " ou " préfet du département " par " représentant de l'Etat à Wallis-et-Futuna " ; 
+7° " Préfet " ou " préfet du département " par " représentant de l'Etat à Wallis-et-Futuna " ;
 
-8° " Maire, conseiller municipal, fonctionnaire municipal " par " chef de circonscription " ; 
+8° " Maire, conseiller municipal, fonctionnaire municipal " par " chef de circonscription " ;
 
-9° " Mairie de la commune " et " mairie " par " siège de la circonscription " ; 
+9° " Mairie de la commune " et " mairie " par " siège de la circonscription " ;
 
-10° " Caisse des dépôts et consignations " par " Trésor public ". 
+10° " Caisse des dépôts et consignations " par " Trésor public ".
 
 Par ailleurs, les attributions dévolues aux huissiers de justice sont également exercées par l'autorité administrative ou
 militaire et celles dévolues aux commissaires-priseurs pour les ventes aux enchères par le greffier du tribunal de première
 instance.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -19545,9 +19591,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-913 du 30 août 2019 - art. 20
 
 
 ###### Article R641-4
