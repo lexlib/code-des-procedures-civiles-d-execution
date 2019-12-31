@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -890,9 +890,21 @@ _Créé par_:
 
 ###### Article L121-4
 
-Sous réserve des dispositions particulières applicables à la saisie des immeubles, navires, aéronefs et bateaux de navigation
-intérieure d'un tonnage égal ou supérieur à 20 tonnes, les parties ont la faculté de se faire assister ou représenter devant
-le juge de l'exécution selon les règles applicables devant le tribunal d'instance.
+Les parties ont la faculté de se faire assister ou représenter devant le juge de l'exécution selon les règles applicables
+devant le tribunal de grande instance dans les matières où le ministère d'avocat n'est pas obligatoire devant celui-ci :
+
+1° Lorsque la demande est relative à l'expulsion ;
+
+2° Lorsqu'elle a pour origine une créance ou tend au paiement d'une somme qui n'excède pas un montant déterminé par décret en
+Conseil d'Etat.
+
+Le 2° ne préjudicie pas aux dispositions particulières applicables à la saisie des immeubles, navires, aéronefs et bateaux de
+navigation intérieure d'un tonnage égal ou supérieur à vingt tonnes.
+
+**Nota:**
+
+Conformément à l'article 109 II de la loi n° 2019-222 du 23 mars 2019, les présentes dispositions s'appliquent aux instances
+introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -904,9 +916,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Loi n°2019-222 du 23 mars 2019 - art. 5
 
 
 ##### Section 2 : Le ministère public<a id=9></a>
@@ -1084,25 +1096,26 @@ _Créé par_:
 
 Une procédure simplifiée de recouvrement des petites créances peut être mise en œuvre par un huissier de justice à la demande
 du créancier pour le paiement d'une créance ayant une cause contractuelle ou résultant d'une obligation de caractère
-statutaire et inférieure à un montant défini par décret en Conseil d'Etat. 
+statutaire et inférieure à un montant défini par décret en Conseil d'Etat.
 
 Cette procédure se déroule dans un délai d'un mois à compter de l'envoi par l'huissier d'une lettre recommandée avec demande
-d'avis de réception invitant le débiteur à participer à cette procédure. L'accord du débiteur, constaté par l'huissier de
-justice, suspend la prescription. 
+d'avis de réception ou d'un message transmis par voie électronique invitant le débiteur à participer à cette procédure.
+L'accord du débiteur, constaté par l'huissier de justice, suspend la prescription.
 
 L'huissier de justice qui a reçu l'accord du créancier et du débiteur sur le montant et les modalités du paiement délivre,
-sans autre formalité, un titre exécutoire. 
+sans autre formalité, un titre exécutoire.
 
-Les frais de toute nature qu'occasionne la procédure sont à la charge exclusive du créancier. 
+Les frais de toute nature qu'occasionne la procédure sont à la charge exclusive du créancier.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article, notamment les règles de prévention des
 conflits d'intérêts lors de la délivrance par l'huissier de justice d'un titre exécutoire.
 
+**Nota:**
+
+Conformément à l'article 109 V de la loi n° 2019-222 du 23 mars 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
 
 _Cité par_:
 
@@ -1115,6 +1128,10 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. L111-3 (VD)
   - Code des procédures civiles d'exécution - art. R125-1 (VD)
   - Code des procédures civiles d'exécution - art. R125-2 (VD)
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 14
 
 
 ### TITRE III : LA PRÉVENTION DES DIFFICULTÉS D'EXÉCUTION<a id=14></a>
@@ -3854,11 +3871,15 @@ _Cité par_:
 
 ###### Article L433-2
 
-A l'expiration du délai imparti et sur autorisation du juge, il est procédé à leur mise en vente aux enchères publiques.
-
-Le juge peut déclarer abandonnés les biens qui ne sont pas susceptibles d'être vendus.
+A l'expiration du délai imparti, il est procédé à la mise en vente aux enchères publiques des biens susceptibles d'être
+vendus. Les biens qui ne sont pas susceptibles d'être vendus sont réputés abandonnés.
 
 Le produit de la vente est remis à la personne expulsée après déduction des frais et de la créance du bailleur.
+
+**Nota:**
+
+Conformément à l'article 109 V de la loi n° 2019-222 du 23 mars 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -3870,9 +3891,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Loi n°2019-222 du 23 mars 2019 - art. 14
 
 
 ###### Article L433-3
