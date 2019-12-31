@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2019-12-28
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -837,10 +837,12 @@ _Créé par_:
 ###### Article L121-1
 
 Le juge de l'exécution connaît de l'application des dispositions du présent code dans les conditions prévues par l'article L.
-213-6 du code de l'organisation judiciaire. 
+213-6 du code de l'organisation judiciaire.
 
-Toutefois, en matière de saisie des rémunérations, le juge du tribunal d'instance est compétent dans les conditions prévues à
-l'article L. 221-8 du même code.
+**Nota:**
+
+Conformément à l’article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -848,14 +850,14 @@ _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 17
 
 _Cite_:
 
-  - Code de l'organisation judiciaire - art. L213-6 (VT)
-  - Code de l'organisation judiciaire - art. L221-8 (V)
+  - Code de l'organisation judiciaire - art. L213-6
+  - Code de l'organisation judiciaire - art. L221-8
 
 
 ###### Article L121-2
@@ -899,9 +901,26 @@ _Créé par_:
 
 ###### Article L121-4
 
-Sous réserve des dispositions particulières applicables à la saisie des immeubles, navires, aéronefs et bateaux de navigation
-intérieure d'un tonnage égal ou supérieur à 20 tonnes, les parties ont la faculté de se faire assister ou représenter devant
-le juge de l'exécution selon les règles applicables devant le tribunal d'instance.
+Sans préjudice des dispositions de l'article L. 3252-11 du code du travail, les parties ont la faculté de se faire assister
+ou représenter devant le juge de l'exécution selon les règles applicables devant le tribunal judiciaire dans les matières où
+le ministère d'avocat n'est pas obligatoire devant celui-ci :
+
+1° Lorsque la demande est relative à l'expulsion ;
+
+2° Lorsqu'elle a pour origine une créance ou tend au paiement d'une somme qui n'excède pas un montant déterminé par décret en
+Conseil d'Etat.
+
+Le 2° ne préjudicie pas aux dispositions particulières applicables à la saisie des immeubles, navires, aéronefs et bateaux de
+navigation intérieure d'un tonnage égal ou supérieur à vingt tonnes.
+
+**Nota:**
+
+Conformément à l'article 109 II de la loi n° 2019-222 du 23 mars 2019, les présentes dispositions s'appliquent aux instances
+introduites à compter du 1er janvier 2020.
+
+Conformément à l’article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, les présentes dispositions entrent en vigueur
+le 1
+  <sup>er</sup> janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -909,13 +928,14 @@ _Anciens textes_:
 
   - Loi n°91-650 du 9 juillet 1991 - art. 10 (VT)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 17
 
-_Créé par_:
+_Cite_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Code du travail - art. L3252-11
 
 _Cité par_:
 
@@ -1097,25 +1117,26 @@ _Créé par_:
 
 Une procédure simplifiée de recouvrement des petites créances peut être mise en œuvre par un huissier de justice à la demande
 du créancier pour le paiement d'une créance ayant une cause contractuelle ou résultant d'une obligation de caractère
-statutaire et inférieure à un montant défini par décret en Conseil d'Etat. 
+statutaire et inférieure à un montant défini par décret en Conseil d'Etat.
 
 Cette procédure se déroule dans un délai d'un mois à compter de l'envoi par l'huissier d'une lettre recommandée avec demande
-d'avis de réception invitant le débiteur à participer à cette procédure. L'accord du débiteur, constaté par l'huissier de
-justice, suspend la prescription. 
+d'avis de réception ou d'un message transmis par voie électronique invitant le débiteur à participer à cette procédure.
+L'accord du débiteur, constaté par l'huissier de justice, suspend la prescription.
 
 L'huissier de justice qui a reçu l'accord du créancier et du débiteur sur le montant et les modalités du paiement délivre,
-sans autre formalité, un titre exécutoire. 
+sans autre formalité, un titre exécutoire.
 
-Les frais de toute nature qu'occasionne la procédure sont à la charge exclusive du créancier. 
+Les frais de toute nature qu'occasionne la procédure sont à la charge exclusive du créancier.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article, notamment les règles de prévention des
 conflits d'intérêts lors de la délivrance par l'huissier de justice d'un titre exécutoire.
 
+**Nota:**
+
+Conformément à l'article 109 V de la loi n° 2019-222 du 23 mars 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
 
 _Cité par_:
 
@@ -1131,6 +1152,10 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. L111-3 (VT)
   - Code des procédures civiles d'exécution - art. R125-1 (VD)
   - Code des procédures civiles d'exécution - art. R125-2 (VD)
+
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 14
 
 
 ### TITRE III : LA PRÉVENTION DES DIFFICULTÉS D'EXÉCUTION<a id=14></a>
@@ -3901,11 +3926,15 @@ _Cité par_:
 
 ###### Article L433-2
 
-A l'expiration du délai imparti et sur autorisation du juge, il est procédé à leur mise en vente aux enchères publiques.
-
-Le juge peut déclarer abandonnés les biens qui ne sont pas susceptibles d'être vendus.
+A l'expiration du délai imparti, il est procédé à la mise en vente aux enchères publiques des biens susceptibles d'être
+vendus. Les biens qui ne sont pas susceptibles d'être vendus sont réputés abandonnés.
 
 Le produit de la vente est remis à la personne expulsée après déduction des frais et de la créance du bailleur.
+
+**Nota:**
+
+Conformément à l'article 109 V de la loi n° 2019-222 du 23 mars 2019, les présentes dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -3917,9 +3946,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Loi n°2019-222 du 23 mars 2019 - art. 14
 
 _Cité par_:
 
@@ -4659,7 +4688,7 @@ _Créé par_:
 
 Pour l'application du présent code à Saint-Pierre-et-Miquelon, les termes énumérés ci-après sont remplacés comme suit :
 
-1° "Tribunal de grande instance" ou "tribunal d'instance" par "tribunal de première instance" ;
+1° " Tribunal judiciaire " par "tribunal de première instance" ;
 
 2° "Cour d'appel" par "tribunal supérieur d'appel" ;
 
@@ -4667,8 +4696,7 @@ Pour l'application du présent code à Saint-Pierre-et-Miquelon, les termes énu
 
 4° "Premier président de la cour d'appel" par "président du tribunal supérieur d'appel" ;
 
-5° "Président du tribunal de grande instance" ou "président du tribunal d'instance" par "président du tribunal de première
-instance" ;
+5° "Président du tribunal " judiciaire " par "président du tribunal de première instance" ;
 
 6° "Procureur de la République" ou "procureur général près la cour d'appel" par "procureur de la République près le tribunal
 supérieur d'appel" ;
@@ -4677,15 +4705,21 @@ supérieur d'appel" ;
 
 8° "Département" ou "région" par "collectivité de Saint-Pierre-et-Miquelon".
 
+**Nota:**
+
+Conformément à l’article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, les présentes dispositions entrent en vigueur
+le 1
+  <sup>er</sup> janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 17
 
 
 ###### Article L631-3
@@ -4820,14 +4854,13 @@ _Cite_:
 
 Pour l'application du présent code dans les îles Wallis et Futuna, les termes énumérés ci-après sont remplacés comme suit :
 
-1° "Tribunal de grande instance" ou "tribunal d'instance" par "tribunal de première instance" ;
+1° " Tribunal judiciaire " par "tribunal de première instance" ;
 
 2° "Tribunal de commerce" par "tribunal de première instance statuant en matière commerciale" ;
 
 3° "Procureur de la République" par "procureur de la République près le tribunal de première instance" ;
 
-4° "Juge du tribunal d'instance" ou "juge aux affaires familiales" par "président du tribunal de première instance ou son
-délégué" ;
+4° " Juge aux affaires familiales" par "président du tribunal de première instance ou son délégué" ;
 
 5° "Cour d'appel" par "tribunal supérieur d'appel" ;
 
@@ -4840,6 +4873,12 @@ délégué" ;
 Par ailleurs, les attributions dévolues aux huissiers de justice sont également exercées par l'autorité administrative ou
 militaire.
 
+**Nota:**
+
+Conformément à l’article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, les présentes dispositions entrent en vigueur
+le 1
+  <sup>er</sup> janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -4850,9 +4889,9 @@ _Codifié par_:
 
   - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 17
 
 
 ###### Article L641-3
@@ -5047,16 +5086,21 @@ _Créé par_:
 
 ###### Article R111-1
 
-Le juge de l'exécution du tribunal de grande instance de Paris est seul compétent pour statuer sur la demande d'autorisation
-prévue à l'article L. 111-1-1 et sur les contestations relatives aux mesures conservatoires et d'exécution forcée mobilières
-qu'il autorise, ainsi que pour connaître des procédures de saisie immobilière qu'il autorise, à l'exception des procédures
+Le juge de l'exécution du tribunal judiciaire de Paris est seul compétent pour statuer sur la demande d'autorisation prévue à
+l'article L. 111-1-1 et sur les contestations relatives aux mesures conservatoires et d'exécution forcée mobilières qu'il
+autorise, ainsi que pour connaître des procédures de saisie immobilière qu'il autorise, à l'exception des procédures
 d'exécution forcée sur les immeubles situés dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 37
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -5397,7 +5441,12 @@ _Créé par_:
 ###### Article R121-5
 
 Sauf dispositions contraires, les dispositions communes du livre Ier du code de procédure civile sont applicables, devant le
-juge de l'exécution, aux procédures civiles d'exécution à l'exclusion des articles 484 à 492-1.
+juge de l'exécution, aux procédures civiles d'exécution à l'exclusion des articles 481-1 et 484 à 492.
+
+**Nota:**
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -5409,18 +5458,24 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 6
 
 _Cite_:
 
-  - Code de procédure civile - art. 484 (V)
+  - Code de procédure civile - art. 481-1
+  - Code de procédure civile - art. 484
 
 
 ###### Article R121-6
 
-Les parties se défendent elles-mêmes. Elles ont la faculté de se faire assister ou représenter.
+Le montant prévu au troisième alinéa de l'article L. 121-4 est fixé à 10 000 euros.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions sont applicables aux
+instances introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -5432,13 +5487,17 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 10
+
+_Cite_:
+
+  - Code des procédures civiles d'exécution - art. L121-4 (V)
 
 _Cité par_:
 
-  - Code des procédures civiles d'exécution - art. R121-11 (V)
+  - Code des procédures civiles d'exécution - art. R121-11 (VD)
   - Code des procédures civiles d'exécution - art. R151-3 (V)
   - Code des procédures civiles d'exécution - art. R433-1 (VD)
   - Code des procédures civiles d'exécution - art. R442-4 (V)
@@ -5446,7 +5505,7 @@ _Cité par_:
 
 ###### Article R121-7
 
-Les parties peuvent se faire assister ou représenter par :
+Sauf disposition contraire, les parties peuvent se faire assister ou représenter par :
 
 1° Un avocat ;
 
@@ -5465,6 +5524,11 @@ par un fonctionnaire ou un agent de leur administration.
 
 Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial.
 
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions sont applicables aux
+instances introduites à compter du 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -5475,9 +5539,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 10
 
 _Cité par_:
 
@@ -5564,9 +5628,16 @@ _Cite_:
 
 ###### Article R121-11
 
-Sauf dispositions contraires, la demande est formée par assignation à la première audience utile du juge de l'exécution. 
+Sauf dispositions contraires, la demande est formée par assignation à la première audience utile du juge de l'exécution.
 
-L'assignation contient, à peine de nullité, la reproduction des dispositions des articles R. 121-6 à R. 121-10.
+L'assignation contient, à peine de nullité, la reproduction des dispositions des articles R. 121-8 à R. 121-10. Elle
+mentionne, sous la même sanction, les conditions dans lesquelles le défendeur peut ou doit se faire assister ou représenter,
+ainsi que, s'il y a lieu, le nom du représentant du demandeur.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions sont applicables aux
+instances introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -5578,13 +5649,13 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 10
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. R121-6 (V)
+  - Code des procédures civiles d'exécution - art. R121-6 (VD)
 
 _Cité par_:
 
@@ -5851,9 +5922,15 @@ _Cité par_:
 Le juge de l'exécution statue par ordonnance sur requête dans les cas spécifiés par la loi ou lorsque les circonstances
 exigent qu'une mesure urgente ne soit pas prise contradictoirement.
 
-La requête est remise ou adressée au greffe par le requérant ou par tout mandataire.
+La requête est remise ou adressée au greffe par le requérant ou par son mandataire désigné conformément aux dispositions des
+articles L. 121-4 et L. 122-2.
 
 La décision de rétractation d'une ordonnance sur requête n'a pas autorité de chose jugée au principal.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions sont applicables aux
+instances introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -5865,9 +5942,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 10
 
 
 ###### Article R121-24
@@ -6009,9 +6086,14 @@ du code monétaire et financier ou l'une des institutions ou l'un des établisse
 créanciers. 
 
 La justification des conditions requises aux alinéas précédents est assurée par déclaration écrite des intéressés, remise ou
-adressée, avant tout exercice de l'activité, au procureur de la République près le tribunal de grande instance dans le
-ressort duquel ils ont le siège de leurs activités. A tout moment, le procureur de la République peut vérifier que les
-intéressés se conforment aux obligations prescrites par le présent article.
+adressée, avant tout exercice de l'activité, au procureur de la République près le   tribunal judiciaire dans le ressort
+duquel ils ont le siège de leurs activités. A tout moment, le procureur de la République peut vérifier que les intéressés se
+conforment aux obligations prescrites par le présent article.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -6023,15 +6105,15 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code monétaire et financier - art. L511-9 (V)
-  - Code monétaire et financier - art. L518-1 (V)
-  - Code des procédures civiles d'exécution - art. R124-1 (V)
+  - Code monétaire et financier - art. L511-9
+  - Code monétaire et financier - art. L518-1
+  - Code des procédures civiles d'exécution - art. R124-1
 
 _Cité par_:
 
@@ -6209,52 +6291,64 @@ _Cité par_:
 ###### Article R125-1
 
 La procédure simplifiée de recouvrement des petites créances prévue à l'article L. 125-1 peut-être mise en œuvre par un
-huissier de justice du ressort de la cour d'appel où le débiteur a son domicile ou sa résidence. 
+huissier de justice du ressort de la cour d'appel où le débiteur a son domicile ou sa résidence.
 
-Le montant de la créance en principal et intérêts ne doit pas excéder 4 000 euros.
+Le montant de la créance en principal et intérêts ne doit pas excéder 5 000 euros.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-285 du 9 mars 2016 - art. 4
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 30
 
 
 ###### Article R125-2
 
-I.-La lettre recommandée avec demande d'avis de réception par laquelle l'huissier de justice invite le débiteur à participer
-à la procédure simplifiée de recouvrement mentionne : 
+I.-La lettre recommandée avec demande d'avis de réception ou le message transmis par voie électronique par lequel l'huissier
+de justice invite le débiteur à participer à la procédure simplifiée de recouvrement mentionne :
 
-1° Le nom et l'adresse de l'huissier de justice mandaté pour mener la procédure ; 
+1° Le nom et l'adresse de l'huissier de justice mandaté pour mener la procédure ;
 
-2° Le nom ou la dénomination sociale du créancier, son adresse ou son siège social ; 
+2° Le nom ou la dénomination sociale du créancier, son adresse ou son siège social ;
 
-3° Le fondement et le montant de la somme due en principal et intérêts, en distinguant les différents éléments de la dette. 
+3° Le fondement et le montant de la somme due en principal et intérêts, en distinguant les différents éléments de la dette.
 
-II.-Cette lettre reproduit les dispositions des articles L. 111-2, L. 111-3 et L. 125-1 du présent code et de l'article 2238
-du code civil. Elle rappelle à son destinataire qu'il peut accepter ou refuser cette procédure. 
+II.- La lettre ou le message reproduit les dispositions des articles L. 111-2, L. 111-3 et L. 125-1 du présent code et de
+l'article 2238 du code civil.
 
-III.-La lettre indique que : 
+III-La lettre ou le message indique que :
 
-1° Si son destinataire accepte de participer à la procédure simplifiée de recouvrement, il lui appartient de manifester cet
-accord dans un délai d'un mois à compter de l'envoi de la lettre, soit contre émargement, le cas échéant par toute personne
-spécialement mandatée, soit par l'envoi, par courrier postal ou par voie électronique d'un formulaire d'acceptation ; 
+1° Son destinataire peut accepter ou refuser de participer à la procédure simplifiée de recouvrement ;
 
-2° Si son destinataire refuse de participer à la procédure, il peut manifester ce refus par la remise ou l'envoi d'un
-formulaire de refus ou par tout autre moyen ; 
+2° Si son destinataire accepte de participer à la procédure, il lui appartient de manifester son accord dans un délai d'un
+mois à compter de l'envoi de la lettre ou du message, soit par l'envoi d'un formulaire d'acceptation par courrier postal ou
+par voie électronique, soit par émargement de la lettre effectué le cas échéant par toute personne spécialement mandatée ;
 
-3° L'absence de réponse dans le délai d'un mois vaut refus implicite ; 
+3° Si son destinataire refuse de participer à la procédure, il peut manifester ce refus par la remise ou l'envoi d'un
+formulaire de refus ou par tout autre moyen ;
 
-4° Qu'en cas de refus exprès ou implicite, le créancier pourra saisir le juge afin d'obtenir un titre exécutoire. 
+4° L'absence de réponse dans le délai d'un mois vaut refus implicite ;
 
-IV.-La lettre et les formulaires qui l'accompagnent sont rédigés conformément à des modèles définis par arrêté du garde des
-sceaux, ministre de la justice.
+5° En cas de refus exprès ou implicite, le créancier pourra saisir le juge afin d'obtenir un titre exécutoire.
+
+IV.-La lettre, le message électronique et les formulaires qui l'accompagnent sont rédigés conformément à des modèles définis
+par arrêté du garde des sceaux, ministre de la justice.
+
+**Nota:**
+
+Conformément à l'article 16 du décret 2019-992, les articles 2 et 3 s'appliquent aux procédures simplifiées de recouvrement
+des petites créances engagées à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-285 du 9 mars 2016 - art. 4
+  - Décret n°2019-992 du 26 septembre 2019 - art. 2
 
 _Cité par_:
 
@@ -6264,55 +6358,71 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 2238 (VD)
-  - Code des procédures civiles d'exécution - art. L111-2 (V)
-  - Code des procédures civiles d'exécution - art. L125-1 (VD)
+  - Code civil - art. 2238
+  - Code des procédures civiles d'exécution - art. L111-2
+  - Code des procédures civiles d'exécution - art. L125-1
 
 
 ###### Article R125-3
 
-L'huissier de justice constate, selon le cas, l'accord ou le refus du destinataire de la lettre pour participer à la
-procédure simplifiée de recouvrement.
+L'huissier de justice constate, selon le cas, l'accord ou le refus du destinataire de la lettre ou du message transmis par
+voie électronique pour participer à la procédure simplifiée de recouvrement.
+
+**Nota:**
+
+Conformément à l'article 16 du décret 2019-992, les articles 2 et 3 s'appliquent aux procédures simplifiées de recouvrement
+des petites créances engagées à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-285 du 9 mars 2016 - art. 1
+  - Décret n°2019-992 du 26 septembre 2019 - art. 3
 
 
 ###### Article R125-4
 
-Lorsque le destinataire de la lettre accepte de participer à la procédure simplifiée de recouvrement, l'huissier de justice
-lui propose un accord sur le montant et les modalités du paiement.
+Lorsque le destinataire de la lettre ou du message transmis par voie électronique accepte de participer à la procédure
+simplifiée de recouvrement, l'huissier de justice lui propose un accord sur le montant et les modalités du paiement.
+
+**Nota:**
+
+Conformément à l'article 16 du décret 2019-992, les articles 2 et 3 s'appliquent aux procédures simplifiées de recouvrement
+des petites créances engagées à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-285 du 9 mars 2016 - art. 1
+  - Décret n°2019-992 du 26 septembre 2019 - art. 3
 
 
 ###### Article R125-5
 
 La procédure simplifiée de recouvrement prend fin lorsque l'huissier de justice constate, par un écrit qui peut être établi
-sur support électronique : 
+sur support électronique :
 
-1° Le refus de participer à la procédure simplifiée de recouvrement, par le destinataire de la lettre, dans les conditions
-prévues au 2° du III de l'article R. 125-2 ; 
+1° Le refus de participer à la procédure simplifiée de recouvrement, par le destinataire de la lettre ou du message transmis
+par voie électronique , dans les conditions prévues au 3° du III de l'article R. 125-2 ;
 
-2° L'expiration du délai d'un mois, à compter de l'envoi par l'huissier de justice de la lettre invitant le débiteur à
-participer à la procédure, sans qu'un accord soit établi sur le montant et les modalités de paiement ; 
+2° L'expiration du délai d'un mois, à compter de l'envoi par l'huissier de justice de la lettre ou du message transmis par
+voie électronique invitant le débiteur à participer à la procédure, sans qu'un accord soit établi sur le montant et les
+modalités de paiement ;
 
-3° Le refus exprès donné par le débiteur, dans le même délai, sur le montant ou les modalités de paiement proposés ; 
+3° Le refus exprès donné par le débiteur, dans le même délai, sur le montant ou les modalités de paiement proposés ;
 
 4° La conclusion d'un accord, dans le même délai, portant sur le montant et les modalités du paiement.
 
+**Nota:**
+
+Conformément à l'article 16 du décret 2019-992, les articles 2 et 3 s'appliquent aux procédures simplifiées de recouvrement
+des petites créances engagées à compter du 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-285 du 9 mars 2016 - art. 1
+  - Décret n°2019-992 du 26 septembre 2019 - art. 3
 
 
 ###### Article R125-6
@@ -6332,14 +6442,20 @@ _Créé par_:
 
 ###### Article R125-7
 
-A compter de l'envoi au débiteur de la lettre l'invitant à participer à la procédure simplifiée de recouvrement, aucun
-paiement ne peut avoir lieu avant que l'huissier de justice n'ait constaté l'issue de la procédure.
+A compter de l'envoi au débiteur de la lettre ou du message transmis par voie électronique l'invitant à participer à la
+procédure simplifiée de recouvrement, aucun paiement ne peut avoir lieu avant que l'huissier de justice n'ait constaté
+l'issue de la procédure.
+
+**Nota:**
+
+Conformément à l'article 16 du décret 2019-992, les articles 2 et 3 s'appliquent aux procédures simplifiées de recouvrement
+des petites créances engagées à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-285 du 9 mars 2016 - art. 1
+  - Décret n°2019-992 du 26 septembre 2019 - art. 3
 
 
 ###### Article R125-8
@@ -6683,9 +6799,13 @@ _Créé par_:
 
 ###### Article R151-2
 
-Le juge est saisi par déclaration écrite de l'huissier de justice au greffe accompagnée de la présentation du titre et d'un
-exposé de la difficulté qui a entravé l'opération d'exécution ainsi que, s'il y a lieu, des pièces qui lui ont été
-communiquées.
+Le juge est saisi par requête de l'huissier de justice au greffe accompagnée de la présentation du titre et d'un exposé de la
+difficulté qui a entravé l'opération d'exécution ainsi que, s'il y a lieu, des pièces qui lui ont été communiquées.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -6697,14 +6817,14 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
-
-  - Décret n°2012-783 du 30 mai 2012 - art.
-
 _Cité par_:
 
   - Décret n°2016-230 du 26 février 2016 - art.
   - Code de commerce - art. Annexe 4-7 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 30
 
 
 ###### Article R151-3
@@ -7334,18 +7454,23 @@ _Cite_:
 ###### Article R211-4
 
 Le tiers saisi est tenu de fournir sur-le-champ à l'huissier de justice les renseignements prévus à l'article L. 211-3 et de
-lui communiquer les pièces justificatives.
+lui communiquer les pièces justificatives. 
 
-Il en est fait mention dans l'acte de saisie.
+Il en est fait mention dans l'acte de saisie. 
 
-Par dérogation au premier alinéa, lorsque la saisie est pratiquée entre les mains d'un comptable public, celui-ci dispose
-d'un délai de vingt-quatre heures pour fournir à l'huissier de justice les renseignements prévus à l'article L. 211-3 et lui
-communiquer les pièces justificatives.
+Par dérogation au premier alinéa, lorsque la saisie est pratiquée entre les mains d'un comptable public ou de la Caisse des
+dépôts et consignations, celui-ci dispose d'un délai de vingt-quatre heures pour fournir à l'huissier de justice les
+renseignements prévus à l'article L. 211-3 et lui communiquer les pièces justificatives. 
 
 Si l'acte de saisie est signifié par voie électronique, le tiers saisi est tenu de communiquer à l'huissier de justice, par
 la même voie, les renseignements et pièces justificatives mentionnés au premier alinéa. Cette communication doit être
 effectuée au plus tard le premier jour ouvré suivant la signification, sous réserve des dispositions prévues à l'article
 748-7 du code de procédure civile.
+
+**Nota:**
+
+Conformément à l'article 28 du décret n° 2019-1197 du 20 novembre 2019, ces dispositions entrent en vigueur le 1er janvier
+2020.
 
 **Liens relatifs à cet article**
 
@@ -7360,7 +7485,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-992 du 26 septembre 2019 - art. 4
+  - Décret n°2019-1197 du 20 novembre 2019 - art. 21
 
 _Cite_:
 
@@ -7902,10 +8027,16 @@ _Créé par_:
 ###### Article R212-3
 
 La déclaration qui incombe au tiers saisi sur la situation de droit existant entre lui-même et le débiteur est faite par le
-service employeur au greffe du tribunal d'instance.
+service employeur au greffe du juge de l'exécution.
 
 Les déclarations relatives aux cessions, saisies, saisies administratives à tiers détenteurs ou paiement direct de créances
-d'aliments sont faites par le comptable assignataire au greffe du tribunal d'instance.
+d'aliments sont faites par le comptable assignataire au greffe du juge de l'exécution.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -7919,7 +8050,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-970 du 8 novembre 2018 - art. 4
+  - Décret n°2019-913 du 30 août 2019 - art. 20
 
 _Cité par_:
 
@@ -7977,11 +8108,18 @@ _Créé par_:
 ###### Article R212-6
 
 Le comptable public verse tous les mois au compte " Caisse des dépôts et consignations " du régisseur du greffe du tribunal
-d'instance le montant des sommes correspondant aux retenues effectuées. 
+judiciaire ou le cas échéant, du régisseur installé auprès de l'une de ses chambres de proximité le montant des sommes
+correspondant aux retenues effectuées.
 
-Il adresse également au greffe un état nominatif indiquant les références du saisi, de la saisie et du montant retenu. 
+Il adresse également au greffe un état nominatif indiquant les références du saisi, de la saisie et du montant retenu.
 
 Le greffe notifie au comptable la mainlevée de la saisie.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -7993,9 +8131,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-913 du 30 août 2019 - art. 20
 
 
 #### Chapitre III : La procédure de paiement direct  des pensions alimentaires<a id=153></a>
@@ -12581,8 +12719,13 @@ _Cité par_:
 
 ###### Article R311-2
 
-La saisie immobilière est poursuivie devant le juge de l'exécution du tribunal de grande instance dans le ressort duquel est
-situé l'immeuble saisi.
+La saisie immobilière est poursuivie devant le juge de l'exécution du   tribunal judiciaire dans le ressort duquel est situé
+l'immeuble saisi.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -12594,17 +12737,22 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R311-3
 
 Lorsqu'un créancier a procédé simultanément à la saisie de plusieurs immeubles d'un même débiteur situés dans des ressorts de
-plusieurs tribunaux de grande instance, la procédure est portée devant le juge de l'exécution du tribunal dans le ressort
-duquel est situé l'immeuble saisi où demeure le débiteur, à défaut, devant le juge du ressort dans lequel est situé l'un
-quelconque des immeubles.
+plusieurs   tribunaux judiciaires, la procédure est portée devant le juge de l'exécution du tribunal dans le ressort duquel
+est situé l'immeuble saisi où demeure le débiteur, à défaut, devant le juge du ressort dans lequel est situé l'un quelconque
+des immeubles.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -12616,9 +12764,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ##### Section 2 : La procédure<a id=197></a>
@@ -12675,16 +12823,21 @@ _Cite_:
 ###### Article R311-6
 
 A moins qu'il en soit disposé autrement, toute contestation ou demande incidente est formée par le dépôt au greffe de
-conclusions signées d'un avocat.
+conclusions signées d'un avocat. 
 
-La communication des conclusions et des pièces entre avocats est faite dans les conditions prévues par l'article 815 du code
-de procédure civile. La communication des conclusions est faite par signification au débiteur qui n'a pas constitué avocat.
+La communication des conclusions et des pièces entre avocats est faite dans les conditions prévues par l'article 766 du code
+de procédure civile. La communication des conclusions est faite par signification au débiteur qui n'a pas constitué avocat. 
 
 Lorsque la contestation ou la demande incidente ne peut être examinée à l'audience d'orientation, le greffe convoque les
 parties à une audience par lettre recommandée avec demande d'avis de réception dans un délai de quinze jours à compter du
-dépôt de la contestation ou de la demande.
+dépôt de la contestation ou de la demande. 
 
 L'examen des contestations et des demandes incidentes ne suspend pas le cours de la procédure.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -12696,13 +12849,13 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 30
 
 _Cite_:
 
-  - Code de procédure civile - art. 815 (V)
+  - Code de procédure civile - art. 766
 
 _Cité par_:
 
@@ -14521,33 +14674,38 @@ _Cité par_:
 ###### Article R322-31
 
 La vente forcée est annoncée à l'initiative du créancier poursuivant dans un délai compris entre un et deux mois avant
-l'audience d'adjudication.
+l'audience d'adjudication. 
 
 A cette fin, le créancier poursuivant rédige un avis, en assure le dépôt au greffe du juge de l'exécution pour qu'il soit
 affiché sans délai dans les locaux de la juridiction, à un emplacement aisément accessible au public, et fait procéder à sa
-publication dans un des journaux d'annonces légales diffusé dans l'arrondissement de la situation de l'immeuble saisi.
+publication dans un des journaux d'annonces légales diffusé dans l'arrondissement de la situation de l'immeuble saisi. 
 
-L'avis indique :
+L'avis indique : 
 
-1° Les nom, prénoms et domicile du créancier poursuivant et de son avocat ;
+1° Les nom, prénoms et domicile du créancier poursuivant et de son avocat ; 
 
 2° La désignation de l'immeuble saisi et une description sommaire indiquant sa nature, son occupation éventuelle et tous
-éléments connus relatifs à sa superficie ainsi que, le cas échéant, les dates et heures de visite ;
+éléments connus relatifs à sa superficie ainsi que, le cas échéant, les dates et heures de visite ; 
 
-3° Le montant de la mise à prix ;
+3° Le montant de la mise à prix ; 
 
-4° Les jour, heure et lieu de la vente ;
+4° Les jour, heure et lieu de la vente ; 
 
-5° L'indication que les enchères ne peuvent être portées que par un avocat inscrit au barreau du tribunal de grande instance
-du lieu de la vente ;
+5° L'indication que les enchères ne peuvent être portées que par un avocat inscrit au barreau du   tribunal judiciaire du
+lieu de la vente ; 
 
 6° L'indication que le cahier des conditions de vente peut être consulté au greffe du juge de l'exécution ou au cabinet de
-l'avocat du poursuivant.
+l'avocat du poursuivant. 
 
-L'avis publié dans le journal d'annonces légales ne comporte aucune autre mention.
+L'avis publié dans le journal d'annonces légales ne comporte aucune autre mention. 
 
-L'avis affiché est rédigé en caractères dont la hauteur ne peut être inférieure à celle du corps 30, sur format A3 (40 ×
-29,7 cm).
+L'avis affiché est rédigé en caractères dont la hauteur ne peut être inférieure à celle du corps 30, sur format A3 (40 × 29,7
+cm).
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -14559,9 +14717,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -14840,10 +14998,15 @@ _Cité par_:
 
 ###### Article R322-40
 
-Les enchères sont portées par le ministère d'un avocat inscrit au barreau du tribunal de grande instance devant lequel la
-vente est poursuivie.
+Les enchères sont portées par le ministère d'un avocat inscrit au barreau du   tribunal judiciaire devant lequel la vente est
+poursuivie. 
 
 Celui-ci ne peut être porteur que d'un seul mandat.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -14855,9 +15018,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R322-41
@@ -15867,13 +16030,18 @@ _Créé par_:
 
 La procédure de distribution du prix de l'immeuble régie par le présent titre s'applique, sauf dispositions contraires, à la
 répartition entre créanciers du prix d'un immeuble vendu en dehors de toute procédure d'exécution, après purge des
-inscriptions.
+inscriptions. 
 
-En ce cas, la procédure est poursuivie par la partie la plus diligente devant le tribunal de grande instance.
+En ce cas, la procédure est poursuivie par la partie la plus diligente devant le   tribunal judiciaire. 
 
 La juridiction désigne un séquestre des fonds, à moins que la consignation auprès de la Caisse des dépôts et consignations ne
 soit ordonnée. La rétribution du séquestre est prélevée sur les fonds à répartir et supportée par les créanciers, au prorata
 de la somme qui revient à chacun d'eux. En cas de contestation, cette rétribution est fixée par le tribunal.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -15885,9 +16053,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -16663,20 +16831,29 @@ _Cité par_:
 ###### Article R433-1
 
 Si des biens ont été laissés sur place ou déposés par l'huissier de justice en un lieu approprié, le procès-verbal
-d'expulsion contient, en outre, à peine de nullité : 
+d'expulsion contient, en outre, à peine de nullité :
 
-1° Inventaire de ces biens, avec l'indication qu'ils paraissent avoir ou non une valeur marchande ; 
+1° Inventaire de ces biens, avec l'indication qu'ils paraissent avoir ou non une valeur marchande ;
 
-2° Mention du lieu et des conditions d'accès au local où ils ont été déposés ; 
+2° Mention du lieu et des conditions d'accès au local où ils ont été déposés ;
 
-3° Sommation à la personne expulsée, en caractères très apparents, d'avoir à les retirer dans le délai d'un mois non
-renouvelable à compter de la signification de l'acte, faute de quoi les biens qui n'auront pas été retirés pourront être, sur
-décision du juge, vendus aux enchères publiques ou déclarés abandonnés selon le cas ; 
+3° Sommation à la personne expulsée, en caractères très apparents, d'avoir à les retirer dans le délai de deux mois non
+renouvelable à compter de la remise ou de la signification de l'acte, faute de quoi les biens qui n'auront pas été retirés
+seront vendus aux enchères publiques dans le cas où l'inventaire indique qu'ils paraissent avoir une valeur marchande ; dans
+le cas contraire, les biens seront réputés abandonnés, à l'exception des papiers et documents de nature personnelle qui
+seront placés sous enveloppe scellée et conservés pendant deux ans par l'huissier de justice ;
 
-4° Convocation de la personne expulsée d'avoir à comparaître devant le juge de l'exécution du lieu de la situation de
-l'immeuble à une date déterminée qui ne peut être antérieure à l'expiration du délai imparti au 3°, afin qu'il soit statué
-sur le sort des biens qui n'auraient pas été retirés avant le jour de l'audience. L'acte reproduit les dispositions des
-articles R. 121-6 à R. 121-10.
+4° Mention de la possibilité, pour la personne expulsée, de contester l'absence de valeur marchande des biens, à peine
+d'irrecevabilité dans le délai d'un mois à compter de la remise ou de la signification de l'acte ;
+
+5° L'indication du juge de l'exécution territorialement compétent pour connaître de la contestation ;
+
+6° La reproduction des dispositions des articles R. 121-6 à R. 121-10, R. 442-2 et R. 442-3.
+
+**Nota:**
+
+Conformément à l'article 16 du décret 2019-992, les articles 6 à 11 s'appliquent aux procédures d'expulsion dont le procès-
+verbal d'expulsion ou de reprise des lieux a été établi à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -16688,19 +16865,24 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-992 du 26 septembre 2019 - art. 6
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. R121-6 (V)
+  - Code des procédures civiles d'exécution - art. R121-6
 
 
 ###### Article R433-2
 
-Le délai prévu par l'article L. 433-1 est d'un mois non renouvelable à compter de la signification du procès-verbal
-d'expulsion.
+Le délai prévu par l'article L. 433-1 est de deux mois non renouvelable à compter de la remise de la signification du procès-
+verbal d'expulsion.
+
+**Nota:**
+
+Conformément à l'article 16 du décret 2019-992, les articles 6 à 11 s'appliquent aux procédures d'expulsion dont le procès-
+verbal d'expulsion ou de reprise des lieux a été établi à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -16712,21 +16894,28 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-992 du 26 septembre 2019 - art. 7
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. L433-1 (V)
+  - Code des procédures civiles d'exécution - art. L433-1
 
 
 ###### Article R433-3
 
-En vue de l'audience prévue pour le cas où tous les biens de la personne expulsée n'auraient pas été retirés du lieu où ils
-ont été entreposés, le juge est saisi par le dépôt d'une copie du procès-verbal d'expulsion.
+La personne expulsée peut saisir le juge de l'exécution pour contester l'absence de valeur marchande des biens retenue par
+l'huissier de justice dans l'inventaire. La saisine doit être effectuée, à peine d'irrecevabilité, dans le délai d'un mois à
+compter de la remise ou de la signification du procès-verbal d'expulsion. Elle suspend le délai de deux mois mentionné à
+l'article R. 433-2 au terme duquel les biens déclarés sans valeur marchande sont réputés abandonnés.
 
-Au cours de cette audience, l'huissier de justice peut être entendu.
+L'huissier de justice peut être entendu à l'audience sur cette contestation.
+
+**Nota:**
+
+Conformément à l'article 16 du décret 2019-992, les articles 6 à 11 s'appliquent aux procédures d'expulsion dont le procès-
+verbal d'expulsion ou de reprise des lieux a été établi à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -16738,9 +16927,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-992 du 26 septembre 2019 - art. 8
 
 
 ###### Article R433-4
@@ -16765,21 +16954,28 @@ _Créé par_:
 
 ###### Article R433-5
 
-Si les biens laissés sur place ou déposés en un lieu approprié ont une valeur marchande, le juge peut décider qu'ils seront
-mis en vente aux enchères publiques, y compris ceux qui sont insaisissables par leur nature.
-
-Après inventaire de ces biens, il est procédé à leur vente forcée comme en matière de saisie-vente.
+Si les biens laissés sur place ou déposés en un lieu approprié ont une valeur marchande, il est procédé à leur vente forcée
+comme en matière de saisie-vente.
 
 Le produit de la vente, après déduction des frais et s'il y a lieu du montant de la créance du bailleur, est consigné auprès
 de la Caisse des dépôts et consignations au profit de la personne expulsée qui en est informée par l'officier ministériel
 chargé de la vente au moyen d'une lettre recommandée avec demande d'avis de réception adressée à sa demeure actuelle ou, si
 celle-ci est inconnue, au lieu de son dernier domicile.
 
+**Nota:**
+
+Conformément à l'article 16 du décret 2019-992, les articles 6 à 11 s'appliquent aux procédures d'expulsion dont le procès-
+verbal d'expulsion ou de reprise des lieux a été établi à compter du 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°92-755 du 31 juillet 1992 - art. 206 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2012-783 du 30 mai 2012 (V)
 
 _Cité par_:
 
@@ -16789,24 +16985,25 @@ _Cité par_:
   - Code des procédures civiles d'exécution - art. R433-6 (VD)
   - Code des procédures civiles d'exécution - art. R451-4 (VD)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 (V)
-
-_Créé par_:
-
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-992 du 26 septembre 2019 - art. 9
 
 
 ###### Article R433-6
 
-Les biens n'ayant aucune valeur marchande peuvent être déclarés abandonnés, à l'exception des papiers et documents de nature
-personnelle qui sont placés sous enveloppe scellée et conservés pendant deux ans par l'huissier de justice. 
+Les biens n'ayant aucune valeur marchande sont réputés abandonnés, à l'exception des papiers et documents de nature
+personnelle qui sont placés sous enveloppe scellée et conservés pendant deux ans par l'huissier de justice.
 
-Avis en est donné à la personne expulsée, comme il est dit au dernier alinéa de l'article R. 433-5. 
+Avis en est donné à la personne expulsée, dans les conditions prévues au dernier alinéa de l'article R. 433-5.
 
 A l'expiration du délai prévu au premier alinéa, l'huissier de justice détruit les documents conservés et dresse un procès-
 verbal qui fait mention des documents officiels et des instruments bancaires qui ont été détruits.
+
+**Nota:**
+
+Conformément à l'article 16 du décret 2019-992, les articles 6 à 11 s'appliquent aux procédures d'expulsion dont le procès-
+verbal d'expulsion ou de reprise des lieux a été établi à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -16814,23 +17011,23 @@ _Anciens textes_:
 
   - Décret n°92-755 du 31 juillet 1992 - art. 207 (Ab)
 
+_Codifié par_:
+
+  - Décret n°2012-783 du 30 mai 2012 (V)
+
 _Cité par_:
 
   - Décret n°2011-945 du 10 août 2011 - art. 5 (V)
   - Décret n°2016-230 du 26 février 2016 - art.
   - Code de commerce - art. Annexe 4-7 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 (V)
-
-_Créé par_:
-
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-992 du 26 septembre 2019 - art. 10
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. R433-5 (V)
+  - Code des procédures civiles d'exécution - art. R433-5
 
 
 ##### Section 2 : Les meubles indisponibles<a id=250></a>
@@ -16934,9 +17131,14 @@ Par dérogation aux dispositions de l'article R. 121-11, la demande relative à 
 l'expulsion peut être formée au greffe du juge de l'exécution par lettre recommandée avec demande d'avis de réception ou par
 déclaration faite ou remise contre récépissé. 
 
-Lorsque le juge de l'exécution exerce aussi les fonctions de juge d'instance et que la demande a été formée au greffe du
-tribunal de grande instance, celle-ci est réputée faite valablement et elle est immédiatement transmise au greffe du tribunal
-d'instance. Avis en est donné au demandeur par lettre simple.
+Lorsque le juge de l'exécution exerce aussi les fonctions de   juge du tribunal judiciaire et que la demande a été formée au
+greffe du tribunal de grande instance, celle-ci est réputée faite valablement et elle est immédiatement transmise au greffe
+du tribunal judiciaire. Avis en est donné au demandeur par lettre simple.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -16948,13 +17150,13 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. R121-11 (V)
+  - Code des procédures civiles d'exécution - art. R121-11
 
 _Cité par_:
 
@@ -16964,9 +17166,14 @@ _Cité par_:
 
 ###### Article R442-3
 
-A peine de nullité, la demande présentée en application de l'article R. 442-2, outre les mentions prévues à l'article 58 du
+A peine de nullité, la demande présentée en application de l'article R. 442-2, outre les mentions prévues à l'article 57 du
 code de procédure civile, contient un exposé sommaire des motifs et mentionne le nom et l'adresse du défendeur ou, s'il
 s'agit d'une personne morale, sa dénomination et son siège social.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -16978,14 +17185,14 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 30
 
 _Cite_:
 
-  - Code de procédure civile - art. 58 (M)
-  - Code des procédures civiles d'exécution - art. R442-2 (V)
+  - Code de procédure civile - art. 57
+  - Code des procédures civiles d'exécution - art. R442-2
 
 
 ###### Article R442-4
@@ -17117,23 +17324,27 @@ _Cite_:
 
 ###### Article R451-4
 
-Dans le cas prévu au 2° de l'article R. 451-1 : 
+Dans le cas prévu au 2° de l'article R. 451-1 :
 
-1° En cas de vente aux enchères des meubles laissés sur place, celle-ci a lieu dans les conditions prévues par les deuxième
-et troisième alinéas de l'article R. 433-5. Le sort des papiers et documents de nature personnelle est régie par l'article R.
-433-6 ; 
+1° En cas de vente aux enchères des meubles laissés sur place, celle-ci a lieu dans les conditions prévues par l'article R.
+433-5. Le sort des papiers et documents de nature personnelle est régi par l'article R. 433-6 ;
 
 2° S'il s'avère, à l'occasion des opérations de reprise des locaux, que ceux-ci sont à nouveau occupés par la personne
 expulsée ou toute personne de son chef, l'huissier de justice procède conformément aux dispositions des titres Ier à IV du
-présent livre, sans qu'il ait à obtenir un nouveau titre d'expulsion ; 
+présent livre, sans qu'il ait à obtenir un nouveau titre d'expulsion ;
 
 3° Pour l'application de l'article R. 441-1, en cas de réinstallation sans titre de la personne expulsée postérieurement aux
 opérations de reprise des locaux, constitutive de voie de fait, la signification de la décision de justice, passée en force
-de chose jugée, autorisant la reprise des lieux tient lieu de commandement d'avoir à libérer les locaux ; 
+de chose jugée, autorisant la reprise des lieux tient lieu de commandement d'avoir à libérer les locaux ;
 
-4° Les dispositions des articles R. 442-1 à R. 442-4 sont applicables. 
+4° Les dispositions des articles R. 442-1 à R. 442-4 sont applicables.
 
 Les autres dispositions des titres Ier à IV ne sont pas applicables.
+
+**Nota:**
+
+Conformément à l'article 16 du décret 2019-992, les articles 6 à 11 s'appliquent aux procédures d'expulsion dont le procès-
+verbal d'expulsion ou de reprise des lieux a été établi à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -17145,16 +17356,16 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-992 du 26 septembre 2019 - art. 11
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. R433-5 (V)
-  - Code des procédures civiles d'exécution - art. R441-1 (V)
-  - Code des procédures civiles d'exécution - art. R442-1 (V)
-  - Code des procédures civiles d'exécution - art. R451-1 (V)
+  - Code des procédures civiles d'exécution - art. R433-5
+  - Code des procédures civiles d'exécution - art. R441-1
+  - Code des procédures civiles d'exécution - art. R442-1
+  - Code des procédures civiles d'exécution - art. R451-1
 
 _Cité par_:
 
@@ -19436,25 +19647,30 @@ _Créé par_:
 
 ###### Article R631-2
 
-Pour l'application du présent code à Saint-Pierre-et-Miquelon, les termes énumérés ci-après sont remplacés comme suit : 
+Pour l'application du présent code à Saint-Pierre-et-Miquelon, les termes énumérés ci-après sont remplacés comme suit :
 
-1° " Tribunal de grande instance " ou " tribunal d'instance " par " tribunal de première instance " ; 
+1° “ tribunal judiciaire ” par " tribunal de première instance " ;
 
-2° " Cour d'appel " par " tribunal supérieur d'appel " ; 
+2° " Cour d'appel " par " tribunal supérieur d'appel " ;
 
-3° " Tribunal de commerce " par " tribunal de première instance statuant en matière commerciale " ; 
+3° " Tribunal de commerce " par " tribunal de première instance statuant en matière commerciale " ;
 
-4° " Premier président de la cour d'appel " par " président du tribunal supérieur d'appel " ; 
+4° " Premier président de la cour d'appel " par " président du tribunal supérieur d'appel " ;
 
-5° " Président du tribunal de grande instance " ou " président du tribunal d'instance " par " président du tribunal de
-première instance " ; 
+5° " Président du tribunal “ judiciaire ” par " président du tribunal de première instance " ;
 
 6° " Procureur de la République " ou " procureur général près la cour d'appel " par " procureur de la République près le
-tribunal supérieur d'appel " ; 
+tribunal supérieur d'appel " ;
 
-7° " Préfet " ou " préfet du département " par " représentant de l'Etat à Saint-Pierre-et-Miquelon " ; 
+7° " Préfet " ou " préfet du département " par " représentant de l'Etat à Saint-Pierre-et-Miquelon " ;
 
 8° " Département " ou " région " par " collectivité de Saint-Pierre-et-Miquelon ".
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -19466,9 +19682,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-913 du 30 août 2019 - art. 20
 
 
 ###### Article R631-3
@@ -19603,9 +19819,20 @@ code sont applicables à Wallis-et-Futuna :
 
 1° Le livre Ier, à l'exception du second alinéa de l'article R. 112-4, des articles R. 162-2, R. 162-3 et R. 162-7 ;
 
-Les articles R. 121-20 et R. 131-2 dans leur rédaction résultant du décret n° 2017-891 du 6 mai 2017.
+L'article R. 121-5 dans sa rédaction résultant du décret n° 2019-1419 du 20 décembre 2019 ;
+
+Les articles R. 121-6, R. 121-7, R. 121-11 et R. 121-13 dans leur rédaction résultant du décret n° 2019-1333 du 11 décembre
+2019 ;
+
+L'article R. 121-20 dans sa rédaction résultant du décret n° 2017-891 du 6 mai 2017 ;
+
+Les articles R. 121-23 et R. 125-1 dans leur rédaction résultant du décret n° 2019-1333 du 11 décembre 2019 ;
 
 Les articles R. 125-2 à R. 125-5 et R. 125-7 dans leur rédaction résultant du décret n° 2019-992 du 26 septembre 2019.
+
+L'article R. 131-2 dans sa rédaction résultant du décret n° 2017-891 du 6 mai 2017 ;
+
+L'article R. 151-2 dans sa rédaction résultant du décret n° 2019-1333 du 11 décembre 2019.
 
 Les dispositions du décret n° 2017-891 du 6 mai 2017 abrogeant l'article R. 121-3 sont applicables à Wallis-et-Futuna.
 
@@ -19620,10 +19847,20 @@ L'article R. 212-3 dans sa rédaction résultant du décret n° 2012-783 du 30 m
 Les articles R. 412-1, R. 412-2, R. 433-1 à R. 433-3, R. 433-5 et R. 433-6 dans leur rédaction résultant du décret n°
 2019-992 du 26 septembre 2019 ;
 
+L'article R. 442-3 dans sa rédaction résultant du décret n° 2012-783 du 30 mai 2012.
+
 4° Le livre V, à l'exception du 6° de l'article R. 523-3, des articles R. 532-1, R. 532-2, R. 532-7 en tant qu'il porte sur
 les immeubles et les fonds de commerce et R. 533-2.
 
 Le 2° de l'article R. 523-3 et l'article R. 523-4 dans leur rédaction résultant du décret n° 2019-992 du 26 septembre 2019.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
+Conformément au II de l'article 24 du décret n° 2019-1419 du 20 décembre 2019, ces dispositions s'appliquent aux demandes
+introduites, à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -19638,7 +19875,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-992 du 26 septembre 2019 - art. 15
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 56
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 23
 
 _Cite_:
 
@@ -19674,32 +19912,37 @@ _Créé par_:
 
 ###### Article R641-3
 
-Pour l'application du présent code à Wallis-et-Futuna, les termes énumérés ci-après sont remplacés comme suit : 
+Pour l'application du présent code à Wallis-et-Futuna, les termes énumérés ci-après sont remplacés comme suit :
 
-1° " Tribunal de grande instance " ou " tribunal d'instance " par " tribunal de première instance " ; 
+1° “ Tribunal judiciaire ” par " tribunal de première instance " ;
 
-2° " Tribunal de commerce " par " tribunal de première instance statuant en matière commerciale " ; 
+2° " Tribunal de commerce " par " tribunal de première instance statuant en matière commerciale " ;
 
-3° " Procureur de la République " par " procureur de la République près le tribunal de première instance " ; 
+3° " Procureur de la République " par " procureur de la République près le tribunal de première instance " ;
 
-4° " Juge du tribunal d'instance " ou " juge aux affaires familiales " par " président du tribunal de première instance ou
-son délégué " ; 
+4° " Juge aux affaires familiales " par " président du tribunal de première instance ou son délégué " ;
 
-5° " Cour d'appel " par " tribunal supérieur d'appel " ; 
+5° " Cour d'appel " par " tribunal supérieur d'appel " ;
 
-6° " Région ", " département " et " commune " par " collectivité de Wallis-et-Futuna " ; 
+6° " Région ", " département " et " commune " par " collectivité de Wallis-et-Futuna " ;
 
-7° " Préfet " ou " préfet du département " par " représentant de l'Etat à Wallis-et-Futuna " ; 
+7° " Préfet " ou " préfet du département " par " représentant de l'Etat à Wallis-et-Futuna " ;
 
-8° " Maire, conseiller municipal, fonctionnaire municipal " par " chef de circonscription " ; 
+8° " Maire, conseiller municipal, fonctionnaire municipal " par " chef de circonscription " ;
 
-9° " Mairie de la commune " et " mairie " par " siège de la circonscription " ; 
+9° " Mairie de la commune " et " mairie " par " siège de la circonscription " ;
 
-10° " Caisse des dépôts et consignations " par " Trésor public ". 
+10° " Caisse des dépôts et consignations " par " Trésor public ".
 
 Par ailleurs, les attributions dévolues aux huissiers de justice sont également exercées par l'autorité administrative ou
 militaire et celles dévolues aux commissaires-priseurs pour les ventes aux enchères par le greffier du tribunal de première
 instance.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -19707,9 +19950,9 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-913 du 30 août 2019 - art. 20
 
 
 ###### Article R641-4
