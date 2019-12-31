@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-01-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -16956,16 +16956,13 @@ _Cité par_:
 
 Par dérogation aux dispositions de l'article R. 121-11, la demande relative à l'exécution d'une décision de justice ordonnant
 l'expulsion peut être formée au greffe du juge de l'exécution par lettre recommandée avec demande d'avis de réception ou par
-déclaration faite ou remise contre récépissé. 
-
-Lorsque le juge de l'exécution exerce aussi les fonctions de   juge du tribunal judiciaire et que la demande a été formée au
-greffe du tribunal de grande instance, celle-ci est réputée faite valablement et elle est immédiatement transmise au greffe
-du tribunal judiciaire. Avis en est donné au demandeur par lettre simple.
+déclaration faite ou remise contre récépissé.
 
 **Nota:**
 
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
-janvier 2020.
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -16979,7 +16976,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+  - Décret n°2019-913 du 30 août 2019 - art. 20
 
 _Cite_:
 
