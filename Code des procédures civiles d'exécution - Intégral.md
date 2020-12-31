@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2020-01-01 00:00:01 +0100
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -87,7 +87,7 @@ Version Consolidée au 2020-01-01 00:00:01 +0100
         - [Chapitre Ier : Dispositions générales (art. L521-1)](#84)
         - [Chapitre II : La saisie conservatoire  sur les biens meubles corporels (art. L522-1)](#85)
         - [Chapitre III : La saisie conservatoire des créances (art. L523-1 à L523-2)](#86)
-          - [Section 1 : Les opérations de saisie (art. L523-1)](#87)
+          - [Section 1 : Les opérations de saisie (art. L523-1 à L523-1-1)](#87)
           - [Section 2 : La conversion en saisie-attribution (art. L523-2)](#88)
       - [TITRE III : LES SÛRETÉS JUDICIAIRES (art. L531-1 à L533-1)](#89)
         - [Chapitre Ier : Dispositions générales (art. L531-1 à L531-2)](#90)
@@ -1842,6 +1842,23 @@ _Créé par_:
 _Cité par_:
 
   - Code monétaire et financier - art. R518-40 (V)
+
+
+###### Article L211-1-1
+
+Lorsque le tiers saisi est un établissement habilité par la loi à tenir des comptes de dépôt, les actes lui sont transmis par
+voie électronique.
+
+**Nota:**
+
+Conformément au VI de l'article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur le 1er janvier
+2021.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 15
 
 
 ###### Article L211-2
@@ -4284,6 +4301,27 @@ _Cite_:
 _Cité par_:
 
   - Code des procédures civiles d'exécution - art. L521-1 (VD)
+
+
+###### Article L523-1-1
+
+Lorsque le tiers saisi est un établissement habilité par la loi à tenir des comptes de dépôt, les actes lui sont transmis par
+voie électronique.
+
+**Nota:**
+
+Conformément au VI de l'article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur le 1er janvier
+2021.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 15
+
+_Cité par_:
+
+  - Décret n°2019-992 du 26 septembre 2019 (V)
 
 
 ##### Section 2 : La conversion en saisie-attribution<a id=88></a>
@@ -18228,26 +18266,32 @@ _Créé par_:
 ###### Article R523-3
 
 Dans un délai de huit jours, à peine de caducité, la saisie conservatoire est dénoncée au débiteur par acte d'huissier de
-justice. 
+justice.
 
-Cet acte contient à peine de nullité : 
+Cet acte contient à peine de nullité :
 
 1° Une copie de l'autorisation du juge ou du titre en vertu duquel la saisie a été pratiquée ; toutefois, s'il s'agit d'une
 obligation notariée ou d'une créance de l'Etat, des collectivités territoriales ou de leurs établissements publics, il est
-seulement fait mention de la date, de la nature du titre ainsi que du montant de la dette ; 
+seulement fait mention de la date, de la nature du titre ainsi que du montant de la dette ;
 
-2° Une copie du procès-verbal de saisie ; 
+2° Une copie du procès-verbal de saisie et la reproduction des renseignements communiqués par le tiers saisi si l'acte lui a
+été signifié par voie électronique ;
 
 3° La mention, en caractères très apparents, du droit qui appartient au débiteur, si les conditions de validité de la saisie
-ne sont pas réunies, d'en demander la mainlevée au juge de l'exécution du lieu de son domicile ; 
+ne sont pas réunies, d'en demander la mainlevée au juge de l'exécution du lieu de son domicile ;
 
 4° La désignation de la juridiction devant laquelle seront portées les autres contestations, notamment celles relatives à
-l'exécution de la saisie ; 
+l'exécution de la saisie ;
 
-5° La reproduction des articles R. 511-1 à R. 512-3 ; 
+5° La reproduction des articles R. 511-1 à R. 512-3 ;
 
 6° L'indication, en cas de saisie de compte, du montant de la somme à caractère alimentaire laissée à la disposition du
 débiteur en application de l'article R. 162-2 ainsi que du ou des comptes sur lesquels cette mise à disposition est opérée.
+
+**Nota:**
+
+Conformément à l'article 16 du décret 2019-992, les articles 12 et 13 s'appliquent aux actes de saisie signifiés aux tiers à
+compter du 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -18259,19 +18303,19 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
-
-  - Décret n°2012-783 du 30 mai 2012 - art.
-
 _Cité par_:
 
   - Décret n°2016-230 du 26 février 2016 - art.
   - Code des procédures civiles d'exécution - art. R641-1 (V)
 
+_Modifié par_:
+
+  - Décret n°2019-992 du 26 septembre 2019 - art. 12
+
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. R162-2 (V)
-  - Code des procédures civiles d'exécution - art. R511-1 (V)
+  - Code des procédures civiles d'exécution - art. R162-2
+  - Code des procédures civiles d'exécution - art. R511-1
 
 
 ###### Article R523-4
@@ -18279,7 +18323,17 @@ _Cite_:
 Le tiers saisi est tenu de fournir sur-le-champ à l'huissier de justice les renseignements prévus à l'article L. 211-3 et de
 lui communiquer les pièces justificatives. 
 
-Il en est fait mention dans l'acte de saisie.
+Il en est fait mention dans l'acte de saisie. 
+
+Si l'acte de saisie est signifié par voie électronique, le tiers saisi est tenu de communiquer à l'huissier de justice, par
+la même voie, les renseignements et pièces justificatives mentionnés au premier alinéa. Cette communication doit être
+effectuée au plus tard le premier jour ouvré suivant la signification, sous réserve des dispositions prévues à l'article
+748-7 du code de procédure civile.
+
+**Nota:**
+
+Conformément à l'article 16 du décret 2019-992, les articles 12 et 13 s'appliquent aux actes de saisie signifiés aux tiers à
+compter du 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -18291,13 +18345,14 @@ _Codifié par_:
 
   - Décret n°2012-783 du 30 mai 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art.
+  - Décret n°2019-992 du 26 septembre 2019 - art. 13
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. L211-3 (V)
+  - Code de procédure civile - art. 748-7
+  - Code des procédures civiles d'exécution - art. L211-3
 
 
 ###### Article R523-5
