@@ -1,5 +1,5 @@
 # Code des procédures civiles d'exécution  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L651-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES (art. L111-1 à L162-2)](#2)
@@ -87,7 +87,7 @@ Version Consolidée au 2020-01-01
         - [Chapitre Ier : Dispositions générales (art. L521-1)](#84)
         - [Chapitre II : La saisie conservatoire  sur les biens meubles corporels (art. L522-1)](#85)
         - [Chapitre III : La saisie conservatoire des créances (art. L523-1 à L523-2)](#86)
-          - [Section 1 : Les opérations de saisie (art. L523-1)](#87)
+          - [Section 1 : Les opérations de saisie (art. L523-1 à L523-1-1)](#87)
           - [Section 2 : La conversion en saisie-attribution (art. L523-2)](#88)
       - [TITRE III : LES SÛRETÉS JUDICIAIRES (art. L531-1 à L533-1)](#89)
         - [Chapitre Ier : Dispositions générales (art. L531-1 à L531-2)](#90)
@@ -1815,6 +1815,23 @@ _Créé par_:
 _Cité par_:
 
   - Code monétaire et financier - art. R518-40 (V)
+
+
+###### Article L211-1-1
+
+Lorsque le tiers saisi est un établissement habilité par la loi à tenir des comptes de dépôt, les actes lui sont transmis par
+voie électronique.
+
+**Nota:**
+
+Conformément au VI de l'article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur le 1er janvier
+2021.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 15
 
 
 ###### Article L211-2
@@ -4216,6 +4233,23 @@ _Cite_:
 _Cité par_:
 
   - Code des procédures civiles d'exécution - art. L521-1 (VD)
+
+
+###### Article L523-1-1
+
+Lorsque le tiers saisi est un établissement habilité par la loi à tenir des comptes de dépôt, les actes lui sont transmis par
+voie électronique.
+
+**Nota:**
+
+Conformément au VI de l'article 109 de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur le 1er janvier
+2021.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 15
 
 
 ##### Section 2 : La conversion en saisie-attribution<a id=88></a>
